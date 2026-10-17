@@ -46,6 +46,7 @@ for (const slug of selection.selected) {
     continue;
   }
   checkImage(g.image, `${slug} hero`);
+  checkImage(g.logo, `${slug} logo`);
   g.gallery.forEach((img, i) => checkImage(img, `${slug} gallery[${i}]`));
   g.members.forEach((m) => checkImage(m.image, `${slug} member ${m.name}`));
   if (!g.image) warnings.push(`${slug}: no hero photo, the monogram fallback will show`);

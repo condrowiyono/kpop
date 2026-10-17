@@ -28,6 +28,8 @@ export const groupSchema = z.object({
   accent: z.string().regex(/^#[0-9A-F]{6}$/i),
   members: z.array(z.object({ name: z.string(), image: imageRefSchema.optional() })),
   image: imageRefSchema.optional(),
+  /** Wordmark from Wikidata's "logo image" (P154), kept as a transparent PNG or SVG. */
+  logo: imageRefSchema.optional(),
   gallery: z.array(imageRefSchema),
   wikiUrl: z.string().url(),
   fandomUrl: z.string().url().optional(),

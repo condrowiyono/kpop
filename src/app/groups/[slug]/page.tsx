@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, ExternalLink } from "lucide-react";
+import { GroupLogoTitle } from "@/components/group-logo-title";
 import { GroupPhoto } from "@/components/group-photo";
 import { PlatformLinks } from "@/components/platform-links";
 import { AwardTimeline } from "@/components/group/award-timeline";
@@ -129,7 +130,11 @@ export default async function GroupPage({ params }: PageProps<"/groups/[slug]">)
           <p className="tabular font-display text-2xl font-bold">
             No. {rank} <span className="font-sans text-sm font-medium text-white/85">of {total} by total wins</span>
           </p>
-          <h1 className="font-display text-[clamp(3.5rem,13vw,9rem)] leading-[0.85] font-extrabold tracking-tight uppercase">{g.name}</h1>
+          <GroupLogoTitle
+            name={g.name}
+            logo={g.logo}
+            className="block font-display text-[clamp(3.5rem,13vw,9rem)] leading-[0.85] font-extrabold tracking-tight uppercase"
+          />
           <p className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-base text-white/90">
             {g.nameKo && <span lang="ko" className="text-lg font-semibold">{g.nameKo}</span>}
             <span>
@@ -335,10 +340,11 @@ export default async function GroupPage({ params }: PageProps<"/groups/[slug]">)
             <h2 className="mb-4 font-display text-3xl font-extrabold tracking-tight uppercase">Photo credits</h2>
             <details className="text-sm text-ink-2">
               <summary className="cursor-pointer py-2 font-medium text-ink">
-                {[g.image, ...g.gallery, ...g.members.map((m) => m.image)].filter(Boolean).length} photos from Wikimedia Commons
+                {[g.image, g.logo, ...g.gallery, ...g.members.map((m) => m.image)].filter(Boolean).length} images from Wikimedia Commons
               </summary>
               <ul className="mt-2 space-y-1.5 break-words">
                 {g.image && credit(g.image, "Header")}
+                {g.logo && credit(g.logo, "Logo")}
                 {g.gallery.map((img, i) => credit(img, `Gallery ${i + 1}`))}
                 {g.members.map((m) => m.image && credit(m.image, m.name))}
               </ul>

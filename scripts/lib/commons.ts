@@ -117,3 +117,16 @@ export async function saveImage(
     return { src: `/${publicDir}/${baseName}${ext}`, ...rest };
   }
 }
+
+/**
+ * Downloads a logo without the JPEG conversion saveImage does, so transparency survives.
+ * SVG files come back from Commons as PNG thumbnails at the requested width.
+ */
+export async function saveLogo(ref: Omit<ImageRef, "src"> & { url: string }, baseName: string): Promise<ImageRef> {
+  const ext = (path.extname(new URL(ref.url).pathname) || ".png").toLowerCase();
+  const rel = `images/logos/${baseName}${ext}`;
+  const { url: _url, ...rest } = ref;
+  const abs = path.join(process.cwd(), "public", rel);
+  if (!existsSync(abs)) await download(ref.url, abs);
+  return { src: `/${rel}`, ...rest };
+}

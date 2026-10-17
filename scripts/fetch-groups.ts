@@ -8,7 +8,7 @@
 import * as cheerio from "cheerio";
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { GROUP_SOURCES, type GroupSource } from "./groups.config";
-import { categoryFiles, commonsFiles, commonsInfoToRef, saveImage, subcategories, type ImageRef } from "./lib/commons";
+import { categoryFiles, commonsFiles, commonsInfoToRef, saveImage, saveLogo, subcategories, type ImageRef } from "./lib/commons";
 import { fetchJson } from "./lib/http";
 import { clean, parsePage } from "./lib/wiki";
 
@@ -80,6 +80,7 @@ export type GroupRecord = {
   accent: string;
   members: Member[];
   image?: ImageRef;
+  logo?: ImageRef;
   gallery: ImageRef[];
   wikiUrl: string;
   fandomUrl?: string;
@@ -170,13 +171,35 @@ async function wikiMemberLinks(g: GroupSource): Promise<{ name: string; title: s
     .filter((m) => m.name && m.title && !m.title.startsWith("#") && !/^(Help|File):/.test(m.title));
 }
 
-async function commonsCategory(qid?: string): Promise<string | undefined> {
-  if (!qid) return undefined;
-  const data = await fetchJson<{ entities: Record<string, { claims: Record<string, { mainsnak: { datavalue?: { value: string } } }[]> }> }>(
+type WikidataClaims = Record<string, { mainsnak: { datavalue?: { value: string } } }[]>;
+
+/** Commons category (P373) and logo file (P154) from the group's Wikidata item. */
+async function wikidataFacts(qid?: string): Promise<{ category?: string; logoFile?: string }> {
+  if (!qid) return {};
+  const data = await fetchJson<{ entities: Record<string, { claims: WikidataClaims }> }>(
     `https://www.wikidata.org/wiki/Special:EntityData/${qid}.json`,
   );
-  const v = data.entities[qid]?.claims?.P373?.[0]?.mainsnak.datavalue?.value;
-  return v ? `Category:${v}` : undefined;
+  const claims = data.entities[qid]?.claims ?? {};
+  const cat = claims.P373?.[0]?.mainsnak.datavalue?.value;
+  // The newest logo is usually listed last.
+  const logos = claims.P154 ?? [];
+  const logoFile = logos[logos.length - 1]?.mainsnak.datavalue?.value;
+  return { category: cat ? `Category:${cat}` : undefined, logoFile };
+}
+
+/** Hand-picked Commons logo files, for groups whose Wikidata item has none or an outdated one. */
+const LOGO_OVERRIDES: Record<string, string> = {};
+
+async function groupLogo(slug: string, file?: string): Promise<ImageRef | undefined> {
+  file = LOGO_OVERRIDES[slug] ?? file;
+  if (!file) return undefined;
+  const info = (await commonsFiles([file], 800)).get(`File:${file.replace(/_/g, " ")}`);
+  const ref = info && commonsInfoToRef(info);
+  if (!ref) {
+    console.warn(`  ! ${slug} logo is not freely licensed or missing`);
+    return undefined;
+  }
+  return saveLogo(ref, slug);
 }
 
 async function gallery(slug: string, category: string | undefined, heroSource?: string): Promise<ImageRef[]> {
@@ -249,7 +272,8 @@ async function buildGroup(g: GroupSource): Promise<GroupRecord> {
     else console.warn(`  ! ${g.slug} infobox image is not freely licensed`);
   }
 
-  const category = await commonsCategory(main?.pageprops?.wikibase_item);
+  const { category, logoFile } = await wikidataFacts(main?.pageprops?.wikibase_item);
+  const logo = await groupLogo(g.slug, logoFile);
   const galleryImages = await gallery(g.slug, category, image?.sourceUrl);
 
   // Members: Fandom gives the current roster; Wikipedia links give each member's own article photo.
@@ -292,6 +316,7 @@ async function buildGroup(g: GroupSource): Promise<GroupRecord> {
     accent,
     members,
     image,
+    logo,
     gallery: galleryImages,
     wikiUrl: `https://en.wikipedia.org/wiki/${encodeURIComponent(g.wiki.replace(/ /g, "_"))}`,
     fandomUrl: profile?.url,
@@ -311,7 +336,7 @@ async function main() {
     const rec = await buildGroup(g);
     bySlug.set(g.slug, rec);
     console.log(
-      `${g.slug}: hero=${rec.image ? "yes" : "NO"} gallery=${rec.gallery.length} members=${rec.members.length} ` +
+      `${g.slug}: hero=${rec.image ? "yes" : "NO"} logo=${rec.logo ? "yes" : "no"} gallery=${rec.gallery.length} members=${rec.members.length} ` +
         `(${rec.members.filter((m) => m.image).length} photos) colors=${rec.colors.length} fandom=${rec.fandom ?? "-"}`,
     );
   }
