@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Static site: `npm run build` writes the whole site to out/, and the Worker only serves those files.
+  "name": "kpop",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./out",
+    // Pages are exported as /path/index.html, so /about redirects to /about/.
+    "html_handling": "force-trailing-slash",
+    // Unknown URLs get the site's own 404 page with a 404 status.
+    "not_found_handling": "404-page"
+  }
+}
