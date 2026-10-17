@@ -1,0 +1,1243 @@
+[
+ {
+  "id": "asea-2026-song-of-the-year-jump",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "brand-of-the-year-2026-female-idol-indonesia",
+  "year": 2026,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol (Indonesia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "gda-2026-best-digital-song-bonsang-jump",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "kwda-2026-best-album-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Best Album Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "music-awards-japan-2026-best-k-pop-song-in-japan-jump",
+  "year": 2026,
+  "ceremonyId": "music-awards-japan",
+  "category": "Best K-Pop Song in Japan",
+  "tier": "category",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "tmea-2026-the-best-song-of-the-year-jump",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "The Best Song of the Year",
+  "tier": "category",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "inkigayo-2026-03-15",
+  "year": 2026,
+  "date": "2026-03-15",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Go",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-go"
+ },
+ {
+  "id": "m-countdown-2026-03-12",
+  "year": 2026,
+  "date": "2026-03-12",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Go",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-go"
+ },
+ {
+  "id": "show-champion-2026-03-11",
+  "year": 2026,
+  "date": "2026-03-11",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Go",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-go"
+ },
+ {
+  "id": "aaa-2025-legendary-group-female",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Legendary Group – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "apma-2025-top-20-songs-of-the-year-jump",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year",
+  "tier": "category",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "vmas-2025-best-group",
+  "year": 2025,
+  "ceremonyId": "vmas",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "music-core-2025-08-23",
+  "year": 2025,
+  "date": "2025-08-23",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "inkigayo-2025-08-17",
+  "year": 2025,
+  "date": "2025-08-17",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "music-core-2025-08-16",
+  "year": 2025,
+  "date": "2025-08-16",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "inkigayo-2025-08-10",
+  "year": 2025,
+  "date": "2025-08-10",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "inkigayo-2025-08-03",
+  "year": 2025,
+  "date": "2025-08-03",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "music-core-2025-08-02",
+  "year": 2025,
+  "date": "2025-08-02",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "m-countdown-2025-07-31",
+  "year": 2025,
+  "date": "2025-07-31",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "m-countdown-2025-07-24",
+  "year": 2025,
+  "date": "2025-07-24",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "show-champion-2025-07-23",
+  "year": 2025,
+  "date": "2025-07-23",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "m-countdown-2025-07-17",
+  "year": 2025,
+  "date": "2025-07-17",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jump",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-jump"
+ },
+ {
+  "id": "circle-2024-social-hot-star-of-the-year",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Social Hot Star of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "sma-2024-world-best-artist",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "World Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas-the-girls",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "The Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-the-girls"
+ },
+ {
+  "id": "bbmas-2023-top-k-pop-touring-artist",
+  "year": 2023,
+  "ceremonyId": "bbmas",
+  "category": "Top K-Pop Touring Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "breaktudo-2023-international-fandom-of-the-year",
+  "year": 2023,
+  "ceremonyId": "breaktudo",
+  "category": "International Fandom of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-global-digital-music-august-pink-venom",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Digital Music (August)",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-global-digital-music-september-shut-down",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Digital Music (September)",
+  "tier": "category",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "circle-2023-female-group-of-the-year",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Female Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "circle-2023-mubeat-global-choice-award-female",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Mubeat Global Choice Award – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "gda-2023-best-album-bonsang-born-pink",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Born Pink",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-born-pink"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "hanteo-2023-global-artist-south-america",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – South America",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "miaw-2023-k-pop-domination",
+  "year": 2023,
+  "ceremonyId": "miaw",
+  "category": "K-Pop Domination",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "sec-2023-international-group-duo-of-the-year",
+  "year": 2023,
+  "ceremonyId": "sec",
+  "category": "International Group/Duo of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "sma-2023-main-prize-bonsang-born-pink",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "work": "Born Pink",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-born-pink"
+ },
+ {
+  "id": "vmas-2023-best-choreography-pink-venom",
+  "year": 2023,
+  "ceremonyId": "vmas",
+  "category": "Best Choreography",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "vmas-2023-group-of-the-year",
+  "year": 2023,
+  "ceremonyId": "vmas",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "webby-2023-best-partnership-or-collaboration-features-social",
+  "year": 2023,
+  "ceremonyId": "webby",
+  "category": "Best Partnership or Collaboration, Features (Social)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "aaa-2022-dcm-popularity-award-female-singer",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "DCM Popularity Award – Female Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "apma-2022-best-album-of-the-year-overseas-born-pink",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Best Album of the Year (Overseas)",
+  "tier": "category",
+  "work": "Born Pink",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-born-pink"
+ },
+ {
+  "id": "apma-2022-song-of-the-year-overseas-pink-venom",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Song of the Year (Overseas)",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "apma-2022-top-20-songs-of-the-year-overseas-pink-venom",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "apma-2022-top-20-albums-of-the-year-overseas-born-pink",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Born Pink",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-born-pink"
+ },
+ {
+  "id": "breaktudo-2022-international-music-video-pink-venom",
+  "year": 2022,
+  "ceremonyId": "breaktudo",
+  "category": "International Music Video",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "breaktudo-2022-k-pop-girl-group",
+  "year": 2022,
+  "ceremonyId": "breaktudo",
+  "category": "K-pop Girl Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "capricho-2022-group-of-the-year",
+  "year": 2022,
+  "ceremonyId": "capricho",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "ema-2022-best-metaverse-performance",
+  "year": 2022,
+  "ceremonyId": "ema",
+  "category": "Best Metaverse Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "mama-2022-best-female-group",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "mama-2022-best-music-video-pink-venom",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "mama-2022-worldwide-fans-choice-top-10",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "rthk-2022-top-album-award-korean-born-pink",
+  "year": 2022,
+  "ceremonyId": "rthk",
+  "category": "Top Album Award – Korean",
+  "tier": "category",
+  "work": "Born Pink",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-born-pink"
+ },
+ {
+  "id": "seoul-success-2022-popular-culture-grand-prize-singer",
+  "year": 2022,
+  "ceremonyId": "seoul-success",
+  "category": "Popular Culture Grand Prize – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "vmaj-2022-best-group-video-international-pink-venom",
+  "year": 2022,
+  "ceremonyId": "vmaj",
+  "category": "Best Group Video (International)",
+  "tier": "category",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "vmas-2022-best-metaverse-performance",
+  "year": 2022,
+  "ceremonyId": "vmas",
+  "category": "Best Metaverse Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "inkigayo-2022-10-16",
+  "year": 2022,
+  "date": "2022-10-16",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "inkigayo-2022-10-09",
+  "year": 2022,
+  "date": "2022-10-09",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "music-core-2022-10-08",
+  "year": 2022,
+  "date": "2022-10-08",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "m-countdown-2022-10-06",
+  "year": 2022,
+  "date": "2022-10-06",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "show-champion-2022-10-05",
+  "year": 2022,
+  "date": "2022-10-05",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "inkigayo-2022-10-02",
+  "year": 2022,
+  "date": "2022-10-02",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "m-countdown-2022-09-29",
+  "year": 2022,
+  "date": "2022-09-29",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "show-champion-2022-09-28",
+  "year": 2022,
+  "date": "2022-09-28",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "inkigayo-2022-09-25",
+  "year": 2022,
+  "date": "2022-09-25",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "m-countdown-2022-09-22",
+  "year": 2022,
+  "date": "2022-09-22",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "show-champion-2022-09-21",
+  "year": 2022,
+  "date": "2022-09-21",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Shut Down",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-shut-down"
+ },
+ {
+  "id": "inkigayo-2022-09-18",
+  "year": 2022,
+  "date": "2022-09-18",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "m-countdown-2022-09-08",
+  "year": 2022,
+  "date": "2022-09-08",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "inkigayo-2022-09-04",
+  "year": 2022,
+  "date": "2022-09-04",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "m-countdown-2022-09-01",
+  "year": 2022,
+  "date": "2022-09-01",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "m-countdown-2022-08-25",
+  "year": 2022,
+  "date": "2022-08-25",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "show-champion-2022-08-24",
+  "year": 2022,
+  "date": "2022-08-24",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Pink Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-pink-venom"
+ },
+ {
+  "id": "aaa-2021-u-idol-live-popularity-award-female-group",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "U+Idol Live Popularity Award – Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "apan-2021-best-music-video",
+  "year": 2021,
+  "ceremonyId": "apan",
+  "category": "Best Music Video",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "apan-2021-idol-champ-global-pick-group",
+  "year": 2021,
+  "ceremonyId": "apan",
+  "category": "Idol Champ Global Pick – Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "breaktudo-2021-international-fandom",
+  "year": 2021,
+  "ceremonyId": "breaktudo",
+  "category": "International Fandom",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "breaktudo-2021-international-group",
+  "year": 2021,
+  "ceremonyId": "breaktudo",
+  "category": "International Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "breaktudo-2021-international-music-video-lovesick-girls",
+  "year": 2021,
+  "ceremonyId": "breaktudo",
+  "category": "International Music Video",
+  "tier": "category",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "breaktudo-2021-k-pop-female-group",
+  "year": 2021,
+  "ceremonyId": "breaktudo",
+  "category": "K-pop Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "circle-2021-artist-of-the-year-digital-music-june-how-you-like-that",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Digital Music (June)",
+  "tier": "category",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "circle-2021-artist-of-the-year-digital-music-october-lovesick-girls",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Digital Music (October)",
+  "tier": "category",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "circle-2021-mubeat-global-choice-award-female",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Mubeat Global Choice Award – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "circle-2021-social-hot-star-of-the-year",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Social Hot Star of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "gda-2021-best-album-bonsang-the-album",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "The Album",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-the-album"
+ },
+ {
+  "id": "gda-2021-best-digital-song-bonsang-how-you-like-that",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "korea-first-brand-2021-best-female-idol",
+  "year": 2021,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "miaw-br-2021-global-hit-lovesick-girls",
+  "year": 2021,
+  "ceremonyId": "miaw-br",
+  "category": "Global Hit",
+  "tier": "category",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "rthk-2021-top-ten-international-gold-songs-lovesick-girls",
+  "year": 2021,
+  "ceremonyId": "rthk",
+  "category": "Top Ten International Gold Songs",
+  "tier": "category",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "tokopedia-wib-2021-the-most-pretty-savage",
+  "year": 2021,
+  "ceremonyId": "tokopedia-wib",
+  "category": "The Most Pretty Savage",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "weibo-starlight-2021-favorite-collaboration-ice-cream",
+  "year": 2021,
+  "ceremonyId": "weibo-starlight",
+  "category": "Favorite Collaboration",
+  "tier": "category",
+  "work": "Ice Cream",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-ice-cream"
+ },
+ {
+  "id": "apma-2020-best-album-overseas-the-album",
+  "year": 2020,
+  "ceremonyId": "apma",
+  "category": "Best Album (Overseas)",
+  "tier": "category",
+  "work": "The Album",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "album-the-album"
+ },
+ {
+  "id": "apma-2020-best-group-overseas",
+  "year": 2020,
+  "ceremonyId": "apma",
+  "category": "Best Group (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "bugs-2020-20th-anniversary-awards-most-loved-music-ddu-du-ddu-du",
+  "year": 2020,
+  "ceremonyId": "bugs",
+  "category": "20th Anniversary Awards – Most Loved Music",
+  "tier": "category",
+  "work": "Ddu-Du Ddu-Du",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-ddu-du-ddu-du"
+ },
+ {
+  "id": "iheart-2020-favourite-music-video-choreography-kill-this-love",
+  "year": 2020,
+  "ceremonyId": "iheart",
+  "category": "Favourite Music Video Choreography",
+  "tier": "category",
+  "work": "Kill This Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-kill-this-love"
+ },
+ {
+  "id": "joox-hk-2020-fan-favorite-k-pop-how-you-like-that",
+  "year": 2020,
+  "ceremonyId": "joox-hk",
+  "category": "Fan Favorite K-Pop",
+  "tier": "category",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "joox-th-2020-k-pop-artist-of-the-year",
+  "year": 2020,
+  "ceremonyId": "joox-th",
+  "category": "K-Pop Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "mama-2020-2020-visionary",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "2020 Visionary",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "mama-2020-best-dance-performance-female-group-how-you-like-that",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance Female Group",
+  "tier": "category",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "mama-2020-best-female-group",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "mama-2020-worldwide-fans-choice-top-10",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "miaw-br-2020-best-international-feature-sour-candy",
+  "year": 2020,
+  "ceremonyId": "miaw-br",
+  "category": "Best International Feature",
+  "tier": "category",
+  "work": "Sour Candy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-sour-candy"
+ },
+ {
+  "id": "mma-2020-best-dance-female-how-you-like-that",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Best Dance – Female",
+  "tier": "category",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "mma-2020-top-10-artists",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artists",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "qq-boom-2020-most-popular-overseas-group",
+  "year": 2020,
+  "ceremonyId": "qq-boom",
+  "category": "Most Popular Overseas Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "spotify-awards-2020-most-listened-k-pop-artist-female",
+  "year": 2020,
+  "ceremonyId": "spotify-awards",
+  "category": "Most Listened K-pop Artist (Female)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "tmea-2020-best-overseas-group",
+  "year": 2020,
+  "ceremonyId": "tmea",
+  "category": "Best Overseas Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "variety-hitmakers-2020-group-of-the-year",
+  "year": 2020,
+  "ceremonyId": "variety-hitmakers",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink"
+ },
+ {
+  "id": "vmas-2020-song-of-summer-how-you-like-that",
+  "year": 2020,
+  "ceremonyId": "vmas",
+  "category": "Song of Summer",
+  "tier": "category",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Blackpink",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "inkigayo-2020-10-25",
+  "year": 2020,
+  "date": "2020-10-25",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "inkigayo-2020-10-18",
+  "year": 2020,
+  "date": "2020-10-18",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "music-bank-2020-10-16",
+  "year": 2020,
+  "date": "2020-10-16",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "m-countdown-2020-10-15",
+  "year": 2020,
+  "date": "2020-10-15",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "show-champion-2020-10-14",
+  "year": 2020,
+  "date": "2020-10-14",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "inkigayo-2020-10-11",
+  "year": 2020,
+  "date": "2020-10-11",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lovesick Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-lovesick-girls"
+ },
+ {
+  "id": "music-bank-2020-07-31",
+  "year": 2020,
+  "date": "2020-07-31",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "show-champion-2020-07-29",
+  "year": 2020,
+  "date": "2020-07-29",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "music-core-2020-07-25",
+  "year": 2020,
+  "date": "2020-07-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "inkigayo-2020-07-19",
+  "year": 2020,
+  "date": "2020-07-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "music-core-2020-07-18",
+  "year": 2020,
+  "date": "2020-07-18",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "m-countdown-2020-07-16",
+  "year": 2020,
+  "date": "2020-07-16",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "show-champion-2020-07-15",
+  "year": 2020,
+  "date": "2020-07-15",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "inkigayo-2020-07-12",
+  "year": 2020,
+  "date": "2020-07-12",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "music-core-2020-07-11",
+  "year": 2020,
+  "date": "2020-07-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "music-bank-2020-07-10",
+  "year": 2020,
+  "date": "2020-07-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "m-countdown-2020-07-09",
+  "year": 2020,
+  "date": "2020-07-09",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "show-champion-2020-07-08",
+  "year": 2020,
+  "date": "2020-07-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-how-you-like-that"
+ },
+ {
+  "id": "inkigayo-2020-07-05",
+  "year": 2020,
+  "date": "2020-07-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How You Like That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-how-you-like-that"
+ }
+]

@@ -1,0 +1,623 @@
+[
+ {
+  "id": "song-2-0",
+  "title": "2.0",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%202.0",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/2-0/1885720384?i=1885720394",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=YF4EN5YwjpA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-03-20",
+  "album": "ARIRANG",
+  "artwork": "/images/releases/bts-song-2-0.jpg"
+ },
+ {
+  "id": "album-bang-bang-con-the-live",
+  "title": "Bang Bang Con: The Live",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Bang%20Bang%20Con%3A%20The%20Live",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Bang%20Bang%20Con%3A%20The%20Live",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20Bang%20Bang%20Con%3A%20The%20Live",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-be",
+  "title": "Be",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/be/1596532185",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_M6GxuQGhwkR",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-11-20",
+  "artwork": "/images/releases/bts-album-be.jpg"
+ },
+ {
+  "id": "song-boy-with-luv",
+  "title": "Boy with Luv",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Boy%20with%20Luv",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/boy-with-luv-feat-halsey/1599171924?i=1599172208",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Q-erYa8cwnc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-04-12",
+  "album": "MAP OF THE SOUL : PERSONA",
+  "artwork": "/images/releases/bts-song-boy-with-luv.jpg"
+ },
+ {
+  "id": "album-break-the-silence-the-movie",
+  "title": "Break the Silence: The Movie",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Break%20the%20Silence%3A%20The%20Movie",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Break%20the%20Silence%3A%20The%20Movie",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20Break%20the%20Silence%3A%20The%20Movie",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-bts",
+  "title": "BTS",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20BTS",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20BTS",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20BTS",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-bts-2021-muster-sowoozoo",
+  "title": "BTS 2021 Muster Sowoozoo",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20BTS%202021%20Muster%20Sowoozoo",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20BTS%202021%20Muster%20Sowoozoo",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20BTS%202021%20Muster%20Sowoozoo",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-bts-carpool-karaoke",
+  "title": "BTS Carpool karaoke",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20BTS%20Carpool%20karaoke",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20BTS%20Carpool%20karaoke",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20BTS%20Carpool%20karaoke",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-bts-the-best",
+  "title": "BTS, the Best",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20BTS%2C%20the%20Best",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bts-the-best/1570209078",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_mwezrlIBAuD",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-06-16",
+  "artwork": "/images/releases/bts-album-bts-the-best.jpg"
+ },
+ {
+  "id": "song-butter",
+  "title": "Butter",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/butter/1627573936?i=1627575769",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=NNCBq0JHXsU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-05-21",
+  "album": "Proof",
+  "artwork": "/images/releases/bts-song-butter.jpg"
+ },
+ {
+  "id": "song-dear-class-of-2020",
+  "title": "Dear Class of 2020",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Dear%20Class%20of%202020",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Dear%20Class%20of%202020",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20Dear%20Class%20of%202020",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-dynamite",
+  "title": "Dynamite",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dynamite/1596532185?i=1596532400",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=HaEYUJ2aRHs",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-08-21",
+  "album": "BE",
+  "artwork": "/images/releases/bts-song-dynamite.jpg"
+ },
+ {
+  "id": "song-hooligan",
+  "title": "Hooligan",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Hooligan",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hooligan/1868481904?i=1868481906",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=lKgzkmTKvHU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-03-20",
+  "album": "ARIRANG",
+  "artwork": "/images/releases/bts-song-hooligan.jpg"
+ },
+ {
+  "id": "song-life-goes-on",
+  "title": "Life Goes On",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Life%20Goes%20On",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/life-goes-on/1596532185?i=1596532189",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Q6CRKXKpdSM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-11-20",
+  "album": "BE",
+  "artwork": "/images/releases/bts-song-life-goes-on.jpg"
+ },
+ {
+  "id": "song-lights",
+  "title": "Lights",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Lights",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lights/1517969553?i=1517969730",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=jv4yLr2N4yI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-07-03",
+  "album": "MAP OF THE SOUL : 7 ~ THE JOURNEY ~",
+  "artwork": "/images/releases/bts-song-lights.jpg"
+ },
+ {
+  "id": "song-lights-boy-with-luv",
+  "title": "Lights/Boy with Luv",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Lights%2FBoy%20with%20Luv",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Lights%2FBoy%20with%20Luv",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20Lights%2FBoy%20with%20Luv",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-map-of-the-soul-on-e",
+  "title": "Map of the Soul ON:E",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Map%20of%20the%20Soul%20ON%3AE",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Map%20of%20the%20Soul%20ON%3AE",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20Map%20of%20the%20Soul%20ON%3AE",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-map-of-the-soul-7",
+  "title": "Map of the Soul: 7",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Map%20of%20the%20Soul%3A%207",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/map-of-the-soul-7/1599362484",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_GakNi5Ht7Du",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-02-21",
+  "artwork": "/images/releases/bts-album-map-of-the-soul-7.jpg"
+ },
+ {
+  "id": "album-map-of-the-soul-7-the-journey",
+  "title": "Map of the Soul: 7 – The Journey",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/map-of-the-soul-7-the-journey/1517969553",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_LcRBJVHH4yO",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-07-14",
+  "artwork": "/images/releases/bts-album-map-of-the-soul-7-the-journey.jpg"
+ },
+ {
+  "id": "album-map-of-the-soul-persona",
+  "title": "Map of the Soul: Persona",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Map%20of%20the%20Soul%3A%20Persona",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/map-of-the-soul-persona/1599171924",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_zuAHfK8sCTR",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-04-12",
+  "artwork": "/images/releases/bts-album-map-of-the-soul-persona.jpg"
+ },
+ {
+  "id": "song-my-bts-story",
+  "title": "My BTS Story",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20My%20BTS%20Story",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20My%20BTS%20Story",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20My%20BTS%20Story",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-my-universe",
+  "title": "My Universe",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/my-universe/1576349937?i=1576350174",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=TaZkqPK0sbw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-09-24",
+  "album": "Music of the Spheres",
+  "artwork": "/images/releases/bts-song-my-universe.jpg"
+ },
+ {
+  "id": "song-on",
+  "title": "On",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20On",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/on/1599362484?i=1599362870",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=1o0CtxZ_Cbo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-02-21",
+  "album": "MAP OF THE SOUL : 7",
+  "artwork": "/images/releases/bts-song-on.jpg"
+ },
+ {
+  "id": "song-permission-to-dance",
+  "title": "Permission to Dance",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Permission%20to%20Dance",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Permission%20to%20Dance",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=LCpjdohpuEE",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "album-proof",
+  "title": "Proof",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Proof",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/proof/1627573936",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_zYOCUUrNVgD",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-06-10",
+  "artwork": "/images/releases/bts-album-proof.jpg"
+ },
+ {
+  "id": "song-swim",
+  "title": "Swim",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Swim",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/swim/1868481904?i=1868482073",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=qZTVU04UOO4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-03-20",
+  "album": "ARIRANG",
+  "artwork": "/images/releases/bts-song-swim.jpg"
+ },
+ {
+  "id": "song-take-two",
+  "title": "Take Two",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Take%20Two",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/take-two/1690421569?i=1690421575",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=lwAHfOhOONw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-06-09",
+  "album": "Take Two",
+  "artwork": "/images/releases/bts-song-take-two.jpg"
+ },
+ {
+  "id": "song-the-planet",
+  "title": "The Planet",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20The%20Planet",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-planet/1687099524?i=1687099530",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3Rh57WwV8H0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-05-12",
+  "album": "The Planet",
+  "artwork": "/images/releases/bts-song-the-planet.jpg"
+ },
+ {
+  "id": "song-who",
+  "title": "Who",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Who",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BTS%20Who",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BTS%20Who",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-yet-to-come",
+  "title": "Yet to Come",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BTS%20Yet%20to%20Come",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/yet-to-come/1627573936?i=1627575774",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Kh0OF8ZE8co",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-06-10",
+  "album": "Proof",
+  "artwork": "/images/releases/bts-song-yet-to-come.jpg"
+ }
+]

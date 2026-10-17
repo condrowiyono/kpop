@@ -1,0 +1,238 @@
+[
+ {
+  "id": "song-attention",
+  "title": "Attention",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NewJeans%20Attention",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/attention/1635469682?i=1635469694",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=kdOS94IjzzE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-08-01",
+  "album": "NewJeans 1st EP 'New Jeans'",
+  "artwork": "/images/releases/newjeans-song-attention.jpg"
+ },
+ {
+  "id": "song-ditto",
+  "title": "Ditto",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/7bnqo1fdJU9nSfXQd3bSMe",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=V6TEcoNUmc8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-12-19",
+  "album": "Ditto",
+  "artwork": "/images/releases/newjeans-song-ditto.jpg"
+ },
+ {
+  "id": "song-eta",
+  "title": "ETA",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NewJeans%20ETA",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/eta/1695951888?i=1695951900",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=XCkpalH6Ppk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-21",
+  "album": "NewJeans 2nd EP 'Get Up'",
+  "artwork": "/images/releases/newjeans-song-eta.jpg"
+ },
+ {
+  "id": "album-get-up",
+  "title": "Get Up",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=NewJeans%20Get%20Up",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=NewJeans%20Get%20Up",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-gods",
+  "title": "Gods",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/201JJAa9nJOgNaOYNrsT5g",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/gods/1833057824?i=1833057828",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=lzfyoYEGvM0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-10-04",
+  "album": "GODS",
+  "artwork": "/images/releases/newjeans-song-gods.jpg"
+ },
+ {
+  "id": "song-how-sweet",
+  "title": "How Sweet",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NewJeans%20How%20Sweet",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/how-sweet/1744448415?i=1744448416",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=vrM2mrI83uk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-24",
+  "album": "How Sweet",
+  "artwork": "/images/releases/newjeans-song-how-sweet.jpg"
+ },
+ {
+  "id": "song-hype-boy",
+  "title": "Hype Boy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hype-boy/1635469682?i=1635469851",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ghrlZIMDzbM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-08-01",
+  "album": "NewJeans 1st EP 'New Jeans'",
+  "artwork": "/images/releases/newjeans-song-hype-boy.jpg"
+ },
+ {
+  "id": "album-new-jeans",
+  "title": "New Jeans",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=NewJeans%20New%20Jeans",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=NewJeans%20New%20Jeans",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-omg",
+  "title": "OMG",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/omg/1659513441?i=1659513445",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=2Kff0U8w-aU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-01-02",
+  "album": "NewJeans 'OMG'",
+  "artwork": "/images/releases/newjeans-song-omg.jpg"
+ },
+ {
+  "id": "song-super-shy",
+  "title": "Super Shy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NewJeans%20Super%20Shy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/super-shy/1692686264?i=1692686518",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=0c7zGU2C2mM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-07",
+  "album": "NewJeans 'Super Shy'",
+  "artwork": "/images/releases/newjeans-song-super-shy.jpg"
+ },
+ {
+  "id": "song-supernatural",
+  "title": "Supernatural",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/supernatural/1750576829?i=1750576834",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8yXGI3kcLsw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-06-21",
+  "album": "Supernatural",
+  "artwork": "/images/releases/newjeans-song-supernatural.jpg"
+ }
+]

@@ -1,0 +1,1860 @@
+[
+ {
+  "id": "gda-2026-best-digital-song-bonsang-dirty-work",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Dirty Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-dirty-work"
+ },
+ {
+  "id": "korea-first-brand-2026-best-female-idol",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "korea-first-brand-2026-best-female-idol-indonesia",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol (Indonesia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "korea-first-brand-2026-best-female-idol-vietnam",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kwda-2026-best-music",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Best Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tmea-2026-international-digital-ep-of-the-year",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "International Digital EP of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tmea-2026-international-group-of-the-year",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "International Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "music-core-2026-07-11",
+  "year": 2026,
+  "date": "2026-07-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lemonade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-lemonade"
+ },
+ {
+  "id": "m-countdown-2026-06-18",
+  "year": 2026,
+  "date": "2026-06-18",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lemonade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-lemonade"
+ },
+ {
+  "id": "music-bank-2026-06-05",
+  "year": 2026,
+  "date": "2026-06-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "WDA (Whole Different Animal)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-wda-whole-different-animal"
+ },
+ {
+  "id": "apma-2025-people-s-choice-awards-rich-man",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "People's Choice Awards",
+  "tier": "category",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "apma-2025-top-20-songs-of-the-year-rich-man",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year",
+  "tier": "category",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "asea-2025-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "asea-2025-song-of-the-year-supernova",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "asea-2025-the-platinum",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "The Platinum",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "billboard-wim-2025-group-of-the-year",
+  "year": 2025,
+  "ceremonyId": "billboard-wim",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "brand-of-the-year-2025-best-female-idol-group-indonesia",
+  "year": 2025,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Best Female Idol Group (Indonesia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "brand-of-the-year-2025-best-female-idol-group-vietnam",
+  "year": 2025,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Best Female Idol Group (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "d-awards-2025-best-video",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Video",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "d-awards-2025-song-of-the-year-daesang-supernova",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Song of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "gda-2025-best-digital-song-bonsang-supernova",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "gda-2025-best-album-bonsang-armageddon",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "gda-2025-song-of-the-year-daesang-supernova",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Song of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "hanteo-2025-artists-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Artists of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "jgda-2025-best-3-new-artists-asia",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists – Asia",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "jgda-2025-new-artist-of-the-year-asia",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "New Artist of the Year – Asia",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kgma-2025-best-music-10-dirty-work",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Music 10",
+  "tier": "category",
+  "work": "Dirty Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-dirty-work"
+ },
+ {
+  "id": "kgma-2025-best-streaming-song-whiplash",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Streaming Song",
+  "tier": "category",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "kma-2025-best-k-pop-song-supernova",
+  "year": 2025,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Song",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "kma-2025-song-of-the-year-supernova",
+  "year": 2025,
+  "ceremonyId": "kma",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "kma-2025-best-k-pop-album-armageddon",
+  "year": 2025,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Album",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "korea-first-brand-2025-best-female-idol",
+  "year": 2025,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "korea-first-brand-2025-best-female-idol-vietnam",
+  "year": 2025,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kwda-2025-best-album",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Best Album",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mama-2025-best-choreography-whiplash",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Best Choreography",
+  "tier": "category",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "mama-2025-best-dance-performance-female-group-whiplash",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Female Group",
+  "tier": "category",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "mama-2025-best-female-group",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mama-2025-fans-choice-top-10-female",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Female",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2025-global-artist",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2025-stage-of-the-year",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Stage of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2025-top-10-artist",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "music-awards-japan-2025-best-song-asia-supernova",
+  "year": 2025,
+  "ceremonyId": "music-awards-japan",
+  "category": "Best Song Asia",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "sma-2025-main-prize-bonsang",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "sma-2025-world-best-artist",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "World Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2025-jury-special-prize",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Jury Special Prize",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2025-muse-of-the-year",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Muse of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tmea-2025-international-digital-album-of-the-year-armageddon",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "International Digital Album of the Year",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "tmea-2025-international-digital-ep-of-the-year-whiplash",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "International Digital EP of the Year",
+  "tier": "category",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "tmea-2025-international-group-of-the-year",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "International Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "vmaj-2025-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "vmaj",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "vmaj-2025-best-k-pop-video-armageddon",
+  "year": 2025,
+  "ceremonyId": "vmaj",
+  "category": "Best K-Pop Video",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "vmaj-2025-best-dance-video-supernova",
+  "year": 2025,
+  "ceremonyId": "vmaj",
+  "category": "Best Dance Video",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "vmaj-2025-best-group-video-international-whiplash",
+  "year": 2025,
+  "ceremonyId": "vmaj",
+  "category": "Best Group Video (International)",
+  "tier": "category",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "inkigayo-2025-10-12",
+  "year": 2025,
+  "date": "2025-10-12",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "music-core-2025-10-04",
+  "year": 2025,
+  "date": "2025-10-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "m-countdown-2025-10-02",
+  "year": 2025,
+  "date": "2025-10-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "inkigayo-2025-09-28",
+  "year": 2025,
+  "date": "2025-09-28",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "music-core-2025-09-27",
+  "year": 2025,
+  "date": "2025-09-27",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "m-countdown-2025-09-25",
+  "year": 2025,
+  "date": "2025-09-25",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "inkigayo-2025-09-21",
+  "year": 2025,
+  "date": "2025-09-21",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "music-core-2025-09-20",
+  "year": 2025,
+  "date": "2025-09-20",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "m-countdown-2025-09-18",
+  "year": 2025,
+  "date": "2025-09-18",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "show-champion-2025-09-17",
+  "year": 2025,
+  "date": "2025-09-17",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rich Man",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-rich-man"
+ },
+ {
+  "id": "inkigayo-2025-07-13",
+  "year": 2025,
+  "date": "2025-07-13",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dirty Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-dirty-work"
+ },
+ {
+  "id": "music-core-2025-07-12",
+  "year": 2025,
+  "date": "2025-07-12",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dirty Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-dirty-work"
+ },
+ {
+  "id": "m-countdown-2025-07-10",
+  "year": 2025,
+  "date": "2025-07-10",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dirty Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-dirty-work"
+ },
+ {
+  "id": "inkigayo-2025-07-06",
+  "year": 2025,
+  "date": "2025-07-06",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dirty Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-dirty-work"
+ },
+ {
+  "id": "aaa-2024-best-artist-award-music",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "apma-2024-best-album-of-the-year-overseas-armageddon",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Best Album of the Year (Overseas)",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "apma-2024-top-20-albums-of-the-year-overseas-armageddon",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "apma-2024-top-20-songs-of-the-year-overseas-supernova",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "brand-of-the-year-2024-best-female-idol-group-vietnam",
+  "year": 2024,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Best Female Idol Group (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "circle-2024-artist-of-the-year-streaming-unique-listeners-spicy",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year — Streaming Unique Listeners",
+  "tier": "category",
+  "work": "Spicy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-spicy"
+ },
+ {
+  "id": "entop-2024-best-ip-supernova",
+  "year": 2024,
+  "ceremonyId": "entop",
+  "category": "Best IP",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "gda-2024-best-album-bonsang-my-world",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "My World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "album-my-world"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "hanteo-2024-best-artist-daesang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Best Artist (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kgma-2024-best-song-10-supernova",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Song 10",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "kgma-2024-grand-song-daesang-supernova",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Grand Song (Daesang)",
+  "tier": "daesang",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "kgma-2024-grand-honor-s-choice-daesang",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Grand Honor's Choice (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kgma-2024-most-streamed-song-supernova",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Most Streamed Song",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "kmaff-2024-best-k-pop-music-video-supernova",
+  "year": 2024,
+  "ceremonyId": "kmaff",
+  "category": "Best K-pop Music Video",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "korea-first-brand-2024-best-female-idol-vietnam",
+  "year": 2024,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kwda-2024-best-artist-female-group",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "Best Artist – Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kwda-2024-best-music-video",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "Best Music Video",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kwda-2024-bonsang",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mama-2024-best-choreography-supernova",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best Choreography",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "mama-2024-best-dance-performance-female-group-supernova",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Female Group",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "mama-2024-best-female-group",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mama-2024-song-of-the-year-supernova",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "mama-2024-best-music-video-armageddon",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "mama-2024-worldwide-fans-choice-top-10-female",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10 – Female",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2024-album-of-the-year-armageddon",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "mma-2024-artist-of-the-year",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2024-best-performance",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Best Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2024-best-female-group",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2024-millions-top-10-armageddon",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "mma-2024-song-of-the-year-supernova",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "mma-2024-top-10-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "netease-2024-group-of-the-year",
+  "year": 2024,
+  "ceremonyId": "netease",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "philippine-kpop-2024-song-of-the-year-supernova",
+  "year": 2024,
+  "ceremonyId": "philippine-kpop",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "sma-2024-main-award-bonsang",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tiktok-korea-2024-artist-of-the-year",
+  "year": 2024,
+  "ceremonyId": "tiktok-korea",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2024-daesang-award",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Daesang Award",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2024-listener-s-choice",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Listener's Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tmea-2024-k-pop-album-of-the-year-armageddon",
+  "year": 2024,
+  "ceremonyId": "tmea",
+  "category": "K-pop Album of the Year",
+  "tier": "category",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "tmea-2024-k-pop-artist-of-the-year",
+  "year": 2024,
+  "ceremonyId": "tmea",
+  "category": "K-pop Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tmea-2024-k-pop-song-of-the-year-supernova",
+  "year": 2024,
+  "ceremonyId": "tmea",
+  "category": "K-pop Song of the Year",
+  "tier": "category",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "tmea-2024-k-pop-song-of-the-year-whiplash",
+  "year": 2024,
+  "ceremonyId": "tmea",
+  "category": "K-pop Song of the Year",
+  "tier": "category",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "inkigayo-2024-12-01",
+  "year": 2024,
+  "date": "2024-12-01",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "music-core-2024-11-30",
+  "year": 2024,
+  "date": "2024-11-30",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "inkigayo-2024-11-24",
+  "year": 2024,
+  "date": "2024-11-24",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "inkigayo-2024-11-17",
+  "year": 2024,
+  "date": "2024-11-17",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "music-bank-2024-11-01",
+  "year": 2024,
+  "date": "2024-11-01",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "show-champion-2024-10-30",
+  "year": 2024,
+  "date": "2024-10-30",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whiplash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-whiplash"
+ },
+ {
+  "id": "music-core-2024-10-19",
+  "year": 2024,
+  "date": "2024-10-19",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Up (Karina solo)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-up-karina-solo"
+ },
+ {
+  "id": "inkigayo-2024-06-23",
+  "year": 2024,
+  "date": "2024-06-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "m-countdown-2024-06-20",
+  "year": 2024,
+  "date": "2024-06-20",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "inkigayo-2024-06-16",
+  "year": 2024,
+  "date": "2024-06-16",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "music-bank-2024-06-14",
+  "year": 2024,
+  "date": "2024-06-14",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "m-countdown-2024-06-13",
+  "year": 2024,
+  "date": "2024-06-13",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "m-countdown-2024-06-06",
+  "year": 2024,
+  "date": "2024-06-06",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "show-champion-2024-06-05",
+  "year": 2024,
+  "date": "2024-06-05",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Armageddon",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-armageddon"
+ },
+ {
+  "id": "music-core-2024-06-01",
+  "year": 2024,
+  "date": "2024-06-01",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "m-countdown-2024-05-30",
+  "year": 2024,
+  "date": "2024-05-30",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "inkigayo-2024-05-26",
+  "year": 2024,
+  "date": "2024-05-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "music-core-2024-05-25",
+  "year": 2024,
+  "date": "2024-05-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "m-countdown-2024-05-23",
+  "year": 2024,
+  "date": "2024-05-23",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Supernova",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-supernova"
+ },
+ {
+  "id": "inkigayo-2024-01-14",
+  "year": 2024,
+  "date": "2024-01-14",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Drama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-drama"
+ },
+ {
+  "id": "inkigayo-2024-01-07",
+  "year": 2024,
+  "date": "2024-01-07",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Drama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-drama"
+ },
+ {
+  "id": "apma-2023-top-20-albums-of-the-year-overseas-my-world",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "My World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "album-my-world"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas-better-things",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Better Things",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-better-things"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-global-digital-music-july-girls",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year (Global Digital Music) — July",
+  "tier": "category",
+  "work": "Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-girls"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "hanteo-2023-best-trend-leader",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Best Trend Leader",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "hanteo-2023-global-generation-icon",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Global Generation Icon",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kwda-2023-k-global-best-music-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Best Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2023-best-female-performance",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Best Female Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2023-global-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2023-millions-top-10-my-world",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "My World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "album-my-world"
+ },
+ {
+  "id": "mma-2023-top-10-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "sma-2023-main-award-bonsang",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "tma-2023-worldwide-icon",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Worldwide Icon",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "inkigayo-2023-11-26",
+  "year": 2023,
+  "date": "2023-11-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Drama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-drama"
+ },
+ {
+  "id": "inkigayo-2023-05-21",
+  "year": 2023,
+  "date": "2023-05-21",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Spicy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-spicy"
+ },
+ {
+  "id": "music-core-2023-05-20",
+  "year": 2023,
+  "date": "2023-05-20",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Spicy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-spicy"
+ },
+ {
+  "id": "music-bank-2023-05-19",
+  "year": 2023,
+  "date": "2023-05-19",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Spicy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-spicy"
+ },
+ {
+  "id": "m-countdown-2023-05-18",
+  "year": 2023,
+  "date": "2023-05-18",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Spicy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-spicy"
+ },
+ {
+  "id": "apma-2022-top-20-songs-of-the-year-overseas-girls",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-girls"
+ },
+ {
+  "id": "circle-2022-world-rookie-of-the-year",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "World Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "gda-2022-artist-of-the-year",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "gda-2022-best-digital-song-bonsang-next-level",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Next Level",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-next-level"
+ },
+ {
+  "id": "gda-2022-cosmopolitan-artist-award",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Cosmopolitan Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "gda-2022-rookie-artist-of-the-year",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "hanteo-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "if-design-2022-main-prize-user-experience-packaging-savage",
+  "year": 2022,
+  "ceremonyId": "if-design",
+  "category": "Main Prize (User Experience – Packaging)",
+  "tier": "category",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "kma-2022-best-k-pop-song-next-level",
+  "year": 2022,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Song",
+  "tier": "category",
+  "work": "Next Level",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-next-level"
+ },
+ {
+  "id": "kma-2022-rookie-of-the-year",
+  "year": 2022,
+  "ceremonyId": "kma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "kma-2022-song-of-the-year-next-level",
+  "year": 2022,
+  "ceremonyId": "kma",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Next Level",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-next-level"
+ },
+ {
+  "id": "kmaff-2022-best-k-pop-music-video-girls",
+  "year": 2022,
+  "ceremonyId": "kmaff",
+  "category": "Best K-pop Music Video",
+  "tier": "category",
+  "work": "Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-girls"
+ },
+ {
+  "id": "korea-first-brand-2022-best-female-idol-rising-star",
+  "year": 2022,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol (Rising Star)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "korea-pd-2022-best-performer-award",
+  "year": 2022,
+  "ceremonyId": "korea-pd",
+  "category": "Best Performer Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "sma-2022-main-award-bonsang",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "m-countdown-2022-07-21",
+  "year": 2022,
+  "date": "2022-07-21",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-girls"
+ },
+ {
+  "id": "show-champion-2022-07-20",
+  "year": 2022,
+  "date": "2022-07-20",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Girls",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-girls"
+ },
+ {
+  "id": "aaa-2021-hot-trend-award",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Hot Trend Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "aaa-2021-rookie-of-the-year-music",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "aaa-2021-stage-of-the-year-daesang",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Stage of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "apma-2021-top-20-albums-of-the-year-overseas-savage",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "apma-2021-top-20-songs-of-the-year-overseas-savage",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "brand-of-the-year-2021-female-rookie-idol-award",
+  "year": 2021,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Rookie Idol Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "circle-2021-new-artist-of-the-year-digital-black-mamba",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "New Artist of the Year – Digital",
+  "tier": "category",
+  "work": "Black Mamba",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-black-mamba"
+ },
+ {
+  "id": "dongacom-pick-2021-how-far-is-the-next-level-award",
+  "year": 2021,
+  "ceremonyId": "dongacom-pick",
+  "category": "How Far is the Next Level Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "ema-2021-best-korean-act",
+  "year": 2021,
+  "ceremonyId": "ema",
+  "category": "Best Korean Act",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mama-2021-best-dance-performance-female-group-next-level",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Female Group",
+  "tier": "category",
+  "work": "Next Level",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa",
+  "releaseId": "song-next-level"
+ },
+ {
+  "id": "mama-2021-best-new-female-artist",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Best New Female Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2021-best-female-group",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2021-best-new-artist",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2021-record-of-the-year",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Record of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mma-2021-top-10-artist",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "sma-2021-rookie-of-the-year",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "visionary-2021-2021-visionary",
+  "year": 2021,
+  "ceremonyId": "visionary",
+  "category": "2021 Visionary",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "inkigayo-2021-12-05",
+  "year": 2021,
+  "date": "2021-12-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "the-show-2021-10-26",
+  "year": 2021,
+  "date": "2021-10-26",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "inkigayo-2021-10-24",
+  "year": 2021,
+  "date": "2021-10-24",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "music-core-2021-10-23",
+  "year": 2021,
+  "date": "2021-10-23",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "inkigayo-2021-10-17",
+  "year": 2021,
+  "date": "2021-10-17",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "music-core-2021-10-16",
+  "year": 2021,
+  "date": "2021-10-16",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "music-bank-2021-10-15",
+  "year": 2021,
+  "date": "2021-10-15",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "show-champion-2021-10-13",
+  "year": 2021,
+  "date": "2021-10-13",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Savage",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-savage"
+ },
+ {
+  "id": "inkigayo-2021-01-17",
+  "year": 2021,
+  "date": "2021-01-17",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Black Mamba",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-black-mamba"
+ },
+ {
+  "id": "apma-2020-best-new-artist-overseas",
+  "year": 2020,
+  "ceremonyId": "apma",
+  "category": "Best New Artist (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "hanteo-2020-artist-award-female-group",
+  "year": 2020,
+  "ceremonyId": "hanteo",
+  "category": "Artist Award – Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ },
+ {
+  "id": "mubeat-2020-rookie-artist-female",
+  "year": 2020,
+  "ceremonyId": "mubeat",
+  "category": "Rookie Artist – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Aespa"
+ }
+]

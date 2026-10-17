@@ -1,0 +1,302 @@
+[
+ {
+  "id": "circle-2021-album-of-the-year-1st-quarter-one-reeler-act-iv",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 1st Quarter",
+  "tier": "category",
+  "work": "One-reeler / Act IV",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One",
+  "releaseId": "album-one-reeler-act-iv"
+ },
+ {
+  "id": "aaa-2020-best-musician-award",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "aaa-2020-potential-award",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Potential Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "apan-2020-apan-top-10-bonsang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "APAN Top 10 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "apan-2020-idol-champ-fan-s-pick-group",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Idol Champ Fan's Pick – Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "apma-2020-outstanding-group-of-the-year",
+  "year": 2020,
+  "ceremonyId": "apma",
+  "category": "Outstanding Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "circle-2020-the-hot-performance-of-the-year",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "The Hot Performance of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "jgda-2020-best-3-new-artist-asia",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "jgda-2020-new-artist-of-the-year-asia",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "New Artist of the Year (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "mama-2020-favorite-female-group",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Favorite Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "mma-2020-top-10-bonsang-award",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Top 10 (Bonsang Award)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "sma-2020-bonsang-award-bloomiz",
+  "year": 2020,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "work": "BloomIz",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One",
+  "releaseId": "album-bloomiz"
+ },
+ {
+  "id": "soribada-2020-bonsang-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "soribada-2020-global-hot-trend-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "Global Hot Trend Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "tma-2020-artist-of-the-year-bonsang",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Iz*One"
+ },
+ {
+  "id": "m-countdown-2020-12-24",
+  "year": 2020,
+  "date": "2020-12-24",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Panorama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-panorama"
+ },
+ {
+  "id": "inkigayo-2020-12-20",
+  "year": 2020,
+  "date": "2020-12-20",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Panorama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-panorama"
+ },
+ {
+  "id": "music-bank-2020-12-18",
+  "year": 2020,
+  "date": "2020-12-18",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Panorama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-panorama"
+ },
+ {
+  "id": "m-countdown-2020-12-17",
+  "year": 2020,
+  "date": "2020-12-17",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Panorama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-panorama"
+ },
+ {
+  "id": "the-show-2020-12-15",
+  "year": 2020,
+  "date": "2020-12-15",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Panorama",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-panorama"
+ },
+ {
+  "id": "the-show-2020-06-30",
+  "year": 2020,
+  "date": "2020-06-30",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "inkigayo-2020-06-28",
+  "year": 2020,
+  "date": "2020-06-28",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "music-core-2020-06-27",
+  "year": 2020,
+  "date": "2020-06-27",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "music-bank-2020-06-26",
+  "year": 2020,
+  "date": "2020-06-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "m-countdown-2020-06-25",
+  "year": 2020,
+  "date": "2020-06-25",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "show-champion-2020-06-24",
+  "year": 2020,
+  "date": "2020-06-24",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "the-show-2020-06-23",
+  "year": 2020,
+  "date": "2020-06-23",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Secret Story of the Swan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-secret-story-of-the-swan"
+ },
+ {
+  "id": "the-show-2020-03-03",
+  "year": 2020,
+  "date": "2020-03-03",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fiesta",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-fiesta"
+ },
+ {
+  "id": "m-countdown-2020-02-27",
+  "year": 2020,
+  "date": "2020-02-27",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fiesta",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-fiesta"
+ },
+ {
+  "id": "show-champion-2020-02-26",
+  "year": 2020,
+  "date": "2020-02-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fiesta",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-fiesta"
+ },
+ {
+  "id": "the-show-2020-02-25",
+  "year": 2020,
+  "date": "2020-02-25",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fiesta",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-fiesta"
+ }
+]

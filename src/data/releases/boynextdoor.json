@@ -1,0 +1,199 @@
+[
+ {
+  "id": "song-animal",
+  "title": "Animal",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20Animal",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/animal/6806965442?i=6806965445",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=-z5EP5sVtjg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-09-28",
+  "album": "HOME: DELUXE",
+  "artwork": "/images/releases/boynextdoor-song-animal.jpg"
+ },
+ {
+  "id": "song-but-sometimes",
+  "title": "But Sometimes",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20But%20Sometimes",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/but-sometimes/1703655103?i=1703655446",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=C02SuJWmLyA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-09-04",
+  "album": "WHY..",
+  "artwork": "/images/releases/boynextdoor-song-but-sometimes.jpg"
+ },
+ {
+  "id": "song-earth-wind-fire",
+  "title": "Earth, Wind & Fire",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20Earth%2C%20Wind%20%26%20Fire",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/earth-wind-fire/1738692227?i=1738692253",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=UyX9J3q8C40",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-15",
+  "album": "HOW?",
+  "artwork": "/images/releases/boynextdoor-song-earth-wind-fire.jpg"
+ },
+ {
+  "id": "song-hollywood-action",
+  "title": "Hollywood Action",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20Hollywood%20Action",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hollywood-action/1844393312?i=1844393484",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=lS_YQa3Fexk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-10-20",
+  "album": "The Action",
+  "artwork": "/images/releases/boynextdoor-song-hollywood-action.jpg"
+ },
+ {
+  "id": "song-i-feel-good",
+  "title": "I Feel Good",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20I%20Feel%20Good",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/i-feel-good/1811077675?i=1811077679",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8te4rihuWpo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-05-13",
+  "album": "No Genre",
+  "artwork": "/images/releases/boynextdoor-song-i-feel-good.jpg"
+ },
+ {
+  "id": "song-if-i-say-i-love-you",
+  "title": "If I Say, I Love You",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20If%20I%20Say%2C%20I%20Love%20You",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/if-i-say-i-love-you/1785637094?i=1785637238",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=XVrO_3lnbig",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-01-06",
+  "album": "IF I SAY, I LOVE YOU",
+  "artwork": "/images/releases/boynextdoor-song-if-i-say-i-love-you.jpg"
+ },
+ {
+  "id": "song-nice-guy",
+  "title": "Nice Guy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20Nice%20Guy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/nice-guy/1765199811?i=1765199947",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=i_SlZ5vKuQk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-09-09",
+  "album": "19.99",
+  "artwork": "/images/releases/boynextdoor-song-nice-guy.jpg"
+ },
+ {
+  "id": "album-no-genre",
+  "title": "No Genre",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20No%20Genre",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/no-genre/1811077675",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=BOYNEXTDOOR%20No%20Genre",
+    "verified": false
+   }
+  },
+  "releaseDate": "2025-05-13",
+  "artwork": "/images/releases/boynextdoor-album-no-genre.jpg"
+ },
+ {
+  "id": "song-viral",
+  "title": "Viral",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BOYNEXTDOOR%20Viral",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/viral/1896255247?i=6766256692",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=LKMCTq3ZfFk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-06-08",
+  "album": "HOME",
+  "artwork": "/images/releases/boynextdoor-song-viral.jpg"
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id": "song-beat-it-up",
+  "title": "Beat It Up",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Beat%20It%20Up",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/beat-it-up/1849135853?i=1849135854",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=-W6tkMEKgmc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-11-17",
+  "album": "Beat It Up",
+  "artwork": "/images/releases/nct-dream-song-beat-it-up.jpg"
+ },
+ {
+  "id": "song-beatbox",
+  "title": "Beatbox",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Beatbox",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/beatbox/1625246620?i=1625246621",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3PW1UcIKOyM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-05-30",
+  "album": "Beatbox - The 2nd Album Repackage",
+  "artwork": "/images/releases/nct-dream-song-beatbox.jpg"
+ },
+ {
+  "id": "song-bttf",
+  "title": "BTTF",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20BTTF",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bttf/1822449919?i=1822449920",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=mpDyMFVr554",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-14",
+  "album": "Go Back To The Future",
+  "artwork": "/images/releases/nct-dream-song-bttf.jpg"
+ },
+ {
+  "id": "song-candy",
+  "title": "Candy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Candy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/candy/1658222131?i=1658222132",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3vohWSgTcNw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-12-16",
+  "album": "Candy - Winter Special Mini Album",
+  "artwork": "/images/releases/nct-dream-song-candy.jpg"
+ },
+ {
+  "id": "song-chiller",
+  "title": "Chiller",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Chiller",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/chiller/1822449919?i=1822449921",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=rL0xHVzAG70",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-14",
+  "album": "Go Back To The Future",
+  "artwork": "/images/releases/nct-dream-song-chiller.jpg"
+ },
+ {
+  "id": "song-glitch-mode",
+  "title": "Glitch Mode",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Glitch%20Mode",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/glitch-mode/1615360921?i=1615361077",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=5d-N5nfjDYw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-03-28",
+  "album": "Glitch Mode - The 2nd Album",
+  "artwork": "/images/releases/nct-dream-song-glitch-mode.jpg"
+ },
+ {
+  "id": "song-hello-future",
+  "title": "Hello Future",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Hello%20Future",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hello-future/1573200613?i=1573200614",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=UpeUA9rtAJk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-06-28",
+  "album": "Hello Future - The 1st Album Repackage",
+  "artwork": "/images/releases/nct-dream-song-hello-future.jpg"
+ },
+ {
+  "id": "song-hot-sauce",
+  "title": "Hot Sauce",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Hot%20Sauce",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hot-sauce/1573200613?i=1573200616",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=U3XsXjDK8yk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-05-10",
+  "album": "Hello Future - The 1st Album Repackage",
+  "artwork": "/images/releases/nct-dream-song-hot-sauce.jpg"
+ },
+ {
+  "id": "song-istj",
+  "title": "ISTJ",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20ISTJ",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/istj/1766609799?i=1766609802",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=UM2BijQPd8Y",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-17",
+  "album": "ISTJ - The 3rd Album",
+  "artwork": "/images/releases/nct-dream-song-istj.jpg"
+ },
+ {
+  "id": "song-ridin",
+  "title": "Ridin'",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Ridin'",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ridin/1510067132?i=1510067133",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=6jAHysZVtwI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-04-29",
+  "album": "Reload",
+  "artwork": "/images/releases/nct-dream-song-ridin.jpg"
+ },
+ {
+  "id": "song-smoothie",
+  "title": "Smoothie",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20Smoothie",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/smoothie/1766620521?i=1766620528",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Y2MzLqOW0yI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-03-25",
+  "album": "DREAM( )SCAPE",
+  "artwork": "/images/releases/nct-dream-song-smoothie.jpg"
+ },
+ {
+  "id": "song-when-i-m-with-you",
+  "title": "When I'm With You",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20DREAM%20When%20I'm%20With%20You",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/when-im-with-you/1767771688?i=1767771692",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=2a_dPfJubeM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-11-11",
+  "album": "DREAMSCAPE",
+  "artwork": "/images/releases/nct-dream-song-when-i-m-with-you.jpg"
+ }
+]

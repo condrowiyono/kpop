@@ -1,0 +1,691 @@
+[
+ {
+  "id": "d-awards-2026-d-award-iconic-daesang",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "D Award Iconic (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "d-awards-2026-delights-blue-label",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "d-awards-2026-best-video-iconik",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Best Video",
+  "tier": "category",
+  "work": "ICONIK",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "gda-2026-album-bonsang",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "km-chart-2026-ultimate-12-bonsang",
+  "year": 2026,
+  "ceremonyId": "km-chart",
+  "category": "ULTIMATE 12(Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "korea-first-brand-2026-male-idol-vietnam",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Male Idol (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "sma-2026-main-award-bonsang",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "sma-2026-best-group-award",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Best Group Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "sma-2026-best-album-award",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Best Album Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "m-countdown-2026-05-28",
+  "year": 2026,
+  "date": "2026-05-28",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Top 5",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-top-5"
+ },
+ {
+  "id": "show-champion-2026-05-27",
+  "year": 2026,
+  "date": "2026-05-27",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Top 5",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-top-5"
+ },
+ {
+  "id": "asea-2025-the-platinum",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "The Platinum",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "asea-2025-performance-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "Performance of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "d-awards-2025-record-of-the-year-daesang-cinema-paradise",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Record of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Cinema Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-cinema-paradise"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "d-awards-2025-best-stage",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Stage",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "gda-2025-album-bonsang-you-had-me-at-hello",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "You Had Me at Hello",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-you-had-me-at-hello"
+ },
+ {
+  "id": "jgda-2025-best-new-artist",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kbs-ent-2025-digital-content-award-idol-1n2d",
+  "year": 2025,
+  "ceremonyId": "kbs-ent",
+  "category": "Digital Content Award",
+  "tier": "category",
+  "work": "Idol 1N2D",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-idol-1n2d"
+ },
+ {
+  "id": "korea-first-brand-2025-best-male-idol",
+  "year": 2025,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2025-worldwide-kconer-s-choice-blue",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Worldwide KCONer's Choice",
+  "tier": "category",
+  "work": "Blue",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "song-blue"
+ },
+ {
+  "id": "sma-2025-main-award-bonsang",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "sma-2025-best-album-award-blue-paradise",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Best Album Award",
+  "tier": "category",
+  "work": "Blue Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-blue-paradise"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "tma-2025-world-best-performer",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "World Best Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "inkigayo-2025-09-14",
+  "year": 2025,
+  "date": "2025-09-14",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Iconik",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "music-core-2025-09-13",
+  "year": 2025,
+  "date": "2025-09-13",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Iconik",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "music-bank-2025-09-12",
+  "year": 2025,
+  "date": "2025-09-12",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Iconik",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "m-countdown-2025-09-11",
+  "year": 2025,
+  "date": "2025-09-11",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Iconik",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "show-champion-2025-09-10",
+  "year": 2025,
+  "date": "2025-09-10",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Iconik",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "the-show-2025-09-09",
+  "year": 2025,
+  "date": "2025-09-09",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Iconik",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-iconik"
+ },
+ {
+  "id": "music-bank-2025-03-07",
+  "year": 2025,
+  "date": "2025-03-07",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-blue"
+ },
+ {
+  "id": "show-champion-2025-03-05",
+  "year": 2025,
+  "date": "2025-03-05",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-blue"
+ },
+ {
+  "id": "the-show-2025-03-04",
+  "year": 2025,
+  "date": "2025-03-04",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-blue"
+ },
+ {
+  "id": "aaa-2024-best-musician-award",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "aaa-2024-best-artist-award",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "apma-2024-top-20-songs-of-the-year-overseas-sweat",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Sweat",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "song-sweat"
+ },
+ {
+  "id": "asea-2024-the-best-new-artist",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "The Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "circle-2024-rookie-of-the-year-album-youth-in-the-shade",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Rookie of the Year – Album",
+  "tier": "category",
+  "work": "Youth in the Shade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-youth-in-the-shade"
+ },
+ {
+  "id": "gda-2024-album-bonsang-youth-in-the-shade",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Youth in the Shade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-youth-in-the-shade"
+ },
+ {
+  "id": "gda-2024-rookie-of-the-year",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kgma-2024-best-artist",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kgma-2024-grand-honour-s-choice-daesang",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Grand Honour's Choice (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kwda-2024-k-world-dream-bonsang",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "K-World Dream Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kwda-2024-journalist-pick-artist",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "Journalist Pick Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2024-fans-choice-male",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2024-worldwide-kconers-choice",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Worldwide KCONers' Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2024-cj-global-performance-award",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "CJ Global Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "sma-2024-main-award-bonsang",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "sma-2024-rookie-of-the-year",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "inkigayo-2024-09-08",
+  "year": 2024,
+  "date": "2024-09-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Good So Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-good-so-bad"
+ },
+ {
+  "id": "music-bank-2024-09-06",
+  "year": 2024,
+  "date": "2024-09-06",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Good So Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-good-so-bad"
+ },
+ {
+  "id": "m-countdown-2024-09-05",
+  "year": 2024,
+  "date": "2024-09-05",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Good So Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-good-so-bad"
+ },
+ {
+  "id": "show-champion-2024-09-04",
+  "year": 2024,
+  "date": "2024-09-04",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Good So Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-good-so-bad"
+ },
+ {
+  "id": "the-show-2024-09-03",
+  "year": 2024,
+  "date": "2024-09-03",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Good So Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-good-so-bad"
+ },
+ {
+  "id": "the-show-2024-05-28",
+  "year": 2024,
+  "date": "2024-05-28",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Feel the Pop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-feel-the-pop"
+ },
+ {
+  "id": "music-bank-2024-05-24",
+  "year": 2024,
+  "date": "2024-05-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Feel the Pop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-feel-the-pop"
+ },
+ {
+  "id": "show-champion-2024-05-22",
+  "year": 2024,
+  "date": "2024-05-22",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Feel the Pop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-feel-the-pop"
+ },
+ {
+  "id": "the-show-2024-05-21",
+  "year": 2024,
+  "date": "2024-05-21",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Feel the Pop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-feel-the-pop"
+ },
+ {
+  "id": "aaa-2023-best-musician-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "aaa-2023-rookie-of-the-year-music",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "apma-2023-best-new-artist-overseas-youth-in-the-shade",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Best New Artist (Overseas)",
+  "tier": "category",
+  "work": "Youth in the Shade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone",
+  "releaseId": "album-youth-in-the-shade"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "hanteo-2023-rookie-of-the-year-male",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Rookie of the Year – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kwda-2023-k-global-bonsang-main-prize",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Bonsang (Main Prize)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "kwda-2023-k-global-super-rookie-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Super Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2023-best-new-male-artist",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Best New Male Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2023-favorite-new-artist",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Favorite New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mama-2023-worldwide-fans-choice-top-10",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "mma-2023-best-new-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "tma-2023-next-leader-award",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Zerobaseone"
+ },
+ {
+  "id": "the-show-2023-07-25",
+  "year": 2023,
+  "date": "2023-07-25",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In Bloom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-in-bloom"
+ },
+ {
+  "id": "show-champion-2023-07-19",
+  "year": 2023,
+  "date": "2023-07-19",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In Bloom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-in-bloom"
+ },
+ {
+  "id": "the-show-2023-07-18",
+  "year": 2023,
+  "date": "2023-07-18",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In Bloom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-in-bloom"
+ }
+]

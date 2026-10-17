@@ -1,0 +1,356 @@
+[
+ {
+  "id": "m-countdown-2026-10-08",
+  "year": 2026,
+  "date": "2026-10-08",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Animal",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-animal"
+ },
+ {
+  "id": "music-bank-2026-06-19",
+  "year": 2026,
+  "date": "2026-06-19",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Viral",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-viral"
+ },
+ {
+  "id": "gda-2025-digital-song-bonsang-if-i-say-i-love-you",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Digital Song Bonsang",
+  "tier": "bonsang",
+  "work": "If I Say, I Love You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor",
+  "releaseId": "song-if-i-say-i-love-you"
+ },
+ {
+  "id": "gda-2025-naver-ai-choice",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Naver AI Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "kgma-2025-best-artist-10",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Artist 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "kgma-2025-grand-performer-daesang",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Grand Performer (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "mama-2025-favorite-male-group",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Favorite Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "mma-2025-millions-top-10-artist-no-genre",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10 Artist",
+  "tier": "bonsang",
+  "work": "No Genre",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor",
+  "releaseId": "album-no-genre"
+ },
+ {
+  "id": "mma-2025-top-10-artist",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "mma-2025-best-male-group",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "mma-2025-japan-favorite-artist-by-u-next",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Japan Favorite Artist by U-Next",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "tma-2025-world-best-wave",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "World Best Wave",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "inkigayo-2025-11-02",
+  "year": 2025,
+  "date": "2025-11-02",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Hollywood Action",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-hollywood-action"
+ },
+ {
+  "id": "music-bank-2025-10-31",
+  "year": 2025,
+  "date": "2025-10-31",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Hollywood Action",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-hollywood-action"
+ },
+ {
+  "id": "show-champion-2025-10-29",
+  "year": 2025,
+  "date": "2025-10-29",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Hollywood Action",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-hollywood-action"
+ },
+ {
+  "id": "inkigayo-2025-05-25",
+  "year": 2025,
+  "date": "2025-05-25",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Feel Good",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-i-feel-good"
+ },
+ {
+  "id": "music-core-2025-05-24",
+  "year": 2025,
+  "date": "2025-05-24",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Feel Good",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-i-feel-good"
+ },
+ {
+  "id": "music-bank-2025-05-23",
+  "year": 2025,
+  "date": "2025-05-23",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Feel Good",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-i-feel-good"
+ },
+ {
+  "id": "m-countdown-2025-05-22",
+  "year": 2025,
+  "date": "2025-05-22",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Feel Good",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-i-feel-good"
+ },
+ {
+  "id": "inkigayo-2025-01-19",
+  "year": 2025,
+  "date": "2025-01-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "If I Say, I Love You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-if-i-say-i-love-you"
+ },
+ {
+  "id": "m-countdown-2025-01-16",
+  "year": 2025,
+  "date": "2025-01-16",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "If I Say, I Love You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-if-i-say-i-love-you"
+ },
+ {
+  "id": "mama-2024-favorite-dance-performance-male-group",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Favorite Dance Performance – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "mma-2024-best-performance-male",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Best Performance – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "inkigayo-2024-09-22",
+  "year": 2024,
+  "date": "2024-09-22",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nice Guy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-nice-guy"
+ },
+ {
+  "id": "music-bank-2024-09-20",
+  "year": 2024,
+  "date": "2024-09-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nice Guy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-nice-guy"
+ },
+ {
+  "id": "music-bank-2024-04-26",
+  "year": 2024,
+  "date": "2024-04-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Earth, Wind & Fire",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-earth-wind-fire"
+ },
+ {
+  "id": "show-champion-2024-04-24",
+  "year": 2024,
+  "date": "2024-04-24",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Earth, Wind & Fire",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-earth-wind-fire"
+ },
+ {
+  "id": "the-show-2024-04-23",
+  "year": 2024,
+  "date": "2024-04-23",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Earth, Wind & Fire",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-earth-wind-fire"
+ },
+ {
+  "id": "aaa-2023-best-choice-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "aaa-2023-best-emotive-award-music",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Emotive Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "brand-of-the-year-2023-rookie-male-idol",
+  "year": 2023,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Rookie Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "kwda-2023-k-global-super-rookie-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Super Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "mma-2023-global-rising-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Global Rising Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "tma-2023-global-hottest-award",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Global Hottest Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/BoyNextDoor"
+ },
+ {
+  "id": "show-champion-2023-09-13",
+  "year": 2023,
+  "date": "2023-09-13",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "But Sometimes",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-but-sometimes"
+ },
+ {
+  "id": "the-show-2023-09-12",
+  "year": 2023,
+  "date": "2023-09-12",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "But Sometimes",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-but-sometimes"
+ }
+]

@@ -1,0 +1,779 @@
+[
+ {
+  "id": "asea-2026-the-best-conceptual-artist",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "The Best Conceptual Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "asea-2026-the-platinum-bonsang",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "The Platinum (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "asea-2026-record-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "Record of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kwda-2026-best-stage-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Best Stage Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kwda-2026-k-world-dream-artist-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "K-World Dream Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kwda-2026-k-world-dream-group-popularity-award-male",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "K-World Dream Group Popularity Award – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kwda-2026-k-world-dream-best-artist-award-male-daesang",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "K-World Dream Best Artist Award – Male (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "sma-2026-main-award-bonsang",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "sma-2026-grand-prize-daesang",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Grand Prize (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2026-artist-of-the-year-bonsang",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2026-icon-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Icon of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "inkigayo-2026-09-20",
+  "year": 2026,
+  "date": "2026-09-20",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "inkigayo-2026-09-13",
+  "year": 2026,
+  "date": "2026-09-13",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "music-core-2026-08-22",
+  "year": 2026,
+  "date": "2026-08-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "m-countdown-2026-07-23",
+  "year": 2026,
+  "date": "2026-07-23",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "m-countdown-2026-07-16",
+  "year": 2026,
+  "date": "2026-07-16",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "music-bank-2026-07-10",
+  "year": 2026,
+  "date": "2026-07-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "music-bank-2026-07-03",
+  "year": 2026,
+  "date": "2026-07-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-bad"
+ },
+ {
+  "id": "music-bank-2026-02-20",
+  "year": 2026,
+  "date": "2026-02-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Adrenaline",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-adrenaline"
+ },
+ {
+  "id": "inkigayo-2026-02-15",
+  "year": 2026,
+  "date": "2026-02-15",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Adrenaline",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-adrenaline"
+ },
+ {
+  "id": "music-core-2026-02-14",
+  "year": 2026,
+  "date": "2026-02-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Adrenaline",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-adrenaline"
+ },
+ {
+  "id": "music-bank-2026-02-13",
+  "year": 2026,
+  "date": "2026-02-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Adrenaline",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-adrenaline"
+ },
+ {
+  "id": "show-champion-2026-02-11",
+  "year": 2026,
+  "date": "2026-02-11",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Adrenaline",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-adrenaline"
+ },
+ {
+  "id": "aaa-2025-best-artist-singer",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best Artist (Singer)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "aaa-2025-best-k-pop-record",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best K-pop Record",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "aaa-2025-stage-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Stage of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "gda-2025-best-album-bonsang-golden-hour-part-2",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Golden Hour: Part.2",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez",
+  "releaseId": "album-golden-hour-part-2"
+ },
+ {
+  "id": "hanteo-2025-best-artist-daesang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Best Artist (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "hanteo-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "hanteo-2025-world-stage",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "World Stage",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "iheart-2025-k-pop-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "iheart",
+  "category": "K-pop Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kbs-ent-2025-digital-content-award-idol-1n2d",
+  "year": 2025,
+  "ceremonyId": "kbs-ent",
+  "category": "Digital Content Award",
+  "tier": "category",
+  "work": "Idol 1N2D",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez",
+  "releaseId": "album-idol-1n2d"
+ },
+ {
+  "id": "kgma-2025-best-artist-10",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Artist 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kgma-2025-grand-artist-daesang",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Grand Artist (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "korea-arts-culture-2025-korean-wave-idol",
+  "year": 2025,
+  "ceremonyId": "korea-arts-culture",
+  "category": "Korean Wave Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "gda-2024-album-bonsang-the-world-ep-fin-will",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "The World EP.Fin: Will",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez",
+  "releaseId": "album-the-world-ep-fin-will"
+ },
+ {
+  "id": "hanteo-2024-global-artist-africa",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – Africa",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kgma-2024-best-song-crazy-form",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Song",
+  "tier": "category",
+  "work": "Crazy Form",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez",
+  "releaseId": "song-crazy-form"
+ },
+ {
+  "id": "kgma-2024-grand-honor-s-choice-daesang",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Grand Honor's Choice (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "mma-2024-global-artist-male",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Global Artist – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "music-bank-2024-11-29",
+  "year": 2024,
+  "date": "2024-11-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ice on My Teeth",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-ice-on-my-teeth"
+ },
+ {
+  "id": "music-bank-2024-06-07",
+  "year": 2024,
+  "date": "2024-06-07",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-work"
+ },
+ {
+  "id": "the-show-2024-06-04",
+  "year": 2024,
+  "date": "2024-06-04",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Work",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-work"
+ },
+ {
+  "id": "edaily-2023-best-concert-award",
+  "year": 2023,
+  "ceremonyId": "edaily",
+  "category": "Best Concert Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "hanteo-2023-top-global-performer",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Top Global Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kwda-2023-k-global-best-world-tour-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Best World Tour Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "kwda-2023-k-global-bonsang-main-prize",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Bonsang (Main Prize)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "mama-2023-worldwide-fans-choice-top-10",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "mama-2023-favorite-global-performer-male-group",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Favorite Global Performer – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "music-bank-2023-12-22",
+  "year": 2023,
+  "date": "2023-12-22",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Crazy Form",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-crazy-form"
+ },
+ {
+  "id": "music-bank-2023-12-15",
+  "year": 2023,
+  "date": "2023-12-15",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Crazy Form",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-crazy-form"
+ },
+ {
+  "id": "music-bank-2023-12-08",
+  "year": 2023,
+  "date": "2023-12-08",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Crazy Form",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-crazy-form"
+ },
+ {
+  "id": "show-champion-2023-12-06",
+  "year": 2023,
+  "date": "2023-12-06",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Crazy Form",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-crazy-form"
+ },
+ {
+  "id": "music-bank-2023-06-30",
+  "year": 2023,
+  "date": "2023-06-30",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bouncy (K-Hot Chilli Peppers)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-bouncy-k-hot-chilli-peppers"
+ },
+ {
+  "id": "the-show-2023-06-27",
+  "year": 2023,
+  "date": "2023-06-27",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bouncy (K-Hot Chilli Peppers)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-bouncy-k-hot-chilli-peppers"
+ },
+ {
+  "id": "music-bank-2023-06-23",
+  "year": 2023,
+  "date": "2023-06-23",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bouncy (K-Hot Chilli Peppers)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-bouncy-k-hot-chilli-peppers"
+ },
+ {
+  "id": "show-champion-2023-06-21",
+  "year": 2023,
+  "date": "2023-06-21",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bouncy (K-Hot Chilli Peppers)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-bouncy-k-hot-chilli-peppers"
+ },
+ {
+  "id": "the-show-2023-06-20",
+  "year": 2023,
+  "date": "2023-06-20",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bouncy (K-Hot Chilli Peppers)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-bouncy-k-hot-chilli-peppers"
+ },
+ {
+  "id": "music-bank-2023-01-06",
+  "year": 2023,
+  "date": "2023-01-06",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Halazia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-halazia"
+ },
+ {
+  "id": "forbes-korea-2022-the-best-fandom",
+  "year": 2022,
+  "ceremonyId": "forbes-korea",
+  "category": "The Best Fandom",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "sma-2022-main-award-bonsang",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2022-best-performer",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Best Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "music-bank-2022-08-12",
+  "year": 2022,
+  "date": "2022-08-12",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Guerrilla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-guerrilla"
+ },
+ {
+  "id": "show-champion-2022-08-10",
+  "year": 2022,
+  "date": "2022-08-10",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Guerrilla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-guerrilla"
+ },
+ {
+  "id": "the-show-2022-08-09",
+  "year": 2022,
+  "date": "2022-08-09",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Guerrilla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-guerrilla"
+ },
+ {
+  "id": "music-bank-2022-08-05",
+  "year": 2022,
+  "date": "2022-08-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Guerrilla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-guerrilla"
+ },
+ {
+  "id": "show-champion-2022-08-03",
+  "year": 2022,
+  "date": "2022-08-03",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Guerrilla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-guerrilla"
+ },
+ {
+  "id": "the-show-2022-08-02",
+  "year": 2022,
+  "date": "2022-08-02",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Guerrilla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-guerrilla"
+ },
+ {
+  "id": "circle-2021-world-rookie-of-the-year",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "World Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "hanteo-2021-initial-chodong-record-award",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "Initial Chodong Record Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "sma-2021-main-award-bonsang",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "show-champion-2021-09-22",
+  "year": 2021,
+  "date": "2021-09-22",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Deja Vu",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-deja-vu"
+ },
+ {
+  "id": "the-show-2021-03-09",
+  "year": 2021,
+  "date": "2021-03-09",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fireworks (I'm The One)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-fireworks-i-m-the-one"
+ },
+ {
+  "id": "asia-model-2020-popular-star-award-male-singer",
+  "year": 2020,
+  "ceremonyId": "asia-model",
+  "category": "Popular Star Award – Male (Singer)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "mama-2020-worldwide-fans-choice-top-10",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "mama-2020-discovery-of-the-year",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Discovery of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "tma-2020-global-hottest-artist",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Global Hottest Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ateez"
+ },
+ {
+  "id": "show-champion-2020-08-05",
+  "year": 2020,
+  "date": "2020-08-05",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Inception",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-inception"
+ },
+ {
+  "id": "the-show-2020-08-04",
+  "year": 2020,
+  "date": "2020-08-04",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Inception",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-inception"
+ }
+]

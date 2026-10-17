@@ -1,0 +1,470 @@
+[
+ {
+  "id": "korea-first-brand-2026-male-idol-indonesia",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Male Idol (Indonesia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "inkigayo-2026-06-28",
+  "year": 2026,
+  "date": "2026-06-28",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do Your Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-do-your-dance"
+ },
+ {
+  "id": "music-bank-2026-06-26",
+  "year": 2026,
+  "date": "2026-06-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do Your Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-do-your-dance"
+ },
+ {
+  "id": "show-champion-2026-06-24",
+  "year": 2026,
+  "date": "2026-06-24",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do Your Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-do-your-dance"
+ },
+ {
+  "id": "aaa-2025-performance-of-the-year",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Performance of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "aaa-2025-best-artist-singer",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best Artist – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "aaa-2025-emotive-award-singer",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Emotive Award – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "d-awards-2025-performance-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Performance of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "d-awards-2025-best-group",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "d-awards-2025-best-video",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Video",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "kgma-2025-best-artist-10",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Artist 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mama-2025-fans-choice-top-10-male",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Male",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2025-millions-top-10-odyssey",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "Odyssey",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize",
+  "releaseId": "album-odyssey"
+ },
+ {
+  "id": "mma-2025-top-10-artist",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2025-best-performance-male",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Best Performance – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "tmea-2025-breakthrough-international-group-of-the-year",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "Breakthrough International Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "inkigayo-2025-06-01",
+  "year": 2025,
+  "date": "2025-06-01",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fly Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-fly-up"
+ },
+ {
+  "id": "music-core-2025-05-31",
+  "year": 2025,
+  "date": "2025-05-31",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fly Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-fly-up"
+ },
+ {
+  "id": "music-bank-2025-05-30",
+  "year": 2025,
+  "date": "2025-05-30",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fly Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-fly-up"
+ },
+ {
+  "id": "show-champion-2025-05-28",
+  "year": 2025,
+  "date": "2025-05-28",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fly Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-fly-up"
+ },
+ {
+  "id": "apma-2024-top-20-song-of-the-year-overseas-love-119",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Top 20 Song of the Year (Overseas)",
+  "tier": "category",
+  "work": "Love 119",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize",
+  "releaseId": "song-love-119"
+ },
+ {
+  "id": "brand-of-the-year-2024-rising-star-male-idol",
+  "year": 2024,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Rising Star – Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "hanteo-2024-best-trend-leader",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Best Trend Leader",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "hanteo-2024-the-most-prime-group",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "The Most Prime Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "jgda-2024-best-3-new-artists",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "kgma-2024-best-song-10-love-119",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Song 10",
+  "tier": "category",
+  "work": "Love 119",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize",
+  "releaseId": "song-love-119"
+ },
+ {
+  "id": "kgma-2024-fan-vote-rookie-male",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Fan Vote Rookie – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "kgma-2024-best-group",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "korea-first-brand-2024-rookie-male-idol",
+  "year": 2024,
+  "ceremonyId": "korea-first-brand",
+  "category": "Rookie Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mama-2024-favorite-global-performer-male",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Favorite Global Performer – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2024-best-male-group",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2024-global-rising-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Global Rising Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2024-top-10-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2024-kakaobank-everyone-s-star",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "KakaoBank Everyone's Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2024-millions-top-10-riizing",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "Riizing",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize",
+  "releaseId": "album-riizing"
+ },
+ {
+  "id": "inkigayo-2024-06-30",
+  "year": 2024,
+  "date": "2024-06-30",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Boom Boom Bass",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-boom-boom-bass"
+ },
+ {
+  "id": "music-bank-2024-06-28",
+  "year": 2024,
+  "date": "2024-06-28",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Boom Boom Bass",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-boom-boom-bass"
+ },
+ {
+  "id": "m-countdown-2024-06-27",
+  "year": 2024,
+  "date": "2024-06-27",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Boom Boom Bass",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-boom-boom-bass"
+ },
+ {
+  "id": "show-champion-2024-06-26",
+  "year": 2024,
+  "date": "2024-06-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Boom Boom Bass",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-boom-boom-bass"
+ },
+ {
+  "id": "the-show-2024-06-25",
+  "year": 2024,
+  "date": "2024-06-25",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Boom Boom Bass",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-boom-boom-bass"
+ },
+ {
+  "id": "inkigayo-2024-01-21",
+  "year": 2024,
+  "date": "2024-01-21",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love 119",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-love-119"
+ },
+ {
+  "id": "m-countdown-2024-01-18",
+  "year": 2024,
+  "date": "2024-01-18",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love 119",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-love-119"
+ },
+ {
+  "id": "circle-2023-rookie-of-the-year-streaming-unique-listeners-get-a-guitar",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Rookie of the Year – Streaming Unique Listeners",
+  "tier": "category",
+  "work": "Get a Guitar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize",
+  "releaseId": "song-get-a-guitar"
+ },
+ {
+  "id": "dongacom-pick-2023-rising-award",
+  "year": 2023,
+  "ceremonyId": "dongacom-pick",
+  "category": "Rising Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "hanteo-2023-next-worldwide-artist",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Next Worldwide Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mama-2023-favorite-new-artist",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Favorite New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "mma-2023-rookie-of-the-year",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "sma-2023-main-award-bonsang",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "sma-2023-rookie-of-the-year",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ },
+ {
+  "id": "tma-2023-next-leader-award",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Riize"
+ }
+]

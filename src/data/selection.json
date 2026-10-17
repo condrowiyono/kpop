@@ -1,0 +1,96 @@
+{
+ "selected": [
+  "bts",
+  "aespa",
+  "ive",
+  "seventeen",
+  "stray-kids",
+  "blackpink",
+  "i-dle",
+  "newjeans",
+  "nct-dream",
+  "enhypen",
+  "txt",
+  "ateez",
+  "le-sserafim",
+  "zerobaseone",
+  "twice",
+  "nct-127",
+  "itzy",
+  "the-boyz",
+  "riize",
+  "illit",
+  "treasure",
+  "stayc",
+  "hearts2hearts",
+  "red-velvet",
+  "boynextdoor",
+  "monsta-x",
+  "nmixx",
+  "oh-my-girl",
+  "tws",
+  "iz-one"
+ ],
+ "alsoConsidered": [
+  {
+   "slug": "cortis",
+   "name": "CORTIS",
+   "total": 28
+  },
+  {
+   "slug": "kep1er",
+   "name": "Kep1er",
+   "total": 26
+  },
+  {
+   "slug": "fromis-9",
+   "name": "fromis_9",
+   "total": 25
+  },
+  {
+   "slug": "day6",
+   "name": "DAY6",
+   "total": 24
+  },
+  {
+   "slug": "nct-wish",
+   "name": "NCT WISH",
+   "total": 24
+  },
+  {
+   "slug": "kiss-of-life",
+   "name": "KISS OF LIFE",
+   "total": 21
+  },
+  {
+   "slug": "allday-project",
+   "name": "ALLDAY PROJECT",
+   "total": 21
+  },
+  {
+   "slug": "astro",
+   "name": "ASTRO",
+   "total": 18
+  },
+  {
+   "slug": "babymonster",
+   "name": "BABYMONSTER",
+   "total": 14
+  },
+  {
+   "slug": "p1harmony",
+   "name": "P1Harmony",
+   "total": 12
+  },
+  {
+   "slug": "mamamoo",
+   "name": "MAMAMOO",
+   "total": 9
+  },
+  {
+   "slug": "meovv",
+   "name": "MEOVV",
+   "total": 8
+  }
+ ]
+}

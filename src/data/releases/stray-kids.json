@@ -1,0 +1,489 @@
+[
+ {
+  "id": "album-5-star",
+  "title": "5-Star",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%205-Star",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/5-star/1686489462",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_zR25p24PqIC",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-06-02",
+  "artwork": "/images/releases/stray-kids-album-5-star.jpg"
+ },
+ {
+  "id": "album-ate",
+  "title": "Ate",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Ate",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ate/1752739357",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_5SWs7lZwQuF",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-19",
+  "artwork": "/images/releases/stray-kids-album-ate.jpg"
+ },
+ {
+  "id": "song-back-door",
+  "title": "Back Door",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Back%20Door",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/back-door/1608251775?i=1608251779",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=PYq5hsjigdc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-09-14",
+  "album": "IN LIFE",
+  "artwork": "/images/releases/stray-kids-song-back-door.jpg"
+ },
+ {
+  "id": "song-case-143",
+  "title": "Case 143",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Case%20143",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ZeIneYtQ1rw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-10-07",
+  "album": "MAXIDENT",
+  "artwork": "/images/releases/stray-kids-song-case-143.jpg"
+ },
+ {
+  "id": "song-ceremony",
+  "title": "Ceremony",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Ceremony",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ceremony/1834185171?i=1834185172",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=p2AP0yKIlx4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-08-22",
+  "album": "CEREMONY",
+  "artwork": "/images/releases/stray-kids-song-ceremony.jpg"
+ },
+ {
+  "id": "song-chk-chk-boom",
+  "title": "Chk Chk Boom",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Chk%20Chk%20Boom",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/chk-chk-boom/1752739357?i=1752739619",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=eNPmM1DJQ8g",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-19",
+  "album": "ATE",
+  "artwork": "/images/releases/stray-kids-song-chk-chk-boom.jpg"
+ },
+ {
+  "id": "song-christmas-evel",
+  "title": "Christmas EveL",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Christmas%20EveL",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/christmas-evel/1608247192?i=1608247201",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=4VgzrNU06TM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-11-29",
+  "album": "Christmas EveL",
+  "artwork": "/images/releases/stray-kids-song-christmas-evel.jpg"
+ },
+ {
+  "id": "song-do-it",
+  "title": "Do It",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Do%20It",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/do-it/1846266203?i=1846266205",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=Stray%20Kids%20Do%20It",
+    "verified": false
+   }
+  },
+  "releaseDate": "2025-11-21",
+  "album": "DO IT",
+  "artwork": "/images/releases/stray-kids-song-do-it.jpg"
+ },
+ {
+  "id": "album-giant",
+  "title": "Giant",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Giant",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/giant/1777033478",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_OO7PQSue0av",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-11-13",
+  "artwork": "/images/releases/stray-kids-album-giant.jpg"
+ },
+ {
+  "id": "album-hollow",
+  "title": "Hollow",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Hollow",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hollow-ep/1815865407",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_K7V5QZyryzY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-06-18",
+  "artwork": "/images/releases/stray-kids-album-hollow.jpg"
+ },
+ {
+  "id": "album-karma",
+  "title": "Karma",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/karma/1827247172",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_UvRzYCah1Bt",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-08-22",
+  "artwork": "/images/releases/stray-kids-album-karma.jpg"
+ },
+ {
+  "id": "song-lalalala",
+  "title": "Lalalala",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Lalalala",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lalalala/1710644819?i=1710644832",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=HNcmCKTWd6w",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-11-10",
+  "album": "ROCK-STAR",
+  "artwork": "/images/releases/stray-kids-song-lalalala.jpg"
+ },
+ {
+  "id": "song-maniac",
+  "title": "Maniac",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Maniac",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/maniac/1609666698?i=1609666702",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=VG4lpTHuytc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-03-18",
+  "album": "ODDINARY",
+  "artwork": "/images/releases/stray-kids-song-maniac.jpg"
+ },
+ {
+  "id": "album-maxident",
+  "title": "Maxident",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Maxident",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/maxident/1644436101",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_NuxPbSpDTkj",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-10-07",
+  "artwork": "/images/releases/stray-kids-album-maxident.jpg"
+ },
+ {
+  "id": "album-noeasy",
+  "title": "Noeasy",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Noeasy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/noeasy/1608255571",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_ERqn220D2nK",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-08-23",
+  "artwork": "/images/releases/stray-kids-album-noeasy.jpg"
+ },
+ {
+  "id": "song-s-class",
+  "title": "S-Class",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20S-Class",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/s-class/1686489462?i=1686489691",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=_M409k9cOcg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-06-02",
+  "album": "5-STAR",
+  "artwork": "/images/releases/stray-kids-song-s-class.jpg"
+ },
+ {
+  "id": "album-skzflix",
+  "title": "SKZflix",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20SKZflix",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=Stray%20Kids%20SKZflix",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=Stray%20Kids%20SKZflix",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-social-path-super-bowl-japanese-ver",
+  "title": "Social Path / Super Bowl(Japanese Ver.)",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Social%20Path%20%2F%20Super%20Bowl(Japanese%20Ver.)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=Stray%20Kids%20Social%20Path%20%2F%20Super%20Bowl(Japanese%20Ver.)",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_PuiGuccxvep",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "album-stray-kids-2nd-world-tour-maniac-encore-in-japan",
+  "title": "Stray Kids 2nd World Tour \"Maniac\" Encore in Japan",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Stray%20Kids%202nd%20World%20Tour%20%22Maniac%22%20Encore%20in%20Japan",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=Stray%20Kids%20Stray%20Kids%202nd%20World%20Tour%20%22Maniac%22%20Encore%20in%20Japan",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=Stray%20Kids%20Stray%20Kids%202nd%20World%20Tour%20%22Maniac%22%20Encore%20in%20Japan",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-stray-kids-fan-connecting-2024-skz-toy-world",
+  "title": "Stray Kids Fan Connecting 2024 \"SKZ Toy World\"",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Stray%20Kids%20Fan%20Connecting%202024%20%22SKZ%20Toy%20World%22",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=Stray%20Kids%20Stray%20Kids%20Fan%20Connecting%202024%20%22SKZ%20Toy%20World%22",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=Stray%20Kids%20Stray%20Kids%20Fan%20Connecting%202024%20%22SKZ%20Toy%20World%22",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-this-that",
+  "title": "This & That",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20This%20%26%20That",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/this-that/6781751949?i=6781751957",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=wkr1JO1Q5FE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-08-06",
+  "album": "THIS & THAT",
+  "artwork": "/images/releases/stray-kids-song-this-that.jpg"
+ },
+ {
+  "id": "song-thunderous",
+  "title": "Thunderous",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Thunderous",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/thunderous/1608255571?i=1608255955",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=NpCAcSez2BU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-08-23",
+  "album": "NOEASY",
+  "artwork": "/images/releases/stray-kids-song-thunderous.jpg"
+ },
+ {
+  "id": "song-walkin-on-water",
+  "title": "Walkin on Water",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Stray%20Kids%20Walkin%20on%20Water",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/walkin-on-water/1780411692?i=1780412269",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=sd8U4Hfmkfg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-12-13",
+  "album": "HOP",
+  "artwork": "/images/releases/stray-kids-song-walkin-on-water.jpg"
+ }
+]

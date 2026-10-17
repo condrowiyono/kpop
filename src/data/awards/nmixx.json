@@ -1,0 +1,361 @@
+[
+ {
+  "id": "d-awards-2026-best-group",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "tma-2026-artist-of-the-year-bonsang",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "tma-2026-sound-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Sound of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "tmea-2026-global-top-trend-song-top-10-blue-valentine",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "Global Top Trend Song Top 10",
+  "tier": "category",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "tmea-2026-the-leading-international-group",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "The Leading International Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "music-bank-2026-05-22",
+  "year": 2026,
+  "date": "2026-05-22",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Heavy Serenade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-heavy-serenade"
+ },
+ {
+  "id": "m-countdown-2026-05-21",
+  "year": 2026,
+  "date": "2026-05-21",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Heavy Serenade",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-heavy-serenade"
+ },
+ {
+  "id": "music-bank-2026-01-02",
+  "year": 2026,
+  "date": "2026-01-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "music-core-2025-11-22",
+  "year": 2025,
+  "date": "2025-11-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "inkigayo-2025-11-16",
+  "year": 2025,
+  "date": "2025-11-16",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "music-core-2025-11-15",
+  "year": 2025,
+  "date": "2025-11-15",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "inkigayo-2025-11-09",
+  "year": 2025,
+  "date": "2025-11-09",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "inkigayo-2025-10-26",
+  "year": 2025,
+  "date": "2025-10-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "music-core-2025-10-25",
+  "year": 2025,
+  "date": "2025-10-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "music-bank-2025-10-24",
+  "year": 2025,
+  "date": "2025-10-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "m-countdown-2025-10-23",
+  "year": 2025,
+  "date": "2025-10-23",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "show-champion-2025-10-22",
+  "year": 2025,
+  "date": "2025-10-22",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blue Valentine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-blue-valentine"
+ },
+ {
+  "id": "inkigayo-2025-03-30",
+  "year": 2025,
+  "date": "2025-03-30",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Know About Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-know-about-me"
+ },
+ {
+  "id": "music-bank-2025-03-28",
+  "year": 2025,
+  "date": "2025-03-28",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Know About Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-know-about-me"
+ },
+ {
+  "id": "show-champion-2025-03-26",
+  "year": 2025,
+  "date": "2025-03-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Know About Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-know-about-me"
+ },
+ {
+  "id": "hanteo-2024-global-outstanding-artist",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Global Outstanding Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "inkigayo-2024-09-01",
+  "year": 2024,
+  "date": "2024-09-01",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "See That?",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-see-that"
+ },
+ {
+  "id": "music-bank-2024-08-30",
+  "year": 2024,
+  "date": "2024-08-30",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "See That?",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-see-that"
+ },
+ {
+  "id": "m-countdown-2024-08-29",
+  "year": 2024,
+  "date": "2024-08-29",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "See That?",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-see-that"
+ },
+ {
+  "id": "inkigayo-2024-01-28",
+  "year": 2024,
+  "date": "2024-01-28",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-dash"
+ },
+ {
+  "id": "music-bank-2024-01-26",
+  "year": 2024,
+  "date": "2024-01-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-dash"
+ },
+ {
+  "id": "m-countdown-2024-01-25",
+  "year": 2024,
+  "date": "2024-01-25",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-dash"
+ },
+ {
+  "id": "show-champion-2024-01-24",
+  "year": 2024,
+  "date": "2024-01-24",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-dash"
+ },
+ {
+  "id": "aaa-2023-best-icon-award-music",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Icon Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "aaa-2023-best-choice-award-music",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Choice Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "show-champion-2023-03-29",
+  "year": 2023,
+  "date": "2023-03-29",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Me Like This",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-love-me-like-this"
+ },
+ {
+  "id": "aaa-2022-best-emotive-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Best Emotive Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "aaa-2022-new-wave-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "New Wave Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ },
+ {
+  "id": "mama-2022-favorite-new-artist",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Favorite New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Nmixx"
+ }
+]

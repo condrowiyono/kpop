@@ -1,0 +1,197 @@
+[
+ {
+  "id": "song-asap",
+  "title": "ASAP",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20ASAP",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/asap/1561143398?i=1561143399",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=aHR8zak8Xsc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-04-08",
+  "album": "STAYDOM",
+  "artwork": "/images/releases/stayc-song-asap.jpg"
+ },
+ {
+  "id": "song-beautiful-monster",
+  "title": "Beautiful Monster",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Beautiful%20Monster",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/beautiful-monster/1634360915?i=1634360916",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=gWvQrC_wjCI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-19",
+  "album": "WE NEED LOVE",
+  "artwork": "/images/releases/stayc-song-beautiful-monster.jpg"
+ },
+ {
+  "id": "song-bebe",
+  "title": "Bebe",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Bebe",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bebe/1800597776?i=1800597777",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=r-NpCrUxZCc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-03-18",
+  "album": "S",
+  "artwork": "/images/releases/stayc-song-bebe.jpg"
+ },
+ {
+  "id": "song-bubble",
+  "title": "Bubble",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Bubble",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bubble/1701915214?i=1701915216",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=vU19KfDd7Dc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-08-16",
+  "album": "TEENFRESH",
+  "artwork": "/images/releases/stayc-song-bubble.jpg"
+ },
+ {
+  "id": "song-cheeky-icy-thang",
+  "title": "Cheeky Icy Thang",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Cheeky%20Icy%20Thang",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/cheeky-icy-thang/1752835376?i=1752835382",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=82ZFg7iDGA0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-01",
+  "album": "Metamorphic",
+  "artwork": "/images/releases/stayc-song-cheeky-icy-thang.jpg"
+ },
+ {
+  "id": "album-idol-1n2d",
+  "title": "Idol 1N2D",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Idol%201N2D",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=STAYC%20Idol%201N2D",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=STAYC%20Idol%201N2D",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-run2u",
+  "title": "Run2U",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Run2U",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/run2u/1609910841?i=1609910842",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=W0x7GcZkvH4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-02-21",
+  "album": "YOUNG-LUV.COM",
+  "artwork": "/images/releases/stayc-song-run2u.jpg"
+ },
+ {
+  "id": "song-stereotype",
+  "title": "Stereotype",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Stereotype",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/stereotype/1583902626?i=1583902627",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=cDUSXYi0Zl0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-09-06",
+  "album": "STEREOTYPE",
+  "artwork": "/images/releases/stayc-song-stereotype.jpg"
+ },
+ {
+  "id": "song-teddy-bear",
+  "title": "Teddy Bear",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/STAYC%20Teddy%20Bear",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/teddy-bear/1670622072?i=1670622073",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=EoO2MTDkpJA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-02-14",
+  "album": "Teddy Bear",
+  "artwork": "/images/releases/stayc-song-teddy-bear.jpg"
+ }
+]

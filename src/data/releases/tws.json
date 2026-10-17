@@ -1,0 +1,112 @@
+[
+ {
+  "id": "song-countdown",
+  "title": "Countdown",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWS%20Countdown",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/countdown/1805792421?i=1805792444",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=u0lUMREEyuk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-04-21",
+  "album": "TRY WITH US",
+  "artwork": "/images/releases/tws-song-countdown.jpg"
+ },
+ {
+  "id": "song-if-i-m-s-can-you-be-my-n",
+  "title": "If I'm S, Can You Be My N?",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWS%20If%20I'm%20S%2C%20Can%20You%20Be%20My%20N%3F",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/if-im-s-can-you-be-my-n/1751362472?i=1751362479",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=fZqSGS1mRnw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-06-24",
+  "album": "SUMMER BEAT!",
+  "artwork": "/images/releases/tws-song-if-i-m-s-can-you-be-my-n.jpg"
+ },
+ {
+  "id": "song-overdrive",
+  "title": "Overdrive",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWS%20Overdrive",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/overdrive/1841775048?i=1841775052",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=QPAWJ2FyRRw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-10-13",
+  "album": "play hard",
+  "artwork": "/images/releases/tws-song-overdrive.jpg"
+ },
+ {
+  "id": "song-plot-twist",
+  "title": "Plot Twist",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWS%20Plot%20Twist",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/plot-twist/1723932647?i=1723932648",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=bKeU99EygzY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-01-22",
+  "album": "Sparkling Blue",
+  "artwork": "/images/releases/tws-song-plot-twist.jpg"
+ },
+ {
+  "id": "song-you-you",
+  "title": "You, You",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWS%20You%2C%20You",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/you-you/1887723578?i=1887723927",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Da-mcD_sF_E",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-04-27",
+  "album": "NO TRAGEDY",
+  "artwork": "/images/releases/tws-song-you-you.jpg"
+ }
+]

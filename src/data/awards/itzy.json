@@ -1,0 +1,550 @@
+[
+ {
+  "id": "mama-2025-fans-choice-top-10-female",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Female",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "tmea-2025-best-international-stage-performance",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "Best International Stage Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "music-bank-2025-11-21",
+  "year": 2025,
+  "date": "2025-11-21",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Tunnel Vision",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-tunnel-vision"
+ },
+ {
+  "id": "music-bank-2024-01-19",
+  "year": 2024,
+  "date": "2024-01-19",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Untouchable",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-untouchable"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas-cake",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Cake",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "song-cake"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-global-digital-music-november-cheshire",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Digital Music (November)",
+  "tier": "category",
+  "work": "Cheshire",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "song-cheshire"
+ },
+ {
+  "id": "kwda-2023-k-global-bonsang-main-prize",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Bonsang (Main Prize)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "music-bank-2023-08-11",
+  "year": 2023,
+  "date": "2023-08-11",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Cake",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-cake"
+ },
+ {
+  "id": "aaa-2022-asia-celebrity-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Asia Celebrity – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "aaa-2022-best-artist-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "apma-2022-top-20-albums-of-the-year-overseas-checkmate",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Checkmate",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "album-checkmate"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "music-bank-2022-12-09",
+  "year": 2022,
+  "date": "2022-12-09",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Cheshire",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-cheshire"
+ },
+ {
+  "id": "inkigayo-2022-08-14",
+  "year": 2022,
+  "date": "2022-08-14",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sneakers",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-sneakers"
+ },
+ {
+  "id": "m-countdown-2022-08-11",
+  "year": 2022,
+  "date": "2022-08-11",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sneakers",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-sneakers"
+ },
+ {
+  "id": "music-bank-2022-07-22",
+  "year": 2022,
+  "date": "2022-07-22",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sneakers",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-sneakers"
+ },
+ {
+  "id": "aaa-2021-best-musician-award",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "apma-2021-top-20-albums-of-the-year-overseas-crazy-in-love",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Crazy in Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "album-crazy-in-love"
+ },
+ {
+  "id": "apma-2021-top-20-songs-of-the-year-overseas-in-the-morning",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "In the Morning",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "song-in-the-morning"
+ },
+ {
+  "id": "apma-2021-top-20-songs-of-the-year-overseas-loco",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Loco",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "song-loco"
+ },
+ {
+  "id": "circle-2021-world-k-pop-rookie",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "World K-Pop Rookie",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "gda-2021-best-digital-song-bonsang-wannabe",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "hanteo-2021-artist-award-female-group",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "Artist Award – Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "jgda-2021-best-3-new-artists-asia",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists – Asia",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "sma-2021-discovery-of-the-year",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Discovery of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "m-countdown-2021-10-14",
+  "year": 2021,
+  "date": "2021-10-14",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Loco",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-loco"
+ },
+ {
+  "id": "inkigayo-2021-10-10",
+  "year": 2021,
+  "date": "2021-10-10",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Loco",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-loco"
+ },
+ {
+  "id": "music-bank-2021-10-08",
+  "year": 2021,
+  "date": "2021-10-08",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Loco",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-loco"
+ },
+ {
+  "id": "inkigayo-2021-05-16",
+  "year": 2021,
+  "date": "2021-05-16",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In the Morning",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-in-the-morning"
+ },
+ {
+  "id": "music-bank-2021-05-14",
+  "year": 2021,
+  "date": "2021-05-14",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In the Morning",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-in-the-morning"
+ },
+ {
+  "id": "m-countdown-2021-05-13",
+  "year": 2021,
+  "date": "2021-05-13",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In the Morning",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-in-the-morning"
+ },
+ {
+  "id": "show-champion-2021-05-12",
+  "year": 2021,
+  "date": "2021-05-12",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In the Morning",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-in-the-morning"
+ },
+ {
+  "id": "m-countdown-2021-05-06",
+  "year": 2021,
+  "date": "2021-05-06",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "In the Morning",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-in-the-morning"
+ },
+ {
+  "id": "aaa-2020-hot-issue-award-music",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Hot Issue Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "aaa-2020-choice-award-music",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Choice Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "circle-2020-new-artist-of-the-year-digital",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "New Artist of the Year – Digital",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "gda-2020-best-digital-song-bonsang-dalla-dalla",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Dalla Dalla",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy",
+  "releaseId": "song-dalla-dalla"
+ },
+ {
+  "id": "gda-2020-rookie-of-the-year-award",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Rookie of the Year Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "sma-2020-new-artist-award",
+  "year": 2020,
+  "ceremonyId": "sma",
+  "category": "New Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "soribada-2020-new-k-wave-artist-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "New K-Wave Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "tma-2020-best-performer",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Best Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+ },
+ {
+  "id": "m-countdown-2020-09-17",
+  "year": 2020,
+  "date": "2020-09-17",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-not-shy"
+ },
+ {
+  "id": "m-countdown-2020-09-10",
+  "year": 2020,
+  "date": "2020-09-10",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-not-shy"
+ },
+ {
+  "id": "m-countdown-2020-09-03",
+  "year": 2020,
+  "date": "2020-09-03",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-not-shy"
+ },
+ {
+  "id": "music-bank-2020-08-28",
+  "year": 2020,
+  "date": "2020-08-28",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-not-shy"
+ },
+ {
+  "id": "show-champion-2020-08-26",
+  "year": 2020,
+  "date": "2020-08-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-not-shy"
+ },
+ {
+  "id": "inkigayo-2020-04-05",
+  "year": 2020,
+  "date": "2020-04-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "m-countdown-2020-04-02",
+  "year": 2020,
+  "date": "2020-04-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "show-champion-2020-04-01",
+  "year": 2020,
+  "date": "2020-04-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "inkigayo-2020-03-29",
+  "year": 2020,
+  "date": "2020-03-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "m-countdown-2020-03-26",
+  "year": 2020,
+  "date": "2020-03-26",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "show-champion-2020-03-25",
+  "year": 2020,
+  "date": "2020-03-25",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "inkigayo-2020-03-22",
+  "year": 2020,
+  "date": "2020-03-22",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-wannabe"
+ },
+ {
+  "id": "m-countdown-2020-03-19",
+  "year": 2020,
+  "date": "2020-03-19",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Wannabe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-wannabe"
+ }
+]

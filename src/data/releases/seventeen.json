@@ -1,0 +1,553 @@
+[
+ {
+  "id": "song-world",
+  "title": "_World",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20_World",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/world/1632682433?i=1632682448",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=waSxahLWSAM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-18",
+  "album": "SECTOR 17",
+  "artwork": "/images/releases/seventeen-song-world.jpg"
+ },
+ {
+  "id": "album-17-is-right-here",
+  "title": "17 is Right Here",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%2017%20is%20Right%20Here",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/17-is-right-here/1741446411",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_z10EvGuccXo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-29",
+  "artwork": "/images/releases/seventeen-album-17-is-right-here.jpg"
+ },
+ {
+  "id": "album-24h",
+  "title": "24H",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%2024H",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/24h-ep/1528149531",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_vOlxEIZENUr",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-09-09",
+  "artwork": "/images/releases/seventeen-album-24h.jpg"
+ },
+ {
+  "id": "album-always-yours",
+  "title": "Always Yours",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Always%20Yours",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/always-yours/1701948718",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_XOtxjUY3Fmo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-08-23",
+  "artwork": "/images/releases/seventeen-album-always-yours.jpg"
+ },
+ {
+  "id": "album-an-ode",
+  "title": "An Ode",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20An%20Ode",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/an-ode/1551739579",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_gs00rKGEgAB",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-09-16",
+  "artwork": "/images/releases/seventeen-album-an-ode.jpg"
+ },
+ {
+  "id": "album-attacca",
+  "title": "Attacca",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Attacca",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/attacca/1589497186",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20Attacca",
+    "verified": false
+   }
+  },
+  "releaseDate": "2021-10-22",
+  "artwork": "/images/releases/seventeen-album-attacca.jpg"
+ },
+ {
+  "id": "album-dream",
+  "title": "Dream",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Dream",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dream-ep/1652038161",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_9AdCJon4y2A",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-11-09",
+  "artwork": "/images/releases/seventeen-album-dream.jpg"
+ },
+ {
+  "id": "album-face-the-sun",
+  "title": "Face the Sun",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Face%20the%20Sun",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/face-the-sun/1625319240",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20Face%20the%20Sun",
+    "verified": false
+   }
+  },
+  "releaseDate": "2022-05-27",
+  "artwork": "/images/releases/seventeen-album-face-the-sun.jpg"
+ },
+ {
+  "id": "album-fml",
+  "title": "FML",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20FML",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fml/1681324004",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20FML",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-04-24",
+  "artwork": "/images/releases/seventeen-album-fml.jpg"
+ },
+ {
+  "id": "song-god-of-music",
+  "title": "God of Music",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20God%20of%20Music",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/god-of-music/1711288571?i=1711288969",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20God%20of%20Music",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-10-23",
+  "album": "SEVENTEENTH HEAVEN",
+  "artwork": "/images/releases/seventeen-song-god-of-music.jpg"
+ },
+ {
+  "id": "album-happy-burstday",
+  "title": "Happy Burstday",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Happy%20Burstday",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=SEVENTEEN%20Happy%20Burstday",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_G1DDd71y2Oq",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "album-heng-garae",
+  "title": "Heng:garae",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Heng%3Agarae",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=SEVENTEEN%20Heng%3Agarae",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20Heng%3Agarae",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-heng-gar",
+  "title": "Heng:garæ",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Heng%3Agar%C3%A6",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/heng-gar%C3%A6-ep/1551735824",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_IpJZA5n12GH",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-06-22",
+  "artwork": "/images/releases/seventeen-album-heng-gar.jpg"
+ },
+ {
+  "id": "song-home-run",
+  "title": "Home;Run",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Home%3BRun",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/home-run/1535649370?i=1535649373",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=_fo7LW2Oj7o",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-10-19",
+  "album": "; (Semicolon)",
+  "artwork": "/images/releases/seventeen-song-home-run.jpg"
+ },
+ {
+  "id": "song-hot",
+  "title": "Hot",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Hot",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hot/1625319240?i=1625319407",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=jAk2WBAjzlI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-05-27",
+  "album": "Face the Sun",
+  "artwork": "/images/releases/seventeen-song-hot.jpg"
+ },
+ {
+  "id": "song-left-right",
+  "title": "Left & Right",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Left%20%26%20Right",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/left-right/1551735824?i=1551735838",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=hF6_KeZp2-4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-06-22",
+  "album": "Heng:garæ",
+  "artwork": "/images/releases/seventeen-song-left-right.jpg"
+ },
+ {
+  "id": "song-love-money-fame",
+  "title": "Love, Money, Fame",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Love%2C%20Money%2C%20Fame",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love-money-fame-feat-dj-khaled/1772142740?i=1772142757",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=hQDLBzU0CVM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-10-14",
+  "album": "SPILL THE FEELS",
+  "artwork": "/images/releases/seventeen-song-love-money-fame.jpg"
+ },
+ {
+  "id": "song-maestro",
+  "title": "Maestro",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Maestro",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/maestro/1744019955?i=1744020108",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=dam84VjfvtE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-29",
+  "album": "MAESTRO (Orchestra Remix)",
+  "artwork": "/images/releases/seventeen-song-maestro.jpg"
+ },
+ {
+  "id": "song-ready-to-love",
+  "title": "Ready to Love",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Ready%20to%20Love",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ready-to-love/1571363156?i=1571363622",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=j4ffQuYFfY8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-06-18",
+  "album": "Your Choice",
+  "artwork": "/images/releases/seventeen-song-ready-to-love.jpg"
+ },
+ {
+  "id": "song-rock-with-you",
+  "title": "Rock With You",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Rock%20With%20You",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/rock-with-you/1589497186?i=1589497195",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=5qqlqhMNG8s",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-10-22",
+  "album": "Attacca",
+  "artwork": "/images/releases/seventeen-song-rock-with-you.jpg"
+ },
+ {
+  "id": "album-seventeen-world-tour-japan",
+  "title": "Seventeen World Tour Japan",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Seventeen%20World%20Tour%20Japan",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=SEVENTEEN%20Seventeen%20World%20Tour%20Japan",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20Seventeen%20World%20Tour%20Japan",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-seventeenth-heaven",
+  "title": "Seventeenth Heaven",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Seventeenth%20Heaven",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/seventeenth-heaven/1711288571",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=SEVENTEEN%20Seventeenth%20Heaven",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-10-23",
+  "artwork": "/images/releases/seventeen-album-seventeenth-heaven.jpg"
+ },
+ {
+  "id": "album-spill-the-feels",
+  "title": "Spill the Feels",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Spill%20the%20Feels",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/spill-the-feels/1772142740",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_ZABqGk38R6E",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-10-14",
+  "artwork": "/images/releases/seventeen-album-spill-the-feels.jpg"
+ },
+ {
+  "id": "song-super",
+  "title": "Super",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Super",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/super/1681324004?i=1681324047",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=xqIMWVWAPHE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-04-23",
+  "album": "FML",
+  "artwork": "/images/releases/seventeen-song-super.jpg"
+ },
+ {
+  "id": "song-thunder",
+  "title": "Thunder",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20Thunder",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/thunder/1846801259?i=1846801261",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=e3ADD0pYwxQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-05-26",
+  "album": "HAPPY BURSTDAY",
+  "artwork": "/images/releases/seventeen-song-thunder.jpg"
+ },
+ {
+  "id": "album-you-made-my-dawn",
+  "title": "You Made My Dawn",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/SEVENTEEN%20You%20Made%20My%20Dawn",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/you-made-my-dawn/1700266862",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_0S5Zoh54HgJ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-01-21",
+  "artwork": "/images/releases/seventeen-album-you-made-my-dawn.jpg"
+ }
+]

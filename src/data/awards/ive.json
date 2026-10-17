@@ -1,0 +1,1761 @@
+[
+ {
+  "id": "asea-2026-the-platinum-bonsang",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "The Platinum (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "gda-2026-best-album-bonsang-ive-empathy",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Ive Empathy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-ive-empathy"
+ },
+ {
+  "id": "gda-2026-best-digital-song-bonsang-rebel-heart",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "gda-2026-cosmopolitan-artist-award",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Cosmopolitan Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2026-k-world-dream-best-digital-music-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "K-World Dream Best Digital Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tmea-2026-the-hottest-international-group",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "The Hottest International Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "music-bank-2026-03-13",
+  "year": 2026,
+  "date": "2026-03-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "inkigayo-2026-03-08",
+  "year": 2026,
+  "date": "2026-03-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "music-core-2026-03-07",
+  "year": 2026,
+  "date": "2026-03-07",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "music-bank-2026-03-06",
+  "year": 2026,
+  "date": "2026-03-06",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "show-champion-2026-03-04",
+  "year": 2026,
+  "date": "2026-03-04",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blackhole",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-blackhole"
+ },
+ {
+  "id": "inkigayo-2026-03-01",
+  "year": 2026,
+  "date": "2026-03-01",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "music-core-2026-02-28",
+  "year": 2026,
+  "date": "2026-02-28",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "music-bank-2026-02-27",
+  "year": 2026,
+  "date": "2026-02-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "m-countdown-2026-02-26",
+  "year": 2026,
+  "date": "2026-02-26",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bang Bang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-bang-bang"
+ },
+ {
+  "id": "aaa-2025-best-artist-singer",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best Artist – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "aaa-2025-best-k-pop-record",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best K-pop Record",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "aaa-2025-song-of-the-year-daesang-rebel-heart",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Song of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "asea-2025-the-platinum-bonsang",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "The Platinum (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "brand-loyalty-2025-female-idol",
+  "year": 2025,
+  "ceremonyId": "brand-loyalty",
+  "category": "Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "gda-2025-best-album-bonsang-ive-switch",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Ive Switch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-ive-switch"
+ },
+ {
+  "id": "gda-2025-best-digital-song-bonsang-heya",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Heya",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-heya"
+ },
+ {
+  "id": "gda-2025-global-k-pop-artist",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Global K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kgma-2025-best-global-k-pop-star",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Global K-pop star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kgma-2025-best-music-10-ive-secret",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Music 10",
+  "tier": "category",
+  "work": "Ive Secret",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-ive-secret"
+ },
+ {
+  "id": "kgma-2025-ena-k-pop-artist",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "ENA K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kgma-2025-grand-song-daesang-rebel-heart",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Grand Song (Daesang)",
+  "tier": "daesang",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "kwda-2025-k-world-best-artist-award-daesang",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "K-World Best Artist Award (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2025-k-world-bonsang-award",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "K-World Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2025-k-world-class-award",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "K-World Class Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2025-favorite-female-group",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Favorite Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2025-favorite-global-performer",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Favorite Global Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2025-global-trend-song-rebel-heart",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Global Trend Song",
+  "tier": "category",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "mma-2025-best-female-group",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mma-2025-millions-top-10-ive-empathy",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "Ive Empathy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-ive-empathy"
+ },
+ {
+  "id": "mma-2025-top-10-artist",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tma-2025-sound-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Sound of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "inkigayo-2025-10-19",
+  "year": 2025,
+  "date": "2025-10-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "XOXZ",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-xoxz"
+ },
+ {
+  "id": "music-core-2025-10-18",
+  "year": 2025,
+  "date": "2025-10-18",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "XOXZ",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-xoxz"
+ },
+ {
+  "id": "inkigayo-2025-09-07",
+  "year": 2025,
+  "date": "2025-09-07",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "XOXZ",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-xoxz"
+ },
+ {
+  "id": "music-core-2025-09-06",
+  "year": 2025,
+  "date": "2025-09-06",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "XOXZ",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-xoxz"
+ },
+ {
+  "id": "music-bank-2025-09-05",
+  "year": 2025,
+  "date": "2025-09-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "XOXZ",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-xoxz"
+ },
+ {
+  "id": "music-core-2025-03-01",
+  "year": 2025,
+  "date": "2025-03-01",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attitude",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-attitude"
+ },
+ {
+  "id": "inkigayo-2025-02-23",
+  "year": 2025,
+  "date": "2025-02-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attitude",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-attitude"
+ },
+ {
+  "id": "music-core-2025-02-22",
+  "year": 2025,
+  "date": "2025-02-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "inkigayo-2025-02-16",
+  "year": 2025,
+  "date": "2025-02-16",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attitude",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-attitude"
+ },
+ {
+  "id": "music-bank-2025-02-14",
+  "year": 2025,
+  "date": "2025-02-14",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "m-countdown-2025-02-13",
+  "year": 2025,
+  "date": "2025-02-13",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attitude",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-attitude"
+ },
+ {
+  "id": "inkigayo-2025-02-09",
+  "year": 2025,
+  "date": "2025-02-09",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "music-core-2025-02-08",
+  "year": 2025,
+  "date": "2025-02-08",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "m-countdown-2025-02-06",
+  "year": 2025,
+  "date": "2025-02-06",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "inkigayo-2025-02-02",
+  "year": 2025,
+  "date": "2025-02-02",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "m-countdown-2025-01-30",
+  "year": 2025,
+  "date": "2025-01-30",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "inkigayo-2025-01-26",
+  "year": 2025,
+  "date": "2025-01-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "music-core-2025-01-25",
+  "year": 2025,
+  "date": "2025-01-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "music-bank-2025-01-24",
+  "year": 2025,
+  "date": "2025-01-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "m-countdown-2025-01-23",
+  "year": 2025,
+  "date": "2025-01-23",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rebel Heart",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-rebel-heart"
+ },
+ {
+  "id": "gda-2024-best-album-bonsang-i-ve-mine",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "I've Mine",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-i-ve-mine"
+ },
+ {
+  "id": "gda-2024-best-digital-song-bonsang-i-am",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2024-k-world-best-song-award",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "K-World Best Song Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2024-cj-global-performance",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "CJ Global Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2024-favorite-global-performer-female",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Favorite Global Performer – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2024-worldwide-fans-choice-top-10-female",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10 – Female",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mma-2024-global-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mma-2024-millions-top-10-ive-switch",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "Ive Switch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-ive-switch"
+ },
+ {
+  "id": "mma-2024-music-video-of-the-year-heya",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Music Video of the Year",
+  "tier": "category",
+  "work": "Heya",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-heya"
+ },
+ {
+  "id": "sma-2024-main-prize-bonsang",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tmea-2024-k-pop-eps-of-the-year-ive-switch",
+  "year": 2024,
+  "ceremonyId": "tmea",
+  "category": "K-pop EPs of the Year",
+  "tier": "category",
+  "work": "Ive Switch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-ive-switch"
+ },
+ {
+  "id": "tmea-2024-longest-k-pop-songs-on-the-chart-heya",
+  "year": 2024,
+  "ceremonyId": "tmea",
+  "category": "Longest K-pop Songs on the Chart",
+  "tier": "category",
+  "work": "Heya",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-heya"
+ },
+ {
+  "id": "aaa-2023-best-artist-award-music",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas-i-am",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "brand-loyalty-2023-most-influential-female-idol",
+  "year": 2023,
+  "ceremonyId": "brand-loyalty",
+  "category": "Most Influential Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "brand-of-the-year-2023-female-idol-of-the-year",
+  "year": 2023,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-digital-i-am",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Digital",
+  "tier": "category",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-global-streaming-i-am",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Streaming",
+  "tier": "category",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "circle-2023-artist-of-the-year-streaming-unique-listeners-i-am",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Streaming Unique Listeners",
+  "tier": "category",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "gda-2023-best-digital-song-bonsang-love-dive",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "gda-2023-rookie-artist-of-the-year",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "gda-2023-song-of-the-year-daesang-love-dive",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Song of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "hanteo-2023-best-song-daesang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Best Song (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "jgda-2023-best-3-new-artists-asia",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "jgda-2023-new-artist-of-the-year-asia",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "New Artist of the Year (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "korea-broadcasting-awards-2023-best-singer",
+  "year": 2023,
+  "ceremonyId": "korea-broadcasting-awards",
+  "category": "Best Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "korea-first-brand-2023-best-female-idol",
+  "year": 2023,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "korea-pd-2023-best-performance-award-singer",
+  "year": 2023,
+  "ceremonyId": "korea-pd",
+  "category": "Best Performance Award – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2023-k-global-best-music-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Best Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mma-2023-album-of-the-year-i-ve-ive",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "I've Ive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-i-ve-ive"
+ },
+ {
+  "id": "mma-2023-millions-top-10-i-ve-ive",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10",
+  "tier": "bonsang",
+  "work": "I've Ive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "album-i-ve-ive"
+ },
+ {
+  "id": "mma-2023-top-10-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "sma-2023-bonsang-award",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tma-2023-world-best-performer",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "World Best Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "inkigayo-2023-12-03",
+  "year": 2023,
+  "date": "2023-12-03",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Baddie",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-baddie"
+ },
+ {
+  "id": "inkigayo-2023-11-19",
+  "year": 2023,
+  "date": "2023-11-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Baddie",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-baddie"
+ },
+ {
+  "id": "inkigayo-2023-11-12",
+  "year": 2023,
+  "date": "2023-11-12",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Baddie",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-baddie"
+ },
+ {
+  "id": "inkigayo-2023-10-29",
+  "year": 2023,
+  "date": "2023-10-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Either Way",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-either-way"
+ },
+ {
+  "id": "m-countdown-2023-10-26",
+  "year": 2023,
+  "date": "2023-10-26",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Baddie",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-baddie"
+ },
+ {
+  "id": "show-champion-2023-10-25",
+  "year": 2023,
+  "date": "2023-10-25",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Baddie",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-baddie"
+ },
+ {
+  "id": "inkigayo-2023-06-25",
+  "year": 2023,
+  "date": "2023-06-25",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "inkigayo-2023-06-18",
+  "year": 2023,
+  "date": "2023-06-18",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "m-countdown-2023-04-27",
+  "year": 2023,
+  "date": "2023-04-27",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "inkigayo-2023-04-23",
+  "year": 2023,
+  "date": "2023-04-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "music-core-2023-04-22",
+  "year": 2023,
+  "date": "2023-04-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "music-bank-2023-04-21",
+  "year": 2023,
+  "date": "2023-04-21",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "m-countdown-2023-04-20",
+  "year": 2023,
+  "date": "2023-04-20",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "show-champion-2023-04-19",
+  "year": 2023,
+  "date": "2023-04-19",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "the-show-2023-04-18",
+  "year": 2023,
+  "date": "2023-04-18",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "I Am",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-i-am"
+ },
+ {
+  "id": "inkigayo-2023-04-09",
+  "year": 2023,
+  "date": "2023-04-09",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Kitsch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-kitsch"
+ },
+ {
+  "id": "music-core-2023-04-08",
+  "year": 2023,
+  "date": "2023-04-08",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Kitsch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-kitsch"
+ },
+ {
+  "id": "aaa-2022-hot-trend-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Hot Trend Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "aaa-2022-rookie-of-the-year-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "aaa-2022-song-of-the-year-daesang-love-dive",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Song of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "apma-2022-best-new-artist-overseas",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Best New Artist (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "apma-2022-top-20-songs-of-the-year-overseas-love-dive",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "brand-of-the-year-2022-female-idol-of-the-year-rising-star",
+  "year": 2022,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol of the Year (Rising Star)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "circle-2022-artist-of-the-year-global-digital-music-april-love-dive",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Digital Music (April)",
+  "tier": "category",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "circle-2022-artist-of-the-year-global-digital-music-december-eleven",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Digital Music (December)",
+  "tier": "category",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "circle-2022-new-artist-of-the-year-physical-after-like",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "New Artist of the Year – Physical",
+  "tier": "category",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "dongacom-pick-2022-hold-your-breath-and-loved-ive",
+  "year": 2022,
+  "ceremonyId": "dongacom-pick",
+  "category": "Hold Your Breath and Loved Ive",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "genie-2022-best-female-rookie-award",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Best Female Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "genie-2022-best-style-award",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Best Style Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "hanteo-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2022-k-global-bonsang",
+  "year": 2022,
+  "ceremonyId": "kwda",
+  "category": "K-Global Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "kwda-2022-k-global-super-rookie-award",
+  "year": 2022,
+  "ceremonyId": "kwda",
+  "category": "K-Global Super Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2022-best-dance-performance-female-group-love-dive",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Female Group",
+  "tier": "category",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "mama-2022-best-new-female-artist",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Best New Female Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2022-favorite-new-artist",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Favorite New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mama-2022-song-of-the-year-love-dive",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "mma-2022-best-female-group",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mma-2022-best-new-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mma-2022-song-of-the-year-love-dive",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "mma-2022-top-10-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "sma-2022-best-song-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Best Song Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "sma-2022-bonsang-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "the-k-billboard-2022-global-artist-award",
+  "year": 2022,
+  "ceremonyId": "the-k-billboard",
+  "category": "Global Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "the-k-billboard-2022-hot-rookie-award",
+  "year": 2022,
+  "ceremonyId": "the-k-billboard",
+  "category": "Hot Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "tma-2022-next-leader-award",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "vmaj-2022-best-buzz-award",
+  "year": 2022,
+  "ceremonyId": "vmaj",
+  "category": "Best Buzz Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "inkigayo-2022-10-23",
+  "year": 2022,
+  "date": "2022-10-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-core-2022-10-22",
+  "year": 2022,
+  "date": "2022-10-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-bank-2022-10-07",
+  "year": 2022,
+  "date": "2022-10-07",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-core-2022-09-24",
+  "year": 2022,
+  "date": "2022-09-24",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-bank-2022-09-23",
+  "year": 2022,
+  "date": "2022-09-23",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-core-2022-09-17",
+  "year": 2022,
+  "date": "2022-09-17",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "m-countdown-2022-09-15",
+  "year": 2022,
+  "date": "2022-09-15",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-bank-2022-09-09",
+  "year": 2022,
+  "date": "2022-09-09",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "show-champion-2022-09-07",
+  "year": 2022,
+  "date": "2022-09-07",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "the-show-2022-09-06",
+  "year": 2022,
+  "date": "2022-09-06",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-core-2022-09-03",
+  "year": 2022,
+  "date": "2022-09-03",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "music-bank-2022-09-02",
+  "year": 2022,
+  "date": "2022-09-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "show-champion-2022-08-31",
+  "year": 2022,
+  "date": "2022-08-31",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "the-show-2022-08-30",
+  "year": 2022,
+  "date": "2022-08-30",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "After Like",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-after-like"
+ },
+ {
+  "id": "inkigayo-2022-07-17",
+  "year": 2022,
+  "date": "2022-07-17",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "inkigayo-2022-07-03",
+  "year": 2022,
+  "date": "2022-07-03",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "inkigayo-2022-05-08",
+  "year": 2022,
+  "date": "2022-05-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "m-countdown-2022-05-05",
+  "year": 2022,
+  "date": "2022-05-05",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "music-bank-2022-04-29",
+  "year": 2022,
+  "date": "2022-04-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "music-bank-2022-04-22",
+  "year": 2022,
+  "date": "2022-04-22",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "the-show-2022-04-19",
+  "year": 2022,
+  "date": "2022-04-19",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "music-bank-2022-04-15",
+  "year": 2022,
+  "date": "2022-04-15",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "show-champion-2022-04-13",
+  "year": 2022,
+  "date": "2022-04-13",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "the-show-2022-04-12",
+  "year": 2022,
+  "date": "2022-04-12",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Dive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-love-dive"
+ },
+ {
+  "id": "music-bank-2022-02-18",
+  "year": 2022,
+  "date": "2022-02-18",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "music-bank-2022-02-11",
+  "year": 2022,
+  "date": "2022-02-11",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "inkigayo-2022-01-23",
+  "year": 2022,
+  "date": "2022-01-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "music-core-2022-01-22",
+  "year": 2022,
+  "date": "2022-01-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "inkigayo-2022-01-16",
+  "year": 2022,
+  "date": "2022-01-16",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "music-core-2022-01-15",
+  "year": 2022,
+  "date": "2022-01-15",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "inkigayo-2022-01-09",
+  "year": 2022,
+  "date": "2022-01-09",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "music-core-2022-01-08",
+  "year": 2022,
+  "date": "2022-01-08",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "hanteo-2021-rookie-award-female-group",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "Rookie Award – Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "mubeat-2021-rookie-artist-female",
+  "year": 2021,
+  "ceremonyId": "mubeat",
+  "category": "Rookie Artist (Female)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ive"
+ },
+ {
+  "id": "music-core-2021-12-18",
+  "year": 2021,
+  "date": "2021-12-18",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "music-bank-2021-12-17",
+  "year": 2021,
+  "date": "2021-12-17",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "show-champion-2021-12-15",
+  "year": 2021,
+  "date": "2021-12-15",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "the-show-2021-12-14",
+  "year": 2021,
+  "date": "2021-12-14",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-eleven"
+ },
+ {
+  "id": "show-champion-2021-12-08",
+  "year": 2021,
+  "date": "2021-12-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Eleven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-eleven"
+ }
+]

@@ -1,0 +1,4241 @@
+[
+ {
+  "id": "amas-2026-artist-of-the-year",
+  "year": 2026,
+  "ceremonyId": "amas",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2026-song-of-the-summer-swim",
+  "year": 2026,
+  "ceremonyId": "amas",
+  "category": "Song of the Summer",
+  "tier": "category",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "amas-2026-best-male-k-pop-artist",
+  "year": 2026,
+  "ceremonyId": "amas",
+  "category": "Best Male K-Pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "brand-of-the-year-2026-best-male-idol",
+  "year": 2026,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Best Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "filipino-music-2026-people-s-choice-awards-international-artist",
+  "year": 2026,
+  "ceremonyId": "filipino-music",
+  "category": "People's Choice Awards: International Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "k-brand-index-2026-grand-prize",
+  "year": 2026,
+  "ceremonyId": "k-brand-index",
+  "category": "Grand Prize",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "km-chart-2026-album-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "km-chart",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "km-chart-2026-ultimate-12-bonsang",
+  "year": 2026,
+  "ceremonyId": "km-chart",
+  "category": "Ultimate 12 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2026-best-artist-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Best Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2026-artist-of-the-year",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2026-best-album-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Best Album Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "music-awards-japan-2026-best-k-pop-artist",
+  "year": 2026,
+  "ceremonyId": "music-awards-japan",
+  "category": "Best K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2026-special-hallyu-award",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Special Hallyu Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "spotv-2026-best-album-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "spotv",
+  "category": "Best Album of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "spotv-2026-artist-of-the-year-bonsang",
+  "year": 2026,
+  "ceremonyId": "spotv",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2026-fan-n-star-choice-award-group",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Choice Award – Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2026-best-music-spring-swim",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Best Music – Spring",
+  "tier": "category",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "tma-2026-best-music-summer-hooligan",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Best Music – Summer",
+  "tier": "category",
+  "work": "Hooligan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-hooligan"
+ },
+ {
+  "id": "vmaj-2026-artist-of-the-year",
+  "year": 2026,
+  "ceremonyId": "vmaj",
+  "category": "Artist of The Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "vmaj-2026-best-group-video-international",
+  "year": 2026,
+  "ceremonyId": "vmaj",
+  "category": "Best Group Video-International",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "vmas-2026-song-of-the-year-swim",
+  "year": 2026,
+  "ceremonyId": "vmas",
+  "category": "Song of the year",
+  "tier": "category",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "vmas-2026-best-k-pop-swim",
+  "year": 2026,
+  "ceremonyId": "vmas",
+  "category": "Best K-pop",
+  "tier": "category",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "vmas-2026-best-group",
+  "year": 2026,
+  "ceremonyId": "vmas",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "inkigayo-2026-04-19",
+  "year": 2026,
+  "date": "2026-04-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "2.0",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-2-0"
+ },
+ {
+  "id": "music-core-2026-04-18",
+  "year": 2026,
+  "date": "2026-04-18",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "inkigayo-2026-04-12",
+  "year": 2026,
+  "date": "2026-04-12",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "music-core-2026-04-11",
+  "year": 2026,
+  "date": "2026-04-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "m-countdown-2026-04-09",
+  "year": 2026,
+  "date": "2026-04-09",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "show-champion-2026-04-08",
+  "year": 2026,
+  "date": "2026-04-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "inkigayo-2026-04-05",
+  "year": 2026,
+  "date": "2026-04-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "music-core-2026-04-04",
+  "year": 2026,
+  "date": "2026-04-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "music-bank-2026-04-03",
+  "year": 2026,
+  "date": "2026-04-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "m-countdown-2026-04-02",
+  "year": 2026,
+  "date": "2026-04-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "show-champion-2026-04-01",
+  "year": 2026,
+  "date": "2026-04-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "inkigayo-2026-03-29",
+  "year": 2026,
+  "date": "2026-03-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "music-bank-2026-03-27",
+  "year": 2026,
+  "date": "2026-03-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "m-countdown-2026-03-26",
+  "year": 2026,
+  "date": "2026-03-26",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "show-champion-2026-03-25",
+  "year": 2026,
+  "date": "2026-03-25",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Swim",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-swim"
+ },
+ {
+  "id": "aaa-2025-legendary-group-male",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Legendary Group (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2025-global-popular-artist",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Global Popular Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2024-best-fan-army",
+  "year": 2024,
+  "ceremonyId": "iheart",
+  "category": "Best Fan Army",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jupiter-2024-most-popular-duo-group",
+  "year": 2024,
+  "ceremonyId": "jupiter",
+  "category": "Most Popular Duo / Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2024-world-trend-artist",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "World Trend Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2023-global-artist-award",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Global Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2023-global-digital-music-june-yet-to-come",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Global Digital Music – June",
+  "tier": "category",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "circle-2023-physical-album-3rd-quarter-proof",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Physical Album – 3rd Quarter",
+  "tier": "category",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "circle-2023-retail-album-of-the-year-proof",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Retail Album of the Year",
+  "tier": "category",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "circle-2023-social-hot-star",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Social Hot Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "gda-2023-album-of-the-year-proof",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "gda-2023-best-album-bonsang-proof",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "gda-2023-tiktok-most-popular-artist-award",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "TikTok Most Popular Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2023-best-artist",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2023-best-song",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Best Song",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2023-global-artist-award",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2023-whosfandom-award",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "WhosFandom Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2023-best-fan-army",
+  "year": 2023,
+  "ceremonyId": "iheart",
+  "category": "Best Fan Army",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2023-best-music-video-yet-to-come",
+  "year": 2023,
+  "ceremonyId": "iheart",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "jgda-2023-best-3-albums-asia-proof",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "jgda-2023-best-artist-asia",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Best Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2023-music-video-of-the-year-asia-bts-2021-muster-sowoozoo",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Music Video of the Year (Asia)",
+  "tier": "category",
+  "work": "BTS 2021 Muster Sowoozoo",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-bts-2021-muster-sowoozoo"
+ },
+ {
+  "id": "jgda-2023-song-of-the-year-by-download-asia-yet-to-come",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Download (Asia)",
+  "tier": "category",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "kca-2023-favorite-music-group",
+  "year": 2023,
+  "ceremonyId": "kca",
+  "category": "Favorite Music Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2023-choeaedol-male-group-popularity-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "Choeaedol Male Group Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2023-worldwide-fans-choice",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2023-worldwide-icon-of-the-year",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Icon of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2023-best-ost-the-planet",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Best OST",
+  "tier": "category",
+  "work": "The Planet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-the-planet"
+ },
+ {
+  "id": "mma-2023-favourite-star-award",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Favourite Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2023-top-10-artists",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artists",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2023-best-album-award-proof",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Best Album Award",
+  "tier": "category",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "sma-2023-best-artist-award",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Best Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2023-bonsang-award",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2023-world-trend-artist-april",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "World Trend Artist – April",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2023-world-trend-artist-may",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "World Trend Artist – May",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2023-world-trend-artist-june",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "World Trend Artist – June",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2023-best-music-summer-take-two",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Best Music – Summer",
+  "tier": "category",
+  "work": "Take Two",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-take-two"
+ },
+ {
+  "id": "tma-2023-fan-n-star-choice-award-group",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Choice Award – Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2023-fan-n-star-most-voted",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Most Voted",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "webby-2023-social-features-best-community-engagement-my-bts-story",
+  "year": 2023,
+  "ceremonyId": "webby",
+  "category": "Social – Features: Best Community Engagement",
+  "tier": "category",
+  "work": "My BTS Story",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-bts-story"
+ },
+ {
+  "id": "webby-2023-social-features-best-community-engagement-webby-people-s-voi-my-bts-story",
+  "year": 2023,
+  "ceremonyId": "webby",
+  "category": "Social – Features: Best Community Engagement(Webby People's Voice)",
+  "tier": "category",
+  "work": "My BTS Story",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-bts-story"
+ },
+ {
+  "id": "m-countdown-2023-07-06",
+  "year": 2023,
+  "date": "2023-07-06",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Take Two",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-take-two"
+ },
+ {
+  "id": "m-countdown-2023-06-29",
+  "year": 2023,
+  "date": "2023-06-29",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Take Two",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-take-two"
+ },
+ {
+  "id": "m-countdown-2023-06-22",
+  "year": 2023,
+  "date": "2023-06-22",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Take Two",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-take-two"
+ },
+ {
+  "id": "aaa-2022-idolplus-popularity-award-singer",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Idolplus Popularity Award – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2022-favorite-duo-or-group-pop-rock",
+  "year": 2022,
+  "ceremonyId": "amas",
+  "category": "Favorite Duo or Group Pop/Rock",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2022-favorite-k-pop-artist",
+  "year": 2022,
+  "ceremonyId": "amas",
+  "category": "Favorite K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "apma-2022-top-20-album-of-the-year",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Album Of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "bbmas-2022-top-duo-group",
+  "year": 2022,
+  "ceremonyId": "bbmas",
+  "category": "Top Duo/Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "bbmas-2022-top-selling-song-butter",
+  "year": 2022,
+  "ceremonyId": "bbmas",
+  "category": "Top Selling Song",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "bbmas-2022-top-song-sales-artist",
+  "year": 2022,
+  "ceremonyId": "bbmas",
+  "category": "Top Song Sales Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2022-album-of-the-year-3rd-quarter-butter",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 3rd Quarter",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "circle-2022-mubeat-global-choice-award-male",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Mubeat Global Choice Award – Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2022-music-steady-seller-of-the-year-dynamite",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Music Steady Seller of the Year",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "circle-2022-retail-album-of-the-year-butter",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Retail Album of the Year",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "circle-2022-social-hot-star-of-the-year",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Social Hot Star of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2022-song-of-the-year-may-butter",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – May",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "circle-2022-song-of-the-year-july-permission-to-dance",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – July",
+  "tier": "category",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "circle-2022-song-of-the-year-september-my-universe",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – September",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "ema-2022-biggest-fans",
+  "year": 2022,
+  "ceremonyId": "ema",
+  "category": "Biggest Fans",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "gda-2022-album-of-the-year-daesang-be",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Be",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-be"
+ },
+ {
+  "id": "gda-2022-best-album-bonsang-be",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Be",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-be"
+ },
+ {
+  "id": "gda-2022-best-digital-song-bonsang-butter",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "gda-2022-most-popular-artist-award",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Most Popular Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "genie-2022-best-male-group",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "genie-2022-global-popularity-award",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Global Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2022-artist-award-male-group",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Artist Award – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2022-initial-chodong-record-award",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Initial Chodong Record Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hanteo-2022-whosfandom-award",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "WhosFandom Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hito-2022-western-song-of-the-year-butter",
+  "year": 2022,
+  "ceremonyId": "hito",
+  "category": "Western Song of the Year",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "iheart-2022-best-fan-army",
+  "year": 2022,
+  "ceremonyId": "iheart",
+  "category": "Best Fan Army",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2022-best-music-video-butter",
+  "year": 2022,
+  "ceremonyId": "iheart",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "jgda-2022-album-of-the-year-asia-bts-the-best",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Album of the Year (Asia)",
+  "tier": "category",
+  "work": "BTS, the Best",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-bts-the-best"
+ },
+ {
+  "id": "jgda-2022-best-3-albums-asia-bts-the-best",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "BTS, the Best",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-bts-the-best"
+ },
+ {
+  "id": "jgda-2022-best-5-songs-by-download-butter",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Songs by Download",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "jgda-2022-best-5-songs-by-streaming-butter",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Songs by Streaming",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "jgda-2022-best-5-songs-by-streaming-permission-to-dance",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Songs by Streaming",
+  "tier": "category",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "jgda-2022-best-artist-asia",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2022-music-video-of-the-year-asia",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Music Video of the Year (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2022-song-of-the-year-by-download-asia-butter",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Download (Asia)",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "jgda-2022-song-of-the-year-by-download-western-music-my-universe",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Download (Western Music)",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "jgda-2022-song-of-the-year-by-streaming-asia-butter",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Streaming (Asia)",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "kca-2022-favorite-music-group",
+  "year": 2022,
+  "ceremonyId": "kca",
+  "category": "Favorite Music Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2022-best-fandom",
+  "year": 2022,
+  "ceremonyId": "kca-mx",
+  "category": "Best Fandom",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2022-favourite-global-artist",
+  "year": 2022,
+  "ceremonyId": "kca-mx",
+  "category": "Favourite Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2022-favourite-k-pop-group",
+  "year": 2022,
+  "ceremonyId": "kca-mx",
+  "category": "Favourite K-Pop Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2022-international-hit-of-the-year-my-universe",
+  "year": 2022,
+  "ceremonyId": "kca-mx",
+  "category": "International Hit of the Year",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "kma-2022-musician-of-the-year",
+  "year": 2022,
+  "ceremonyId": "kma",
+  "category": "Musician of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "komca-2022-song-of-the-year-dynamite",
+  "year": 2022,
+  "ceremonyId": "komca",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "kwda-2022-popularity-award-male-group",
+  "year": 2022,
+  "ceremonyId": "kwda",
+  "category": "Popularity Award (Male Group)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2022-album-of-the-year-proof",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Proof",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-proof"
+ },
+ {
+  "id": "mama-2022-artist-of-the-year",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2022-best-male-group",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2022-mama-platinum",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "MAMA Platinum",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2022-worldwide-fans-choice-top-10",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2022-worldwide-icon-of-the-year",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Icon of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "miaw-2022-global-hit-of-the-year-my-universe",
+  "year": 2022,
+  "ceremonyId": "miaw",
+  "category": "Global Hit of the Year",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "miaw-2022-k-pop-dominion",
+  "year": 2022,
+  "ceremonyId": "miaw",
+  "category": "K-Pop Dominion",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "miaw-br-2022-global-hit-my-universe",
+  "year": 2022,
+  "ceremonyId": "miaw-br",
+  "category": "Global Hit",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "mma-2022-best-male-group",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2022-everyone-s-star",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Everyone's Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2022-record-of-the-year-bts",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Record of the Year",
+  "tier": "daesang",
+  "work": "BTS",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-bts"
+ },
+ {
+  "id": "mma-2022-top-10-artists",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artists",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "new-music-awards-2022-top40-chr-group-of-the-year",
+  "year": 2022,
+  "ceremonyId": "new-music-awards",
+  "category": "Top40/CHR Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "pcas-2022-the-concert-tour-of-2022",
+  "year": 2022,
+  "ceremonyId": "pcas",
+  "category": "The Concert Tour of 2022",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "pcas-2022-the-group-of-2022",
+  "year": 2022,
+  "ceremonyId": "pcas",
+  "category": "The Group of 2022",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "rthk-2022-top-ten-international-gold-songs-butter",
+  "year": 2022,
+  "ceremonyId": "rthk",
+  "category": "Top ten International Gold Songs",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "sma-2022-bonsang-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2022-world-best-artist",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "World Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2022-u-idol-live-best-artist-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "U+Idol Live Best Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "space-shower-2022-best-international-artist",
+  "year": 2022,
+  "ceremonyId": "space-shower",
+  "category": "Best International Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "the-k-billboard-2022-top-artist",
+  "year": 2022,
+  "ceremonyId": "the-k-billboard",
+  "category": "Top Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "the-k-billboard-2022-global-artist",
+  "year": 2022,
+  "ceremonyId": "the-k-billboard",
+  "category": "Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2022-daesang-award",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Daesang Award",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2022-fan-n-star-choice-award-artist",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Choice Award – Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2022-fan-n-star-most-voted-artist",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Most Voted Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2022-global-fan-n-star-award",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Global Fan N Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2022-idolplus-popularity-award",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Idolplus Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "vmas-2022-group-of-the-year",
+  "year": 2022,
+  "ceremonyId": "vmas",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "m-countdown-2022-06-30",
+  "year": 2022,
+  "date": "2022-06-30",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "inkigayo-2022-06-26",
+  "year": 2022,
+  "date": "2022-06-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "music-core-2022-06-25",
+  "year": 2022,
+  "date": "2022-06-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "music-bank-2022-06-24",
+  "year": 2022,
+  "date": "2022-06-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "m-countdown-2022-06-23",
+  "year": 2022,
+  "date": "2022-06-23",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "inkigayo-2022-06-19",
+  "year": 2022,
+  "date": "2022-06-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "music-bank-2022-06-17",
+  "year": 2022,
+  "date": "2022-06-17",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "m-countdown-2022-06-16",
+  "year": 2022,
+  "date": "2022-06-16",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "show-champion-2022-06-15",
+  "year": 2022,
+  "date": "2022-06-15",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yet to Come",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-yet-to-come"
+ },
+ {
+  "id": "aaa-2021-song-of-the-year-butter",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "aaa-2021-u-idollive-popularity-award-male-group",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "U+IdolLive Popularity Award – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2021-artist-of-the-year",
+  "year": 2021,
+  "ceremonyId": "amas",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2021-favorite-pop-duo-or-group",
+  "year": 2021,
+  "ceremonyId": "amas",
+  "category": "Favorite Pop Duo or Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2021-favorite-pop-song-butter",
+  "year": 2021,
+  "ceremonyId": "amas",
+  "category": "Favorite Pop Song",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "bbmas-2021-top-duo-group",
+  "year": 2021,
+  "ceremonyId": "bbmas",
+  "category": "Top Duo/Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "bbmas-2021-top-selling-song-dynamite",
+  "year": 2021,
+  "ceremonyId": "bbmas",
+  "category": "Top Selling Song",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "bbmas-2021-top-social-artist",
+  "year": 2021,
+  "ceremonyId": "bbmas",
+  "category": "Top Social Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "bbmas-2021-top-song-sales-artist",
+  "year": 2021,
+  "ceremonyId": "bbmas",
+  "category": "Top Song Sales Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2021-album-of-the-year-1st-quarter-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 1st Quarter",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "circle-2021-album-of-the-year-4th-quarter-be",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 4th Quarter",
+  "tier": "category",
+  "work": "Be",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-be"
+ },
+ {
+  "id": "circle-2021-retail-album-of-the-year-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Retail Album of the Year",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "circle-2021-song-of-the-year-february-on",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – February",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "circle-2021-song-of-the-year-august-dynamite",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – August",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "circle-2021-song-of-the-year-november-life-goes-on",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – November",
+  "tier": "category",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "ema-2021-best-group",
+  "year": 2021,
+  "ceremonyId": "ema",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "ema-2021-best-k-pop",
+  "year": 2021,
+  "ceremonyId": "ema",
+  "category": "Best K-Pop",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "ema-2021-best-pop",
+  "year": 2021,
+  "ceremonyId": "ema",
+  "category": "Best Pop",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "ema-2021-biggest-fans",
+  "year": 2021,
+  "ceremonyId": "ema",
+  "category": "Biggest Fans",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "gaffa-2021-best-international-album-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "gaffa",
+  "category": "Best International Album",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "gaffa-2021-best-international-band",
+  "year": 2021,
+  "ceremonyId": "gaffa",
+  "category": "Best International Band",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "gda-2021-album-of-the-year-daesang-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "gda-2021-best-album-bonsang-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "gda-2021-best-digital-song-bonsang-dynamite",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "gda-2021-most-popular-artist-award",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Most Popular Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "hito-2021-asian-song-of-the-year-on",
+  "year": 2021,
+  "ceremonyId": "hito",
+  "category": "Asian Song of the Year",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "hito-2021-western-song-of-the-year-dynamite",
+  "year": 2021,
+  "ceremonyId": "hito",
+  "category": "Western Song of the Year",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "ifpi-2021-global-recording-artist-of-2021",
+  "year": 2021,
+  "ceremonyId": "ifpi",
+  "category": "Global Recording Artist of 2021",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2021-best-fan-army",
+  "year": 2021,
+  "ceremonyId": "iheart",
+  "category": "Best Fan Army",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2021-best-music-video-dynamite",
+  "year": 2021,
+  "ceremonyId": "iheart",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "iheart-2021-favorite-music-video-choreography-dynamite",
+  "year": 2021,
+  "ceremonyId": "iheart",
+  "category": "Favorite Music Video Choreography",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "japan-record-2021-special-international-music-award",
+  "year": 2021,
+  "ceremonyId": "japan-record",
+  "category": "Special International Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2021-album-of-the-year-asia-map-of-the-soul-7-the-journey",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Album of the Year (Asia)",
+  "tier": "category",
+  "work": "Map of the Soul: 7 – The Journey",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7-the-journey"
+ },
+ {
+  "id": "jgda-2021-best-3-albums-asia-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "jgda-2021-best-3-albums-asia-map-of-the-soul-7-the-journey",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Map of the Soul: 7 – The Journey",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7-the-journey"
+ },
+ {
+  "id": "jgda-2021-best-5-songs-by-streaming-dynamite",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Songs by Streaming",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "jgda-2021-best-artist-asia",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2021-music-video-of-the-year-asia",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Music Video of the Year (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2021-song-of-the-year-by-download-asia-dynamite",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Download (Asia)",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "jgda-2021-song-of-the-year-by-streaming-asia-dynamite",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Streaming (Asia)",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "joox-id-2021-korean-artist-of-the-year",
+  "year": 2021,
+  "ceremonyId": "joox-id",
+  "category": "Korean Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "joox-id-2021-best-fanbase-of-the-year",
+  "year": 2021,
+  "ceremonyId": "joox-id",
+  "category": "Best Fanbase of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "joox-id-2021-global-song-of-the-year-dynamite",
+  "year": 2021,
+  "ceremonyId": "joox-id",
+  "category": "Global Song of the Year",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "joox-my-2021-top-5-hits-international-permission-to-dance",
+  "year": 2021,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits: International",
+  "tier": "category",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "joox-my-2021-top-5-hits-international-my-universe-with-coldplay",
+  "year": 2021,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits: International",
+  "tier": "category",
+  "work": "My Universe (with Coldplay)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "joox-my-2021-top-fans-pick",
+  "year": 2021,
+  "ceremonyId": "joox-my",
+  "category": "Top Fans Pick",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "joox-my-2021-top-5-hits-k-pop-mid-year-butter",
+  "year": 2021,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits: K-Pop (Mid Year)",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "kca-2021-favorite-global-music-star",
+  "year": 2021,
+  "ceremonyId": "kca",
+  "category": "Favorite Global Music Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-2021-favorite-music-group",
+  "year": 2021,
+  "ceremonyId": "kca",
+  "category": "Favorite Music Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-2021-favorite-song-dynamite",
+  "year": 2021,
+  "ceremonyId": "kca",
+  "category": "Favorite Song",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "kca-mx-2021-best-fandom",
+  "year": 2021,
+  "ceremonyId": "kca-mx",
+  "category": "Best Fandom",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2021-best-k-pop",
+  "year": 2021,
+  "ceremonyId": "kca-mx",
+  "category": "Best K-Pop",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2021-world-hit-butter",
+  "year": 2021,
+  "ceremonyId": "kca-mx",
+  "category": "World Hit",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "kma-2021-best-pop-song-dynamite",
+  "year": 2021,
+  "ceremonyId": "kma",
+  "category": "Best Pop Song",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "kma-2021-song-of-the-year-dynamite",
+  "year": 2021,
+  "ceremonyId": "kma",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "komca-2021-song-of-the-year-boy-with-luv",
+  "year": 2021,
+  "ceremonyId": "komca",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "korea-broadcasting-awards-2021-best-male-artist",
+  "year": 2021,
+  "ceremonyId": "korea-broadcasting-awards",
+  "category": "Best Male Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "korea-broadcasting-awards-2021-popularity-award-artist",
+  "year": 2021,
+  "ceremonyId": "korea-broadcasting-awards",
+  "category": "Popularity Award – Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "korea-first-brand-2021-male-idol-of-the-year",
+  "year": 2021,
+  "ceremonyId": "korea-first-brand",
+  "category": "Male Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "korea-pd-2021-performer-award",
+  "year": 2021,
+  "ceremonyId": "korea-pd",
+  "category": "Performer Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2021-2021-visionary",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "2021 Visionary",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2021-album-of-the-year-be",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Be",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-be"
+ },
+ {
+  "id": "mama-2021-artist-of-the-year",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2021-best-dance-performance-male-group-butter",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Male Group",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "mama-2021-best-male-group",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2021-best-music-video-butter",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "mama-2021-song-of-the-year-butter",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "mama-2021-tiktok-favorite-moment",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "TikTok Favorite Moment",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2021-worldwide-fans-choice-top-10",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2021-worldwide-icon-of-the-year",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Icon of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "meus-premios-nick-2021-challenge-hits-of-the-year-permission-to-dance",
+  "year": 2021,
+  "ceremonyId": "meus-premios-nick",
+  "category": "Challenge Hits of the Year",
+  "tier": "category",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "meus-premios-nick-2021-fandom-of-the-year",
+  "year": 2021,
+  "ceremonyId": "meus-premios-nick",
+  "category": "Fandom of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "meus-premios-nick-2021-favorite-international-hit-butter",
+  "year": 2021,
+  "ceremonyId": "meus-premios-nick",
+  "category": "Favorite International Hit",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "meus-premios-nick-2021-favorite-music-group",
+  "year": 2021,
+  "ceremonyId": "meus-premios-nick",
+  "category": "Favorite Music Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "meus-premios-nick-2021-video-of-the-year-butter",
+  "year": 2021,
+  "ceremonyId": "meus-premios-nick",
+  "category": "Video of the Year",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "miaw-2021-fandom-of-the-year",
+  "year": 2021,
+  "ceremonyId": "miaw",
+  "category": "Fandom of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "miaw-2021-k-pop-dominion",
+  "year": 2021,
+  "ceremonyId": "miaw",
+  "category": "K-Pop Dominion",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2021-best-collaboration-my-universe",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Best Collaboration",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "mma-2021-best-male-group",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2021-netizen-popularity-award",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Netizen Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2021-song-of-the-year-butter",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "mma-2021-top-10-artists",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artists",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mtv-movie-tv-2021-best-music-documentary-break-the-silence-the-movie",
+  "year": 2021,
+  "ceremonyId": "mtv-movie-tv",
+  "category": "Best Music Documentary",
+  "tier": "category",
+  "work": "Break the Silence: The Movie",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-break-the-silence-the-movie"
+ },
+ {
+  "id": "musa-2021-international-collaboration-of-the-year-my-universe",
+  "year": 2021,
+  "ceremonyId": "musa",
+  "category": "International Collaboration of the Year",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "myx-2021-favorite-international-video-dynamite",
+  "year": 2021,
+  "ceremonyId": "myx",
+  "category": "Favorite International Video",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "nrj-2021-international-collaboration-of-the-year-my-universe",
+  "year": 2021,
+  "ceremonyId": "nrj",
+  "category": "International Collaboration of the Year",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "pcas-2021-the-group-of-2021",
+  "year": 2021,
+  "ceremonyId": "pcas",
+  "category": "The Group of 2021",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "pcas-2021-the-music-video-of-2021-butter",
+  "year": 2021,
+  "ceremonyId": "pcas",
+  "category": "The Music Video of 2021",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "pcas-2021-the-song-of-2021-butter",
+  "year": 2021,
+  "ceremonyId": "pcas",
+  "category": "The Song of 2021",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "rockbjornen-2021-foreign-song-of-the-year-dynamite",
+  "year": 2021,
+  "ceremonyId": "rockbjornen",
+  "category": "Foreign Song of the Year",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "rthk-2021-top-ten-international-gold-songs-dynamite",
+  "year": 2021,
+  "ceremonyId": "rthk",
+  "category": "Top ten International Gold Songs",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "sma-2021-best-album-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Best Album",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "sma-2021-best-song-dynamite",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Best Song",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "sma-2021-bonsang-award-map-of-the-soul-7",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "sma-2021-grand-award-daesang",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Grand Award (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2021-k-wave-popularity-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "K-Wave Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "sma-2021-whosfandom-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "WhosFandom Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "space-shower-2021-best-international-artist",
+  "year": 2021,
+  "ceremonyId": "space-shower",
+  "category": "Best International Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "space-shower-2021-people-s-choice",
+  "year": 2021,
+  "ceremonyId": "space-shower",
+  "category": "People's Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2021-daesang-award",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Daesang Award",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2021-fan-n-star-most-voted-artist",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Most Voted Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2021-listeners-choice-award",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Listeners' Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2021-u-idol-live-popularity-award",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "U+Idol Live Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tokopedia-wib-2021-ter-inspiring-most-inspiring",
+  "year": 2021,
+  "ceremonyId": "tokopedia-wib",
+  "category": "Ter-Inspiring (Most Inspiring)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tokopedia-wib-2021-selalu-ada-selalu-bisa-always-there-always-able",
+  "year": 2021,
+  "ceremonyId": "tokopedia-wib",
+  "category": "Selalu Ada, Selalu Bisa (Always There, Always Able)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tophit-2021-best-international-band",
+  "year": 2021,
+  "ceremonyId": "tophit",
+  "category": "Best International Band",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "variety-hitmakers-2021-record-of-the-year-butter",
+  "year": 2021,
+  "ceremonyId": "variety-hitmakers",
+  "category": "Record of the Year",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "vmaj-2021-best-collaboration-video-my-universe",
+  "year": 2021,
+  "ceremonyId": "vmaj",
+  "category": "Best Collaboration Video",
+  "tier": "category",
+  "work": "My Universe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-my-universe"
+ },
+ {
+  "id": "vmaj-2021-best-group-video-international-butter",
+  "year": 2021,
+  "ceremonyId": "vmaj",
+  "category": "Best Group Video – International",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "vmas-2021-best-k-pop-butter",
+  "year": 2021,
+  "ceremonyId": "vmas",
+  "category": "Best K-Pop",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "vmas-2021-group-of-the-year",
+  "year": 2021,
+  "ceremonyId": "vmas",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "vmas-2021-song-of-summer-butter",
+  "year": 2021,
+  "ceremonyId": "vmas",
+  "category": "Song of Summer",
+  "tier": "category",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "webby-2021-variety-reality-general-video-bts-carpool-karaoke",
+  "year": 2021,
+  "ceremonyId": "webby",
+  "category": "Variety & Reality: General Video",
+  "tier": "category",
+  "work": "BTS Carpool karaoke",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-bts-carpool-karaoke"
+ },
+ {
+  "id": "webby-2021-music-general-virtue-remote-map-of-the-soul-on-e",
+  "year": 2021,
+  "ceremonyId": "webby",
+  "category": "music: general virtue & remote",
+  "tier": "category",
+  "work": "Map of the Soul ON:E",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-map-of-the-soul-on-e"
+ },
+ {
+  "id": "webby-2021-music-general-virtue-remote-webby-people-s-voice-map-of-the-soul-on-e",
+  "year": 2021,
+  "ceremonyId": "webby",
+  "category": "music: general virtue & remote (Webby People's Voice)",
+  "tier": "category",
+  "work": "Map of the Soul ON:E",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-map-of-the-soul-on-e"
+ },
+ {
+  "id": "webby-2021-events-live-streams-general-video-dear-class-of-2020",
+  "year": 2021,
+  "ceremonyId": "webby",
+  "category": "Events & Live Streams: General Video",
+  "tier": "category",
+  "work": "Dear Class of 2020",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dear-class-of-2020"
+ },
+ {
+  "id": "inkigayo-2021-08-15",
+  "year": 2021,
+  "date": "2021-08-15",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "inkigayo-2021-08-08",
+  "year": 2021,
+  "date": "2021-08-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "music-bank-2021-07-30",
+  "year": 2021,
+  "date": "2021-07-30",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "show-champion-2021-07-28",
+  "year": 2021,
+  "date": "2021-07-28",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "music-bank-2021-07-23",
+  "year": 2021,
+  "date": "2021-07-23",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "show-champion-2021-07-21",
+  "year": 2021,
+  "date": "2021-07-21",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "inkigayo-2021-07-18",
+  "year": 2021,
+  "date": "2021-07-18",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "music-core-2021-07-17",
+  "year": 2021,
+  "date": "2021-07-17",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Permission to Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-permission-to-dance"
+ },
+ {
+  "id": "music-bank-2021-07-16",
+  "year": 2021,
+  "date": "2021-07-16",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-core-2021-06-26",
+  "year": 2021,
+  "date": "2021-06-26",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "show-champion-2021-06-23",
+  "year": 2021,
+  "date": "2021-06-23",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-core-2021-06-19",
+  "year": 2021,
+  "date": "2021-06-19",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "show-champion-2021-06-16",
+  "year": 2021,
+  "date": "2021-06-16",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "inkigayo-2021-06-13",
+  "year": 2021,
+  "date": "2021-06-13",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-core-2021-06-12",
+  "year": 2021,
+  "date": "2021-06-12",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "inkigayo-2021-06-06",
+  "year": 2021,
+  "date": "2021-06-06",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-core-2021-06-05",
+  "year": 2021,
+  "date": "2021-06-05",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-bank-2021-06-04",
+  "year": 2021,
+  "date": "2021-06-04",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "show-champion-2021-06-02",
+  "year": 2021,
+  "date": "2021-06-02",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "inkigayo-2021-05-30",
+  "year": 2021,
+  "date": "2021-05-30",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-core-2021-05-29",
+  "year": 2021,
+  "date": "2021-05-29",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Butter",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-butter"
+ },
+ {
+  "id": "music-bank-2021-03-05",
+  "year": 2021,
+  "date": "2021-03-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2021-02-26",
+  "year": 2021,
+  "date": "2021-02-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2021-01-16",
+  "year": 2021,
+  "date": "2021-01-16",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-core-2021-01-09",
+  "year": 2021,
+  "date": "2021-01-09",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-bank-2021-01-08",
+  "year": 2021,
+  "date": "2021-01-08",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2021-01-02",
+  "year": 2021,
+  "date": "2021-01-02",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-bank-2021-01-01",
+  "year": 2021,
+  "date": "2021-01-01",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "aaa-2020-best-of-best-popularity-award",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Best of Best Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "aaa-2020-popularity-award-singer-male",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Popularity Award – Singer (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "aaa-2020-song-of-the-year-dynamite",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "amas-2020-favorite-duo-or-group-pop-rock",
+  "year": 2020,
+  "ceremonyId": "amas",
+  "category": "Favorite Duo or Group – Pop/Rock",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "amas-2020-favorite-social-artist",
+  "year": 2020,
+  "ceremonyId": "amas",
+  "category": "Favorite Social Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "apan-2020-apan-top-10-bonsang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "APAN Top 10 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "apan-2020-best-group-male-domestic",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Best Group – Male (Domestic)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "apan-2020-no-1-achievement-daesang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "No. 1 Achievement (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "bbmas-2020-top-social-artist",
+  "year": 2020,
+  "ceremonyId": "bbmas",
+  "category": "Top Social Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "circle-2020-album-of-the-year-2nd-quarter-map-of-the-soul-persona",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 2nd Quarter",
+  "tier": "category",
+  "work": "Map of the Soul: Persona",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-persona"
+ },
+ {
+  "id": "circle-2020-retail-album-of-the-year-map-of-the-soul-persona",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "Retail Album of the Year",
+  "tier": "category",
+  "work": "Map of the Soul: Persona",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-persona"
+ },
+ {
+  "id": "circle-2020-social-hot-star-of-the-year",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "Social Hot Star of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "ema-2020-biggest-fans",
+  "year": 2020,
+  "ceremonyId": "ema",
+  "category": "Biggest Fans",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "ema-2020-best-group",
+  "year": 2020,
+  "ceremonyId": "ema",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "ema-2020-best-song-dynamite",
+  "year": 2020,
+  "ceremonyId": "ema",
+  "category": "Best Song",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "ema-2020-best-virtual-live-bang-bang-con-the-live",
+  "year": 2020,
+  "ceremonyId": "ema",
+  "category": "Best Virtual Live",
+  "tier": "category",
+  "work": "Bang Bang Con: The Live",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-bang-bang-con-the-live"
+ },
+ {
+  "id": "gda-2020-digital-bonsang-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Digital Bonsang",
+  "tier": "bonsang",
+  "work": "Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "gda-2020-digital-daesang-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Digital Daesang",
+  "tier": "daesang",
+  "work": "Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "gda-2020-disc-bonsang-map-of-the-soul-persona",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Disc Bonsang",
+  "tier": "bonsang",
+  "work": "Map of the Soul: Persona",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-persona"
+ },
+ {
+  "id": "gda-2020-disc-daesang-map-of-the-soul-persona",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Disc Daesang",
+  "tier": "daesang",
+  "work": "Map of the Soul: Persona",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-persona"
+ },
+ {
+  "id": "gda-2020-fans-choice-k-pop-star-award",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Fans' Choice K-pop Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "gda-2020-popularity-award",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "genie-2020-album-of-the-year-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "genie",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "genie-2020-best-single-dance-dynamite",
+  "year": 2020,
+  "ceremonyId": "genie",
+  "category": "Best Single – Dance",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "hito-2020-asian-song-of-the-year-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "hito",
+  "category": "Asian Song of the Year",
+  "tier": "category",
+  "work": "Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "ifpi-2020-global-album-all-format-album-award-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "ifpi",
+  "category": "Global Album All Format Album Award",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "ifpi-2020-global-album-sales-award-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "ifpi",
+  "category": "Global Album Sales Award",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "ifpi-2020-global-recording-artist-of-2020",
+  "year": 2020,
+  "ceremonyId": "ifpi",
+  "category": "Global Recording Artist of 2020",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2020-best-fan-army",
+  "year": 2020,
+  "ceremonyId": "iheart",
+  "category": "Best Fan Army",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "iheart-2020-best-music-video-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "iheart",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "japan-record-2020-special-international-music-award",
+  "year": 2020,
+  "ceremonyId": "japan-record",
+  "category": "Special International Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2020-best-5-singles-lights-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Singles",
+  "tier": "category",
+  "work": "Lights/Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-lights-boy-with-luv"
+ },
+ {
+  "id": "jgda-2020-best-asian-artist",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "Best Asian Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2020-best-music-video-asia",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "Best Music Video (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "jgda-2020-song-of-the-year-by-download-asia-lights",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Download (Asia)",
+  "tier": "category",
+  "work": "Lights",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-lights"
+ },
+ {
+  "id": "joox-my-2020-most-popular-k-pop-life-goes-on",
+  "year": 2020,
+  "ceremonyId": "joox-my",
+  "category": "Most Popular: K-Pop",
+  "tier": "category",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "joox-my-2020-top-5-hits-k-pop-year-end-2020-dynamite",
+  "year": 2020,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits: K-Pop (Year End 2020)",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "joox-my-2020-top-5-hits-of-the-year-international-who-with-lauv",
+  "year": 2020,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits of the Year: International",
+  "tier": "category",
+  "work": "Who (with Lauv)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-who"
+ },
+ {
+  "id": "joox-my-2020-top-5-hits-of-the-year-k-pop-dynamite",
+  "year": 2020,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits of the Year: K-Pop",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "joox-my-2020-top-5-hits-of-the-year-k-pop-on",
+  "year": 2020,
+  "ceremonyId": "joox-my",
+  "category": "Top 5 Hits of the Year: K-Pop",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "kca-2020-favorite-music-group",
+  "year": 2020,
+  "ceremonyId": "kca",
+  "category": "Favorite Music Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2020-favorite-fandom",
+  "year": 2020,
+  "ceremonyId": "kca-mx",
+  "category": "Favorite Fandom",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kca-mx-2020-world-hit-on",
+  "year": 2020,
+  "ceremonyId": "kca-mx",
+  "category": "World Hit",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "korea-broadcasting-awards-2020-best-artist-award",
+  "year": 2020,
+  "ceremonyId": "korea-broadcasting-awards",
+  "category": "Best Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "korea-first-brand-2020-male-idol-of-the-year",
+  "year": 2020,
+  "ceremonyId": "korea-first-brand",
+  "category": "Male Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2020-bonsang-award",
+  "year": 2020,
+  "ceremonyId": "kwda",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2020-daesang-award",
+  "year": 2020,
+  "ceremonyId": "kwda",
+  "category": "Daesang Award",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "kwda-2020-popularity-award-male",
+  "year": 2020,
+  "ceremonyId": "kwda",
+  "category": "Popularity Award (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "lockdown-2020-favorite-quaranteam",
+  "year": 2020,
+  "ceremonyId": "lockdown",
+  "category": "Favorite Quaranteam",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2020-2020-visionary",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "2020 Visionary",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2020-album-of-the-year-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "mama-2020-artist-of-the-year",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2020-best-male-group",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2020-best-dance-performance-male-group-dynamite",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Male Group",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "mama-2020-best-music-video-dynamite",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "mama-2020-song-of-the-year-dynamite",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "mama-2020-worldwide-fans-choice-top-10",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mama-2020-worldwide-icon-of-the-year",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Worldwide Icon of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "miaw-br-2020-fandom-of-the-year",
+  "year": 2020,
+  "ceremonyId": "miaw-br",
+  "category": "Fandom of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2020-album-of-the-year-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "mma-2020-artist-of-the-year",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2020-best-dance-male-dynamite",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Best Dance – Male",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "mma-2020-netizen-popularity-award",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Netizen Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "mma-2020-song-of-the-year-dynamite",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "mma-2020-top-10-artists",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artists",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "myx-2020-favorite-international-video-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "myx",
+  "category": "Favorite International Video",
+  "tier": "category",
+  "work": "Boy with Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "nme-2020-music-moment-of-the-year",
+  "year": 2020,
+  "ceremonyId": "nme",
+  "category": "Music Moment of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "nrj-2020-best-international-group",
+  "year": 2020,
+  "ceremonyId": "nrj",
+  "category": "Best International Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "pcas-2020-the-album-of-2020-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "pcas",
+  "category": "The Album of 2020",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "pcas-2020-the-group-of-2020",
+  "year": 2020,
+  "ceremonyId": "pcas",
+  "category": "The Group of 2020",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "pcas-2020-the-music-video-of-2020-dynamite",
+  "year": 2020,
+  "ceremonyId": "pcas",
+  "category": "The Music Video of 2020",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "pcas-2020-the-song-of-2020-dynamite",
+  "year": 2020,
+  "ceremonyId": "pcas",
+  "category": "The Song of 2020",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "rockbjornen-2020-best-fans",
+  "year": 2020,
+  "ceremonyId": "rockbjornen",
+  "category": "Best Fans",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "rockbjornen-2020-foreign-song-of-the-year-on",
+  "year": 2020,
+  "ceremonyId": "rockbjornen",
+  "category": "Foreign Song of the Year",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "rthk-2020-top-ten-international-gold-songs-boy-with-luv",
+  "year": 2020,
+  "ceremonyId": "rthk",
+  "category": "Top ten International Gold Songs",
+  "tier": "category",
+  "work": "Boy With Luv",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-boy-with-luv"
+ },
+ {
+  "id": "rthk-2020-the-best-selling-korean-album-map-of-the-soul-7",
+  "year": 2020,
+  "ceremonyId": "rthk",
+  "category": "The Best Selling Korean Album",
+  "tier": "category",
+  "work": "Map of the Soul: 7",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-7"
+ },
+ {
+  "id": "sma-2020-album-daesang-map-of-the-soul-persona",
+  "year": 2020,
+  "ceremonyId": "sma",
+  "category": "Album Daesang",
+  "tier": "daesang",
+  "work": "Map of the Soul: Persona",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-persona"
+ },
+ {
+  "id": "sma-2020-bonsang-award-map-of-the-soul-persona",
+  "year": 2020,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "work": "Map of the Soul: Persona",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "album-map-of-the-soul-persona"
+ },
+ {
+  "id": "spotify-awards-2020-most-listened-k-pop-artist-male",
+  "year": 2020,
+  "ceremonyId": "spotify-awards",
+  "category": "Most Listened K-pop Artist (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2020-artist-of-the-year-bonsang",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2020-daesang-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Daesang Award",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2020-listeners-choice-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Listeners' Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2020-tma-popularity-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "TMA Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "tma-2020-worldwide-icon-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Worldwide Icon Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "vmaj-2020-best-group-video-international-dynamite",
+  "year": 2020,
+  "ceremonyId": "vmaj",
+  "category": "Best Group Video – International",
+  "tier": "category",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "vmas-2020-best-choreography-on",
+  "year": 2020,
+  "ceremonyId": "vmas",
+  "category": "Best Choreography",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "vmas-2020-best-group",
+  "year": 2020,
+  "ceremonyId": "vmas",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "vmas-2020-best-k-pop-on",
+  "year": 2020,
+  "ceremonyId": "vmas",
+  "category": "Best K-Pop",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "vmas-2020-best-pop-on",
+  "year": 2020,
+  "ceremonyId": "vmas",
+  "category": "Best Pop",
+  "tier": "category",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "wsj-innovator-2020-music-innovator",
+  "year": 2020,
+  "ceremonyId": "wsj-innovator",
+  "category": "Music Innovator",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BTS"
+ },
+ {
+  "id": "music-bank-2020-12-25",
+  "year": 2020,
+  "date": "2020-12-25",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "inkigayo-2020-12-13",
+  "year": 2020,
+  "date": "2020-12-13",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-core-2020-12-12",
+  "year": 2020,
+  "date": "2020-12-12",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-bank-2020-12-11",
+  "year": 2020,
+  "date": "2020-12-11",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "inkigayo-2020-12-06",
+  "year": 2020,
+  "date": "2020-12-06",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-core-2020-12-05",
+  "year": 2020,
+  "date": "2020-12-05",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-bank-2020-12-04",
+  "year": 2020,
+  "date": "2020-12-04",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "inkigayo-2020-11-29",
+  "year": 2020,
+  "date": "2020-11-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-core-2020-11-28",
+  "year": 2020,
+  "date": "2020-11-28",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Life Goes On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-life-goes-on"
+ },
+ {
+  "id": "music-bank-2020-11-27",
+  "year": 2020,
+  "date": "2020-11-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-11-20",
+  "year": 2020,
+  "date": "2020-11-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-11-14",
+  "year": 2020,
+  "date": "2020-11-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-11-13",
+  "year": 2020,
+  "date": "2020-11-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-11-07",
+  "year": 2020,
+  "date": "2020-11-07",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-10-31",
+  "year": 2020,
+  "date": "2020-10-31",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-10-17",
+  "year": 2020,
+  "date": "2020-10-17",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-10-10",
+  "year": 2020,
+  "date": "2020-10-10",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-10-09",
+  "year": 2020,
+  "date": "2020-10-09",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-10-02",
+  "year": 2020,
+  "date": "2020-10-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-09-26",
+  "year": 2020,
+  "date": "2020-09-26",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-09-25",
+  "year": 2020,
+  "date": "2020-09-25",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-09-19",
+  "year": 2020,
+  "date": "2020-09-19",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-09-18",
+  "year": 2020,
+  "date": "2020-09-18",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "show-champion-2020-09-16",
+  "year": 2020,
+  "date": "2020-09-16",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "inkigayo-2020-09-13",
+  "year": 2020,
+  "date": "2020-09-13",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-09-12",
+  "year": 2020,
+  "date": "2020-09-12",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-09-11",
+  "year": 2020,
+  "date": "2020-09-11",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "show-champion-2020-09-09",
+  "year": 2020,
+  "date": "2020-09-09",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "inkigayo-2020-09-06",
+  "year": 2020,
+  "date": "2020-09-06",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-09-05",
+  "year": 2020,
+  "date": "2020-09-05",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-bank-2020-09-04",
+  "year": 2020,
+  "date": "2020-09-04",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "show-champion-2020-09-02",
+  "year": 2020,
+  "date": "2020-09-02",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "inkigayo-2020-08-30",
+  "year": 2020,
+  "date": "2020-08-30",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-08-29",
+  "year": 2020,
+  "date": "2020-08-29",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dynamite",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-dynamite"
+ },
+ {
+  "id": "music-core-2020-03-28",
+  "year": 2020,
+  "date": "2020-03-28",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-core-2020-03-21",
+  "year": 2020,
+  "date": "2020-03-21",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-bank-2020-03-20",
+  "year": 2020,
+  "date": "2020-03-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "show-champion-2020-03-18",
+  "year": 2020,
+  "date": "2020-03-18",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "inkigayo-2020-03-15",
+  "year": 2020,
+  "date": "2020-03-15",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-core-2020-03-14",
+  "year": 2020,
+  "date": "2020-03-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-bank-2020-03-13",
+  "year": 2020,
+  "date": "2020-03-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "show-champion-2020-03-11",
+  "year": 2020,
+  "date": "2020-03-11",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "inkigayo-2020-03-08",
+  "year": 2020,
+  "date": "2020-03-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-core-2020-03-07",
+  "year": 2020,
+  "date": "2020-03-07",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-bank-2020-03-06",
+  "year": 2020,
+  "date": "2020-03-06",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "m-countdown-2020-03-05",
+  "year": 2020,
+  "date": "2020-03-05",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "show-champion-2020-03-04",
+  "year": 2020,
+  "date": "2020-03-04",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "inkigayo-2020-03-01",
+  "year": 2020,
+  "date": "2020-03-01",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-core-2020-02-29",
+  "year": 2020,
+  "date": "2020-02-29",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ },
+ {
+  "id": "music-bank-2020-02-28",
+  "year": 2020,
+  "date": "2020-02-28",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "On",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-on"
+ }
+]

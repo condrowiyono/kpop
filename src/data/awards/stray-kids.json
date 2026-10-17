@@ -1,0 +1,1519 @@
+[
+ {
+  "id": "asea-2026-the-best-group-male",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "The Best Group (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "d-awards-2026-album-of-the-year-daesang-karma",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "gda-2026-album-daesang-karma",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Album Daesang",
+  "tier": "daesang",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "gda-2026-album-bonsang-karma",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "hanteo-2026-best-album-daesang-karma",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Best Album (Daesang)",
+  "tier": "daesang",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "hanteo-2026-artist-of-the-year-bonsang",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2026-global-artist-africa",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – Africa",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2026-global-artist-europe",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – Europe",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2026-global-artist-north-america",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – North America",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2026-global-artist-south-america",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – South America",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "iheart-2026-k-pop-group-of-the-year",
+  "year": 2026,
+  "ceremonyId": "iheart",
+  "category": "K-pop Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "jgda-2026-album-of-the-year-asia-hollow",
+  "year": 2026,
+  "ceremonyId": "jgda",
+  "category": "Album of the Year (Asia)",
+  "tier": "category",
+  "work": "Hollow",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-hollow"
+ },
+ {
+  "id": "jgda-2026-best-3-albums-asia-hollow",
+  "year": 2026,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Hollow",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-hollow"
+ },
+ {
+  "id": "jgda-2026-best-artist-asia",
+  "year": 2026,
+  "ceremonyId": "jgda",
+  "category": "Best Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "jgda-2026-music-video-of-the-year-asia-stray-kids-fan-connecting-2024-skz-toy-world",
+  "year": 2026,
+  "ceremonyId": "jgda",
+  "category": "Music Video of the Year (Asia)",
+  "tier": "category",
+  "work": "Stray Kids Fan Connecting 2024 \"SKZ Toy World\"",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-stray-kids-fan-connecting-2024-skz-toy-world"
+ },
+ {
+  "id": "kwda-2026-k-world-dream-artist-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "K-World Dream Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tmea-2026-international-group-of-the-year",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "International Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tmea-2026-global-trend-songs-top-10-do-it",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "Global Trend Songs Top 10",
+  "tier": "category",
+  "work": "Do It",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "song-do-it"
+ },
+ {
+  "id": "inkigayo-2026-08-23",
+  "year": 2026,
+  "date": "2026-08-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "This & That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-this-that"
+ },
+ {
+  "id": "music-bank-2026-08-21",
+  "year": 2026,
+  "date": "2026-08-21",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "This & That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-this-that"
+ },
+ {
+  "id": "m-countdown-2026-08-20",
+  "year": 2026,
+  "date": "2026-08-20",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "This & That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-this-that"
+ },
+ {
+  "id": "show-champion-2026-08-19",
+  "year": 2026,
+  "date": "2026-08-19",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "This & That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-this-that"
+ },
+ {
+  "id": "music-bank-2026-08-14",
+  "year": 2026,
+  "date": "2026-08-14",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "This & That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-this-that"
+ },
+ {
+  "id": "m-countdown-2026-08-13",
+  "year": 2026,
+  "date": "2026-08-13",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "This & That",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-this-that"
+ },
+ {
+  "id": "aaa-2025-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "aaa-2025-best-artist",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "aaa-2025-best-k-pop-record",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best K-Pop Record",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "aaa-2025-popularity-award-male-group",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Popularity Award (Male Group)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "aaa-2025-album-of-the-year-karma",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "apma-2025-top-20-albums-of-the-year-karma",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year",
+  "tier": "category",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "brand-of-the-year-2025-male-idol-of-the-year",
+  "year": 2025,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Male Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "gda-2025-album-bonsang-ate",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Ate",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-ate"
+ },
+ {
+  "id": "hanteo-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "iheart-2025-k-pop-album-of-the-year-ate",
+  "year": 2025,
+  "ceremonyId": "iheart",
+  "category": "K-pop Album of the Year",
+  "tier": "category",
+  "work": "Ate",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-ate"
+ },
+ {
+  "id": "jgda-2025-best-3-albums-asia-giant",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Giant",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-giant"
+ },
+ {
+  "id": "jgda-2025-music-video-of-the-year-asia-stray-kids-2nd-world-tour-maniac-encore-in-japan",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Music Video of the Year (Asia)",
+  "tier": "category",
+  "work": "Stray Kids 2nd World Tour \"Maniac\" Encore in Japan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-stray-kids-2nd-world-tour-maniac-encore-in-japan"
+ },
+ {
+  "id": "kca-2025-favorite-music-group",
+  "year": 2025,
+  "ceremonyId": "kca",
+  "category": "Favorite Music Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kgma-2025-grand-honor-s-choice-daesang",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Grand Honor's Choice (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kgma-2025-grand-record-daesang",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Grand Record (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kgma-2025-best-music-10-karma",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Music 10",
+  "tier": "category",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "kgma-2025-best-selling-album-karma",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "Best Selling Album",
+  "tier": "category",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "kwda-2025-boy-group-best-artist-award-daesang",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Boy Group Best Artist Award (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kwda-2025-bonsang",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kwda-2025-class-award",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Class Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kwda-2025-boy-group-popularity-award",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Boy Group Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2025-fans-choice-top-10-male",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Male",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2025-visa-album-of-the-year-karma",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Visa Album of the Year",
+  "tier": "daesang",
+  "work": "Karma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-karma"
+ },
+ {
+  "id": "sma-2025-main-award-bonsang",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2025-honor-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Honor of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2025-record-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Record of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2025-tma-popularity-award",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "TMA Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "show-champion-2025-12-03",
+  "year": 2025,
+  "date": "2025-12-03",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do It",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-do-it"
+ },
+ {
+  "id": "show-champion-2025-11-26",
+  "year": 2025,
+  "date": "2025-11-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do It",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-do-it"
+ },
+ {
+  "id": "m-countdown-2025-09-04",
+  "year": 2025,
+  "date": "2025-09-04",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ceremony",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-ceremony"
+ },
+ {
+  "id": "show-champion-2025-09-03",
+  "year": 2025,
+  "date": "2025-09-03",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ceremony",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-ceremony"
+ },
+ {
+  "id": "inkigayo-2025-08-31",
+  "year": 2025,
+  "date": "2025-08-31",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ceremony",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-ceremony"
+ },
+ {
+  "id": "music-core-2025-08-30",
+  "year": 2025,
+  "date": "2025-08-30",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ceremony",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-ceremony"
+ },
+ {
+  "id": "music-bank-2025-08-29",
+  "year": 2025,
+  "date": "2025-08-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ceremony",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-ceremony"
+ },
+ {
+  "id": "m-countdown-2025-08-28",
+  "year": 2025,
+  "date": "2025-08-28",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ceremony",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-ceremony"
+ },
+ {
+  "id": "m-countdown-2025-01-09",
+  "year": 2025,
+  "date": "2025-01-09",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Walkin on Water",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-walkin-on-water"
+ },
+ {
+  "id": "aaa-2024-best-k-pop-record-award",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best K-pop Record Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "asea-2024-grand-prize-daesang",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Grand Prize (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "asea-2024-best-group",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "asea-2024-album-of-the-year-5-star",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Album of the Year",
+  "tier": "category",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "bbmas-2024-top-global-k-pop-artist",
+  "year": 2024,
+  "ceremonyId": "bbmas",
+  "category": "Top Global K-Pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "circle-2024-artist-of-the-year-album-5-star",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Album",
+  "tier": "category",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "gda-2024-album-bonsang-5-star",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "gda-2024-global-k-pop-artist-award",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Global K-Pop Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2024-best-performance-daesang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Best Performance (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "iheart-2024-k-pop-album-of-the-year-5-star",
+  "year": 2024,
+  "ceremonyId": "iheart",
+  "category": "K-Pop Album of the Year",
+  "tier": "category",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "jgda-2024-best-5-singles-social-path-super-bowl-japanese-ver",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Singles",
+  "tier": "category",
+  "work": "Social Path / Super Bowl(Japanese Ver.)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-social-path-super-bowl-japanese-ver"
+ },
+ {
+  "id": "kgma-2024-best-song-10-chk-chk-boom",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Song 10",
+  "tier": "category",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "korea-broadcasting-prizes-2024-best-singer",
+  "year": 2024,
+  "ceremonyId": "korea-broadcasting-prizes",
+  "category": "Best Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2024-fans-choice-top-10-male",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Male",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "pcas-2024-group-duo-of-the-year",
+  "year": 2024,
+  "ceremonyId": "pcas",
+  "category": "Group/Duo of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "short-shorts-2024-global-spotlight-award-skzflix",
+  "year": 2024,
+  "ceremonyId": "short-shorts",
+  "category": "Global Spotlight Award",
+  "tier": "category",
+  "work": "SKZflix",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-skzflix"
+ },
+ {
+  "id": "sma-2024-main-award-bonsang",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2024-fan-n-star-four-star-award",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Four Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "visionary-2024-2024-visionary",
+  "year": 2024,
+  "ceremonyId": "visionary",
+  "category": "2024 Visionary",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "music-bank-2024-12-27",
+  "year": 2024,
+  "date": "2024-12-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Walkin on Water",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-walkin-on-water"
+ },
+ {
+  "id": "music-bank-2024-12-20",
+  "year": 2024,
+  "date": "2024-12-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Walkin on Water",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-walkin-on-water"
+ },
+ {
+  "id": "music-bank-2024-08-16",
+  "year": 2024,
+  "date": "2024-08-16",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "show-champion-2024-08-14",
+  "year": 2024,
+  "date": "2024-08-14",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "show-champion-2024-08-07",
+  "year": 2024,
+  "date": "2024-08-07",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "show-champion-2024-07-31",
+  "year": 2024,
+  "date": "2024-07-31",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "music-bank-2024-07-26",
+  "year": 2024,
+  "date": "2024-07-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "m-countdown-2024-07-25",
+  "year": 2024,
+  "date": "2024-07-25",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chk Chk Boom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-chk-chk-boom"
+ },
+ {
+  "id": "aaa-2023-stage-of-the-year-daesang",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Stage of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "aaa-2023-fabulous-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Fabulous Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "apma-2023-best-group-overseas-5-star",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Best Group (Overseas)",
+  "tier": "category",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "apma-2023-top-20-albums-of-the-year-5-star",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year",
+  "tier": "category",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-s-class",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year",
+  "tier": "category",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "bbmas-2023-top-k-pop-album-5-star",
+  "year": 2023,
+  "ceremonyId": "bbmas",
+  "category": "Top K-Pop Album",
+  "tier": "category",
+  "work": "5-Star",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-5-star"
+ },
+ {
+  "id": "circle-2023-album-of-the-year-4th-quarter-maxident",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 4th Quarter",
+  "tier": "category",
+  "work": "Maxident",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-maxident"
+ },
+ {
+  "id": "gda-2023-album-bonsang-maxident",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Maxident",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-maxident"
+ },
+ {
+  "id": "gda-2023-most-popular-artist",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Most Popular Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2023-best-performance-daesang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Best Performance (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2023-global-artist-award-japan",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist Award – Japan",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kca-mx-2023-favorite-k-pop-group",
+  "year": 2023,
+  "ceremonyId": "kca-mx",
+  "category": "Favorite K-Pop Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "korea-first-brand-2023-best-male-idol",
+  "year": 2023,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kwda-2023-best-artist-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "Best Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kwda-2023-bonsang",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "kwda-2023-4th-generation-boy-group-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "4th Generation Boy Group Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2023-worldwide-fans-choice",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "sma-2023-main-award-bonsang",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2023-fan-n-star-four-star-award",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Four Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "vmaj-2023-best-group-video-international-case-143",
+  "year": 2023,
+  "ceremonyId": "vmaj",
+  "category": "Best Group Video – International",
+  "tier": "category",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "vmas-2023-best-k-pop-s-class",
+  "year": 2023,
+  "ceremonyId": "vmas",
+  "category": "Best K-Pop",
+  "tier": "category",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "music-core-2023-11-18",
+  "year": 2023,
+  "date": "2023-11-18",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lalalala",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-lalalala"
+ },
+ {
+  "id": "music-bank-2023-11-17",
+  "year": 2023,
+  "date": "2023-11-17",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lalalala",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-lalalala"
+ },
+ {
+  "id": "show-champion-2023-11-15",
+  "year": 2023,
+  "date": "2023-11-15",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lalalala",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-lalalala"
+ },
+ {
+  "id": "music-bank-2023-06-16",
+  "year": 2023,
+  "date": "2023-06-16",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "m-countdown-2023-06-15",
+  "year": 2023,
+  "date": "2023-06-15",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "show-champion-2023-06-14",
+  "year": 2023,
+  "date": "2023-06-14",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "music-bank-2023-06-09",
+  "year": 2023,
+  "date": "2023-06-09",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "m-countdown-2023-06-08",
+  "year": 2023,
+  "date": "2023-06-08",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "show-champion-2023-06-07",
+  "year": 2023,
+  "date": "2023-06-07",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "S-Class",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-s-class"
+ },
+ {
+  "id": "aaa-2022-album-of-the-year-daesang",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "aaa-2022-best-choice-award",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Best Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "apma-2022-people-s-choice-award",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "People's Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "circle-2022-world-k-pop-star",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "World K-Pop Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "gda-2022-album-bonsang-noeasy",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Noeasy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids",
+  "releaseId": "album-noeasy"
+ },
+ {
+  "id": "mama-2022-worldwide-fans-choice-top-10",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2022-yogibo-chill-artist",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Yogibo Chill Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2022-most-popular-group",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Most Popular Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mnet-japan-2022-artist-of-the-year",
+  "year": 2022,
+  "ceremonyId": "mnet-japan",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2022-fan-n-star-four-star-award",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Four Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "music-bank-2022-10-21",
+  "year": 2022,
+  "date": "2022-10-21",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "m-countdown-2022-10-20",
+  "year": 2022,
+  "date": "2022-10-20",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "show-champion-2022-10-19",
+  "year": 2022,
+  "date": "2022-10-19",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "music-bank-2022-10-14",
+  "year": 2022,
+  "date": "2022-10-14",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "m-countdown-2022-10-13",
+  "year": 2022,
+  "date": "2022-10-13",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "show-champion-2022-10-12",
+  "year": 2022,
+  "date": "2022-10-12",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Case 143",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-case-143"
+ },
+ {
+  "id": "show-champion-2022-03-30",
+  "year": 2022,
+  "date": "2022-03-30",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maniac",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-maniac"
+ },
+ {
+  "id": "music-bank-2022-03-25",
+  "year": 2022,
+  "date": "2022-03-25",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maniac",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-maniac"
+ },
+ {
+  "id": "aaa-2021-performance-of-the-year-daesang",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Performance of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "circle-2021-the-hot-performance-of-this-year",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "The Hot Performance of This Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "gda-2021-best-performance-award",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "hanteo-2021-artist-award-male-group",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "Artist Award – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "jgda-2021-best-3-new-artist-asia",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "korea-first-brand-2021-hot-trend",
+  "year": 2021,
+  "ceremonyId": "korea-first-brand",
+  "category": "Hot Trend",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "mama-2021-worldwide-fans-choice-top-10",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "sma-2021-main-award-bonsang",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "music-bank-2021-12-10",
+  "year": 2021,
+  "date": "2021-12-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Christmas EveL",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-christmas-evel"
+ },
+ {
+  "id": "m-countdown-2021-09-09",
+  "year": 2021,
+  "date": "2021-09-09",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunderous",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-thunderous"
+ },
+ {
+  "id": "show-champion-2021-09-08",
+  "year": 2021,
+  "date": "2021-09-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunderous",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-thunderous"
+ },
+ {
+  "id": "inkigayo-2021-09-05",
+  "year": 2021,
+  "date": "2021-09-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunderous",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-thunderous"
+ },
+ {
+  "id": "music-bank-2021-09-03",
+  "year": 2021,
+  "date": "2021-09-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunderous",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-thunderous"
+ },
+ {
+  "id": "m-countdown-2021-09-02",
+  "year": 2021,
+  "date": "2021-09-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunderous",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-thunderous"
+ },
+ {
+  "id": "show-champion-2021-09-01",
+  "year": 2021,
+  "date": "2021-09-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunderous",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-thunderous"
+ },
+ {
+  "id": "aaa-2020-best-music-video-award",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Best Music Video Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "circle-2020-world-rookie-of-the-year",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "World Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "ema-2020-best-korean-act",
+  "year": 2020,
+  "ceremonyId": "ema",
+  "category": "Best Korean Act",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "soribada-2020-global-hot-trend-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "Global Hot Trend Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "tma-2020-global-hottest-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Global Hottest Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+ },
+ {
+  "id": "m-countdown-2020-09-24",
+  "year": 2020,
+  "date": "2020-09-24",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Back Door",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-back-door"
+ },
+ {
+  "id": "show-champion-2020-09-23",
+  "year": 2020,
+  "date": "2020-09-23",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Back Door",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-back-door"
+ }
+]

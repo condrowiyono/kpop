@@ -1,0 +1,281 @@
+[
+ {
+  "id": "album-twice-and-twice2",
+  "title": "&Twice and #Twice2",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20%26Twice%20and%20%23Twice2",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=TWICE%20%26Twice%20and%20%23Twice2",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=TWICE%20%26Twice%20and%20%23Twice2",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-twice2",
+  "title": "#Twice2",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20%23Twice2",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=TWICE%20%23Twice2",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_bPe0IYCJr8u",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "song-alcohol-free",
+  "title": "Alcohol-Free",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/alcohol-free/1566636556?i=1566636563",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=m8CyyxWgNd8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-06-09",
+  "album": "Taste of Love",
+  "artwork": "/images/releases/twice-song-alcohol-free.jpg"
+ },
+ {
+  "id": "song-cheer-up",
+  "title": "Cheer Up",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20Cheer%20Up",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/cheer-up/1555389971?i=1555389973",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=prWVZFgZ3Zc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2016-04-25",
+  "album": "Page Two",
+  "artwork": "/images/releases/twice-song-cheer-up.jpg"
+ },
+ {
+  "id": "album-feel-special",
+  "title": "Feel Special",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/feel-special/1556087002",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_k2bPNJ5j1DD",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-09-23",
+  "artwork": "/images/releases/twice-album-feel-special.jpg"
+ },
+ {
+  "id": "song-i-can-t-stop-me",
+  "title": "I Can't Stop Me",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20I%20Can't%20Stop%20Me",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/i-cant-stop-me/1535654236?i=1535654244",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3d-D5bLDZSk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-10-26",
+  "album": "Eyes wide open",
+  "artwork": "/images/releases/twice-song-i-can-t-stop-me.jpg"
+ },
+ {
+  "id": "song-more-more",
+  "title": "More & More",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20More%20%26%20More",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/more-more/1515404856?i=1515404862",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8yTxNtVr_d8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-06-01",
+  "album": "MORE & MORE",
+  "artwork": "/images/releases/twice-song-more-more.jpg"
+ },
+ {
+  "id": "song-scientist",
+  "title": "Scientist",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20Scientist",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/scientist/1591509653?i=1591509654",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=FOYH-CxtKI8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-07-28",
+  "album": "Formula of Love: O+T=<3",
+  "artwork": "/images/releases/twice-song-scientist.jpg"
+ },
+ {
+  "id": "song-set-me-free",
+  "title": "Set Me Free",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20Set%20Me%20Free",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/set-me-free/1669081578?i=1669081591",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=IPk3M154M3s",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-03-10",
+  "album": "READY TO BE",
+  "artwork": "/images/releases/twice-song-set-me-free.jpg"
+ },
+ {
+  "id": "song-strategy",
+  "title": "Strategy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/strategy-feat-megan-thee-stallion/1774299753?i=1774299757",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=nmbiBVPe5bY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-12-06",
+  "album": "STRATEGY",
+  "artwork": "/images/releases/twice-song-strategy.jpg"
+ },
+ {
+  "id": "song-this-is-for",
+  "title": "This Is For",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20This%20Is%20For",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/this-is-for/1813490993?i=1813490998",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=V4QB1mJoafo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-11",
+  "album": "THIS IS FOR",
+  "artwork": "/images/releases/twice-song-this-is-for.jpg"
+ },
+ {
+  "id": "song-tt",
+  "title": "TT",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20TT",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/tt/1555401119?i=1555401122",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=___h2czNhe0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2016-10-24",
+  "album": "Twicecoaster: Lane 1",
+  "artwork": "/images/releases/twice-song-tt.jpg"
+ },
+ {
+  "id": "song-yes-or-yes",
+  "title": "Yes or Yes",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TWICE%20Yes%20or%20Yes",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/yes-or-yes/1555395987?i=1555395988",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3AIII5SN0N0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2018-11-05",
+  "album": "YES or YES",
+  "artwork": "/images/releases/twice-song-yes-or-yes.jpg"
+ }
+]

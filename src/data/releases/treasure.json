@@ -1,0 +1,133 @@
+[
+ {
+  "id": "song-if-i",
+  "title": "If I",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TREASURE%20If%20I",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/if-i/6773955326?i=6773955327",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=qfmC3_KLtGI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-06-01",
+  "album": "4th MINI ALBUM [NEW WAV]",
+  "artwork": "/images/releases/treasure-song-if-i.jpg"
+ },
+ {
+  "id": "song-jikjin",
+  "title": "Jikjin",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TREASURE%20Jikjin",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/jikjin/1608994375?i=1608994379",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=PzPbrp4H6No",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-02-15",
+  "album": "THE SECOND STEP : CHAPTER ONE",
+  "artwork": "/images/releases/treasure-song-jikjin.jpg"
+ },
+ {
+  "id": "song-king-kong",
+  "title": "King Kong",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TREASURE%20King%20Kong",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/king-kong/1747798221?i=1747798235",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=1cdcvKjSGao",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-28",
+  "album": "KING KONG",
+  "artwork": "/images/releases/treasure-song-king-kong.jpg"
+ },
+ {
+  "id": "song-my-treasure",
+  "title": "My Treasure",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TREASURE%20My%20Treasure",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/my-treasure/1547403580?i=1547403581",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=dQ2JgAENf18",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-01-11",
+  "album": "THE FIRST STEP : TREASURE EFFECT",
+  "artwork": "/images/releases/treasure-song-my-treasure.jpg"
+ },
+ {
+  "id": "album-the-second-step-chapter-one",
+  "title": "The Second Step: Chapter One",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-second-step-chapter-one-ep/1608994375",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_5QihubfBKbo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-02-15",
+  "artwork": "/images/releases/treasure-album-the-second-step-chapter-one.jpg"
+ },
+ {
+  "id": "song-yellow",
+  "title": "Yellow",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TREASURE%20Yellow",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/yellow/1485279097?i=1485279103",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ynQ9clpw3GY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-10-25",
+  "album": "Colorish",
+  "artwork": "/images/releases/treasure-song-yellow.jpg"
+ }
+]

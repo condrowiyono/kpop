@@ -1,0 +1,780 @@
+[
+ {
+  "id": "asea-2026-album-of-the-year-daesang-desire-unleash",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Desire: Unleash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-desire-unleash"
+ },
+ {
+  "id": "asea-2026-artist-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "Artist of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "asea-2026-the-platinum-award",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "The Platinum Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2026-artist-of-the-year-daesang",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Artist of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2026-delights-blue-label",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2026-best-group",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2026-best-tour",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Best Tour",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2026-best-popularity-award-boy-group",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Best Popularity Award – Boy Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "gda-2026-album-bonsang-desire-unleash",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Desire: Unleash",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-desire-unleash"
+ },
+ {
+  "id": "m-countdown-2026-09-10",
+  "year": 2026,
+  "date": "2026-09-10",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "m-countdown-2026-09-03",
+  "year": 2026,
+  "date": "2026-09-03",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "inkigayo-2026-08-30",
+  "year": 2026,
+  "date": "2026-08-30",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "music-core-2026-08-29",
+  "year": 2026,
+  "date": "2026-08-29",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "music-bank-2026-08-28",
+  "year": 2026,
+  "date": "2026-08-28",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "m-countdown-2026-08-27",
+  "year": 2026,
+  "date": "2026-08-27",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "show-champion-2026-08-26",
+  "year": 2026,
+  "date": "2026-08-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bloody Paradise",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-bloody-paradise"
+ },
+ {
+  "id": "m-countdown-2026-01-22",
+  "year": 2026,
+  "date": "2026-01-22",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Knife",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-knife"
+ },
+ {
+  "id": "asea-2025-album-of-the-year-daesang-romance-untold",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Romance: Untold",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-romance-untold"
+ },
+ {
+  "id": "asea-2025-top-touring-artist",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "Top Touring Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "asea-2025-the-platinum-award",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "The Platinum Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2025-album-of-the-year-daesang-romance-untold",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Romance: Untold",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-romance-untold"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2025-best-group",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2025-best-tour",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Tour",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "d-awards-2025-best-popularity-award-boy-group",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Popularity Award – Boy Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "gda-2025-album-bonsang-romance-untold",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Romance: Untold",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-romance-untold"
+ },
+ {
+  "id": "gda-2025-global-k-pop-artist",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Global K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "gda-2025-fans-choice-with-nongshim-shin-ramyun",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Fans' Choice with Nongshim Shin Ramyun",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "hanteo-2025-best-performance-daesang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Best Performance (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "hanteo-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2025-fans-choice-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2025-fans-choice-male-top-10",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Male Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2025-telasa-favorite-global-artist",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "TELASA Favorite Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "sma-2025-main-prize-bonsang",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "tma-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "tma-2025-icon-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Icon of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "tma-2025-today-s-choice",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Today's Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "inkigayo-2025-06-15",
+  "year": 2025,
+  "date": "2025-06-15",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad Desire (With or Without You)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-bad-desire"
+ },
+ {
+  "id": "music-bank-2025-06-13",
+  "year": 2025,
+  "date": "2025-06-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad Desire (With or Without You)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-bad-desire"
+ },
+ {
+  "id": "m-countdown-2025-06-12",
+  "year": 2025,
+  "date": "2025-06-12",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bad Desire (With or Without You)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-bad-desire"
+ },
+ {
+  "id": "gda-2024-album-bonsang-dark-blood",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Dark Blood",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-dark-blood"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2024-worldwide-fans-choice-top-10",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "music-bank-2024-07-19",
+  "year": 2024,
+  "date": "2024-07-19",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "XO (Only If You Say Yes)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-xo-only-if-you-say-yes"
+ },
+ {
+  "id": "gda-2023-album-bonsang-manifesto-day-1",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Manifesto: Day 1",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-manifesto-day-1"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "japan-record-2023-special-international-music-award",
+  "year": 2023,
+  "ceremonyId": "japan-record",
+  "category": "Special International Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "kwda-2023-k-global-bonsang-main-prize",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Bonsang (Main Prize)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "kwda-2023-k-global-best-performance-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Best Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2023-worldwide-fans-choice-top-10",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "music-bank-2023-11-24",
+  "year": 2023,
+  "date": "2023-11-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sweet Venom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-sweet-venom"
+ },
+ {
+  "id": "music-bank-2023-06-02",
+  "year": 2023,
+  "date": "2023-06-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bite Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-bite-me"
+ },
+ {
+  "id": "m-countdown-2023-06-01",
+  "year": 2023,
+  "date": "2023-06-01",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bite Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-bite-me"
+ },
+ {
+  "id": "circle-2022-hot-performance-of-the-year",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Hot Performance of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "gda-2022-album-bonsang-dimension-dilemma",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "Dimension: Dilemma",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-dimension-dilemma"
+ },
+ {
+  "id": "hanteo-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "jgda-2022-new-artist-of-the-year-asia",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "New Artist of the Year (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "jgda-2022-best-3-new-artists-asia",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2022-worldwide-fans-choice-top-10",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mma-2022-1thek-global-icon",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "1theK Global Icon",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "sma-2022-main-prize-bonsang-border-carnival",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "work": "Border: Carnival",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-border-carnival"
+ },
+ {
+  "id": "sma-2022-best-performance-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Best Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "music-bank-2022-07-15",
+  "year": 2022,
+  "date": "2022-07-15",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Future Perfect (Pass the MIC)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-future-perfect-pass-the-mic"
+ },
+ {
+  "id": "show-champion-2022-07-13",
+  "year": 2022,
+  "date": "2022-07-13",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Future Perfect",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-future-perfect"
+ },
+ {
+  "id": "the-show-2022-07-12",
+  "year": 2022,
+  "date": "2022-07-12",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Future Perfect",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-future-perfect"
+ },
+ {
+  "id": "music-bank-2022-01-21",
+  "year": 2022,
+  "date": "2022-01-21",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blessed-Cursed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-blessed-cursed"
+ },
+ {
+  "id": "show-champion-2022-01-19",
+  "year": 2022,
+  "date": "2022-01-19",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blessed-Cursed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-blessed-cursed"
+ },
+ {
+  "id": "aaa-2021-rookie-of-the-year-music",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "aaa-2021-best-artist-award-music",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "circle-2021-world-rookie-of-the-year",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "World Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "gda-2021-rookie-artist-of-the-year",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2021-best-new-male-artist",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Best New Male Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mama-2021-worldwide-fans-choice-top-10",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "mma-2021-global-rising-artist-award",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Global Rising Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "sma-2021-rookie-of-the-year",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "tma-2021-fan-n-star-choice-award-artist",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Fan N Star Choice Award (Artist)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ },
+ {
+  "id": "music-bank-2021-10-22",
+  "year": 2021,
+  "date": "2021-10-22",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Tamed-Dashed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-tamed-dashed"
+ },
+ {
+  "id": "show-champion-2021-10-20",
+  "year": 2021,
+  "date": "2021-10-20",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Tamed-Dashed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-tamed-dashed"
+ },
+ {
+  "id": "the-show-2021-10-19",
+  "year": 2021,
+  "date": "2021-10-19",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Tamed-Dashed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-tamed-dashed"
+ },
+ {
+  "id": "music-bank-2021-05-07",
+  "year": 2021,
+  "date": "2021-05-07",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Drunk-Dazed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-drunk-dazed"
+ },
+ {
+  "id": "show-champion-2021-05-05",
+  "year": 2021,
+  "date": "2021-05-05",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Drunk-Dazed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-drunk-dazed"
+ },
+ {
+  "id": "the-show-2021-05-04",
+  "year": 2021,
+  "date": "2021-05-04",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Drunk-Dazed",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-drunk-dazed"
+ },
+ {
+  "id": "circle-2020-new-artist-of-the-year-physical-border-day-one",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "New Artist of the Year – Physical",
+  "tier": "category",
+  "work": "Border: Day One",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen",
+  "releaseId": "album-border-day-one"
+ },
+ {
+  "id": "tma-2020-next-leader-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Enhypen"
+ }
+]

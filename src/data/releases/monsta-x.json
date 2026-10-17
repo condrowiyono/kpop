@@ -1,0 +1,196 @@
+[
+ {
+  "id": "song-beautiful-liar",
+  "title": "Beautiful Liar",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Beautiful%20Liar",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/beautiful-liar/1660237905?i=1660238073",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=py_9LA5nXdE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-01-09",
+  "album": "REASON",
+  "artwork": "/images/releases/monsta-x-song-beautiful-liar.jpg"
+ },
+ {
+  "id": "song-fantasia",
+  "title": "Fantasia",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Fantasia",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fantasia/1511016826?i=1511016827",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=QnWBu5d1qtQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-05-26",
+  "album": "FANTASIA X",
+  "artwork": "/images/releases/monsta-x-song-fantasia.jpg"
+ },
+ {
+  "id": "album-idol-1n2d",
+  "title": "Idol 1N2D",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Idol%201N2D",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=MONSTA%20X%20Idol%201N2D",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=MONSTA%20X%20Idol%201N2D",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-love",
+  "title": "Love",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Love",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love/1710210257?i=1710210263",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=_IqxLazCyYM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-11-19",
+  "album": "Shape of Love",
+  "artwork": "/images/releases/monsta-x-song-love.jpg"
+ },
+ {
+  "id": "song-love-killa",
+  "title": "Love Killa",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Love%20Killa",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love-killa/1537682956?i=1537682958",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ZIH2WYBMr8A",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-11-02",
+  "album": "Fatal Love",
+  "artwork": "/images/releases/monsta-x-song-love-killa.jpg"
+ },
+ {
+  "id": "song-magic",
+  "title": "Magic",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Magic",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/magic/6801520606?i=6801520616",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=MONSTA%20X%20Magic",
+    "verified": false
+   }
+  },
+  "releaseDate": "2026-09-04",
+  "album": "The Phase",
+  "artwork": "/images/releases/monsta-x-song-magic.jpg"
+ },
+ {
+  "id": "song-rush-hour",
+  "title": "Rush Hour",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Rush%20Hour",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/rush-hour/1710173861?i=1710173863",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=MONSTA%20X%20Rush%20Hour",
+    "verified": false
+   }
+  },
+  "releaseDate": "2021-11-19",
+  "album": "No Limit",
+  "artwork": "/images/releases/monsta-x-song-rush-hour.jpg"
+ },
+ {
+  "id": "song-stand-up",
+  "title": "Stand Up",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Stand%20Up",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/stand-up/1511016826?i=1511017013",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=opLr2WBIMVw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-05-26",
+  "album": "FANTASIA X",
+  "artwork": "/images/releases/monsta-x-song-stand-up.jpg"
+ },
+ {
+  "id": "album-take-2-we-are-here",
+  "title": "Take.2 We Are Here",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/MONSTA%20X%20Take.2%20We%20Are%20Here",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/take-2-we-are-here/1452704834",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_aUjfseopCxE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-02-18",
+  "artwork": "/images/releases/monsta-x-album-take-2-we-are-here.jpg"
+ }
+]

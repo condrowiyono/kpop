@@ -1,0 +1,109 @@
+[
+ {
+  "id": "song-dun-dun-dance",
+  "title": "Dun Dun Dance",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/OH%20MY%20GIRL%20Dun%20Dun%20Dance",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dun-dun-dance/1738879720?i=1738879851",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=EILeBK18Y2I",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-05-10",
+  "album": "Dear OHMYGIRL",
+  "artwork": "/images/releases/oh-my-girl-song-dun-dun-dance.jpg"
+ },
+ {
+  "id": "album-idol-1n2d",
+  "title": "Idol 1N2D",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/OH%20MY%20GIRL%20Idol%201N2D",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=OH%20MY%20GIRL%20Idol%201N2D",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=OH%20MY%20GIRL%20Idol%201N2D",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-nonstop",
+  "title": "Nonstop",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/OH%20MY%20GIRL%20Nonstop",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/nonstop/1738879486?i=1738879668",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=T-AgW1i-0-c",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-04-27",
+  "album": "NONSTOP",
+  "artwork": "/images/releases/oh-my-girl-song-nonstop.jpg"
+ },
+ {
+  "id": "song-real-love",
+  "title": "Real Love",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/OH%20MY%20GIRL%20Real%20Love",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/real-love/1738879835?i=1738879836",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Dk0n1riBmz0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-03-28",
+  "album": "Real Love",
+  "artwork": "/images/releases/oh-my-girl-song-real-love.jpg"
+ },
+ {
+  "id": "song-summer-comes",
+  "title": "Summer Comes",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/OH%20MY%20GIRL%20Summer%20Comes",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/summer-comes/1738880063?i=1738880065",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=rNLYFoos2F8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-24",
+  "album": "Golden Hourglass",
+  "artwork": "/images/releases/oh-my-girl-song-summer-comes.jpg"
+ }
+]

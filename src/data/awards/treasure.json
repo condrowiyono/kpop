@@ -1,0 +1,358 @@
+[
+ {
+  "id": "tma-2026-artist-of-year-bonsang",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "Artist of Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "tma-2026-world-best-performer",
+  "year": 2026,
+  "ceremonyId": "tma",
+  "category": "World Best Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "m-countdown-2026-06-11",
+  "year": 2026,
+  "date": "2026-06-11",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "If I",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-if-i"
+ },
+ {
+  "id": "apma-2025-top-20-songs-of-the-year-yellow",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs Of The Year",
+  "tier": "category",
+  "work": "Yellow",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure",
+  "releaseId": "song-yellow"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-award",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "d-awards-2025-best-tour",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Tour",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "tmea-2025-top-10-korean-eps-of-the-year",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "Top 10 Korean EPs Of The Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "show-champion-2025-03-19",
+  "year": 2025,
+  "date": "2025-03-19",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Yellow",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-yellow"
+ },
+ {
+  "id": "asea-2024-best-touring",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Best Touring",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "asea-2024-best-hip-hop",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Best Hip-Hop",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "asea-2024-platinum-worldwide-star",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Platinum Worldwide Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "kgma-2024-best-10-songs-king-kong",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best 10 Songs",
+  "tier": "bonsang",
+  "work": "King Kong",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure",
+  "releaseId": "song-king-kong"
+ },
+ {
+  "id": "kgma-2024-best-stage-award",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Stage Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2024-favorite-male-group",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Favorite Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "gda-2023-best-group",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "kwda-2023-k-global-best-unit-award-treasure-s-t5",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K Global Best Unit Award (Treasure's T5)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2023-galaxy-neo-flip-artist",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Galaxy Neo Flip Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2023-favorite-dance-performance-male-group",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Favorite Dance Performance – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "tmea-2023-new-influence-overseas-group-of-the-year",
+  "year": 2023,
+  "ceremonyId": "tmea",
+  "category": "New Influence Overseas Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "aaa-2022-best-musician-award",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "apma-2022-top-20-albums-of-the-year-overseas-the-second-step-chapter-one",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "The Second Step: Chapter One",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure",
+  "releaseId": "album-the-second-step-chapter-one"
+ },
+ {
+  "id": "brand-loyalty-2022-male-idol-rising-star-award",
+  "year": 2022,
+  "ceremonyId": "brand-loyalty",
+  "category": "Male Idol Rising Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "jgda-2022-best-3-new-artists-asia",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2022-worldwide-fans-choice-top-10",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "music-bank-2022-02-25",
+  "year": 2022,
+  "date": "2022-02-25",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jikjin",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-jikjin"
+ },
+ {
+  "id": "show-champion-2022-02-23",
+  "year": 2022,
+  "date": "2022-02-23",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Jikjin",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-jikjin"
+ },
+ {
+  "id": "brand-loyalty-2021-best-male-rookie-award",
+  "year": 2021,
+  "ceremonyId": "brand-loyalty",
+  "category": "Best Male Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "brand-of-the-year-2021-rookie-male-idol",
+  "year": 2021,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Rookie Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "gda-2021-rookie-artist-of-the-year",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "hanteo-2021-whosfandom-award",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "WhosFandom Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "indonesian-hallyu-2021-boy-group-song-of-the-year-my-treasure",
+  "year": 2021,
+  "ceremonyId": "indonesian-hallyu",
+  "category": "Boy Group Song of the Year",
+  "tier": "category",
+  "work": "My Treasure",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure",
+  "releaseId": "song-my-treasure"
+ },
+ {
+  "id": "joox-th-2021-favourite-k-pop-rookie-artist-of-2020",
+  "year": 2021,
+  "ceremonyId": "joox-th",
+  "category": "Favourite K-Pop Rookie Artist of 2020",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "korea-first-brand-2021-best-rookie-idol-male",
+  "year": 2021,
+  "ceremonyId": "korea-first-brand",
+  "category": "Best Rookie Idol (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2021-worldwide-fans-choice-top-10",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "sma-2021-rookie-of-the-year",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "aaa-2020-rookie-of-the-year-male-singer",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Male Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "apan-2020-new-wave-award-male",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "New Wave Award (Male)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2020-best-new-male-artist",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best New Male Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mama-2020-worldwide-fans-choice-top-10",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ },
+ {
+  "id": "mubeat-2020-rookie-artist-male",
+  "year": 2020,
+  "ceremonyId": "mubeat",
+  "category": "Rookie Artist - Male",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Treasure"
+ }
+]

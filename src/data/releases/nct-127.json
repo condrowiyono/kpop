@@ -1,0 +1,222 @@
+[
+ {
+  "id": "song-2-baddies",
+  "title": "2 Baddies",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%202%20Baddies",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/2-baddies/1767026373?i=1767026378",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=erITdIMYUUU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-09-16",
+  "album": "Ay-Yo - The 4th Album Repackage",
+  "artwork": "/images/releases/nct-127-song-2-baddies.jpg"
+ },
+ {
+  "id": "song-ay-yo",
+  "title": "Ay-Yo",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Ay-Yo",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ay-yo/1767026373?i=1767026374",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=NCT%20127%20Ay-Yo",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-01-30",
+  "album": "Ay-Yo - The 4th Album Repackage",
+  "artwork": "/images/releases/nct-127-song-ay-yo.jpg"
+ },
+ {
+  "id": "song-be-there-for-me",
+  "title": "Be There For Me",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Be%20There%20For%20Me",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/be-there-for-me/1781140439?i=1781140440",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=nzzpE5J_p4Q",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-12-22",
+  "album": "Be There For Me - Winter Special Single",
+  "artwork": "/images/releases/nct-127-song-be-there-for-me.jpg"
+ },
+ {
+  "id": "song-blingy",
+  "title": "Blingy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Blingy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blingy/6798956146?i=6798956147",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8oxdWxVPR24",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-08-24",
+  "album": "BLINGY - The 7th Album",
+  "artwork": "/images/releases/nct-127-song-blingy.jpg"
+ },
+ {
+  "id": "song-fact-check",
+  "title": "Fact Check",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Fact%20Check",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fact-check/1725564702?i=1725565110",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8_vebseoZaM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-10-06",
+  "album": "iScreaM Vol.29 : Fact Check Remixes",
+  "artwork": "/images/releases/nct-127-song-fact-check.jpg"
+ },
+ {
+  "id": "song-favorite-vampire",
+  "title": "Favorite (Vampire)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Favorite%20(Vampire)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/favorite-vampire/1766659290?i=1766659302",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ZSOZ6Bg4AJQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-10-25",
+  "album": "Favorite - The 3rd Album Repackage",
+  "artwork": "/images/releases/nct-127-song-favorite-vampire.jpg"
+ },
+ {
+  "id": "song-kick-it",
+  "title": "Kick It",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Kick%20It",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/kick-it/1767044390?i=1767044393",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=T4U2Wy_Qtg0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-03-06",
+  "album": "NCT #127 Neo Zone - The 2nd Album",
+  "artwork": "/images/releases/nct-127-song-kick-it.jpg"
+ },
+ {
+  "id": "song-punch",
+  "title": "Punch",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Punch",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/punch/1766840562?i=1766840563",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8g113TIPCuU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-05-19",
+  "album": "NCT #127 Neo Zone: The Final Round - The 2nd Album Repackage",
+  "artwork": "/images/releases/nct-127-song-punch.jpg"
+ },
+ {
+  "id": "song-sticker",
+  "title": "Sticker",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Sticker",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/sticker/1766560175?i=1766560181",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=qDgPJccj7TE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-09-17",
+  "album": "Sticker - The 3rd Album",
+  "artwork": "/images/releases/nct-127-song-sticker.jpg"
+ },
+ {
+  "id": "song-walk",
+  "title": "Walk",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NCT%20127%20Walk",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/walk/1766628771?i=1766628787",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=wBUeINkAhNI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-15",
+  "album": "WALK - The 6th Album",
+  "artwork": "/images/releases/nct-127-song-walk.jpg"
+ }
+]

@@ -1,26 +1,160 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* Theme is driven by data-theme on <html> (set before paint by ThemeScript). */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/*
+ * Palette: warm paper neutrals so photos and each group's own colors carry the page.
+ * Chart series use the validated categorical slots (blue, aqua, orange) and nothing else.
+ */
+:root {
+  color-scheme: light;
+  --bg: #f6f4ef;
+  --surface: #ffffff;
+  --surface-2: #efece5;
+  --ink: #15130f;
+  --ink-2: #4b473f;
+  --ink-3: #6a655b;
+  --line: #dedad0;
+  --control: #8a8478; /* 3:1+ against bg and surface, for input and chip borders */
+  --focus: #15130f;
+
+  --series-domestic: #2a78d6;
+  --series-music: #1baf7a;
+  --series-intl: #eb6834;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --heat-0: #f0efec;
+  --heat-1: #cde2fb;
+  --heat-2: #9ec5f4;
+  --heat-3: #6da7ec;
+  --heat-4: #3987e5;
+  --heat-5: #256abf;
+  --heat-6: #184f95;
+  --heat-7: #0d366b;
+  /* Cell text: steps 0-4 take --heat-ink-low, 5-7 take --heat-ink-high (all verified >= 4.5:1). */
+  --heat-ink-low: #15130f;
+  --heat-ink-high: #ffffff;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #121110;
+    --surface: #1b1a18;
+    --surface-2: #262420;
+    --ink: #f3f1ea;
+    --ink-2: #c9c5ba;
+    --ink-3: #a39e92;
+    --line: #2e2c28;
+    --control: #6f6a60;
+    --focus: #f3f1ea;
+    --series-domestic: #3987e5;
+    --series-music: #199e70;
+    --series-intl: #d95926;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --heat-0: #23221f;
+    --heat-1: #0d366b;
+    --heat-2: #104281;
+    --heat-3: #184f95;
+    --heat-4: #1c5cab;
+    --heat-5: #3987e5;
+    --heat-6: #6da7ec;
+    --heat-7: #9ec5f4;
+    --heat-ink-low: #ffffff;
+    --heat-ink-high: #15130f;
   }
 }
 
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121110;
+  --surface: #1b1a18;
+  --surface-2: #262420;
+  --ink: #f3f1ea;
+  --ink-2: #c9c5ba;
+  --ink-3: #a39e92;
+  --line: #2e2c28;
+  --control: #6f6a60;
+  --focus: #f3f1ea;
+  --series-domestic: #3987e5;
+  --series-music: #199e70;
+  --series-intl: #d95926;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --heat-0: #23221f;
+  --heat-1: #0d366b;
+  --heat-2: #104281;
+  --heat-3: #184f95;
+  --heat-4: #1c5cab;
+  --heat-5: #3987e5;
+  --heat-6: #6da7ec;
+  --heat-7: #9ec5f4;
+  --heat-ink-low: #ffffff;
+  --heat-ink-high: #15130f;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-control: var(--control);
+  --color-domestic: var(--series-domestic);
+  --color-music: var(--series-music);
+  --color-intl: var(--series-intl);
+  /* Plex Sans KR: one family that draws Hangul and Latin names with the same voice. */
+  --font-sans: var(--font-plex), "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  /* Big Shoulders: condensed scoreboard numerals, so big counts sit beside photos even at phone width. */
+  --font-display: var(--font-shoulders), "Arial Narrow", sans-serif;
+}
+
+html {
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "kern";
+  text-rendering: optimizeLegibility;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Scrollable rails (gallery, year chips) keep their scrollbar subtle but present. */
+.rail {
+  /* Positioned so screen-reader-only (absolute) text inside stays clipped by the scroller. */
+  position: relative;
+  scrollbar-width: thin;
+  scrollbar-color: var(--control) transparent;
+  overscroll-behavior-x: contain;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
 }

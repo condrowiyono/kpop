@@ -1,0 +1,152 @@
+[
+ {
+  "id": "song-boom-boom-bass",
+  "title": "Boom Boom Bass",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/RIIZE%20Boom%20Boom%20Bass",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/boom-boom-bass/1749589149?i=1749589154",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=5FpxMXiZ5k4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-06-17",
+  "album": "RIIZING - The 1st Mini Album",
+  "artwork": "/images/releases/riize-song-boom-boom-bass.jpg"
+ },
+ {
+  "id": "song-do-your-dance",
+  "title": "Do Your Dance",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/RIIZE%20Do%20Your%20Dance",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/do-your-dance/6774352871?i=6774352877",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=RIIZE%20Do%20Your%20Dance",
+    "verified": false
+   }
+  },
+  "releaseDate": "2026-06-15",
+  "album": "Ⅱ - The 2nd Mini Album",
+  "artwork": "/images/releases/riize-song-do-your-dance.jpg"
+ },
+ {
+  "id": "song-fly-up",
+  "title": "Fly Up",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/RIIZE%20Fly%20Up",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fly-up/1813453693?i=1813454032",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=WcHGD0oJwew",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-05-19",
+  "album": "ODYSSEY - The 1st Album",
+  "artwork": "/images/releases/riize-song-fly-up.jpg"
+ },
+ {
+  "id": "song-get-a-guitar",
+  "title": "Get a Guitar",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/RIIZE%20Get%20a%20Guitar",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/get-a-guitar/1715939305?i=1715939316",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=fJdi9OAY9s4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-09-04",
+  "album": "Get A Guitar",
+  "artwork": "/images/releases/riize-song-get-a-guitar.jpg"
+ },
+ {
+  "id": "song-love-119",
+  "title": "Love 119",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/RIIZE%20Love%20119",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love-119/1749589149?i=1749589972",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=XI4r_lw9gPk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-01-05",
+  "album": "RIIZING - The 1st Mini Album",
+  "artwork": "/images/releases/riize-song-love-119.jpg"
+ },
+ {
+  "id": "album-odyssey",
+  "title": "Odyssey",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/RIIZE%20Odyssey",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=RIIZE%20Odyssey",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=RIIZE%20Odyssey",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-riizing",
+  "title": "Riizing",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/riizing-ep/1742276104",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_BmsajbruYum",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-28",
+  "artwork": "/images/releases/riize-album-riizing.jpg"
+ }
+]

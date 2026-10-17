@@ -1,0 +1,90 @@
+[
+ {
+  "id": "song-focus",
+  "title": "Focus",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Hearts2Hearts%20Focus",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/focus/1841828519?i=1841828520",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=eqKhhG4FVoQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-10-20",
+  "album": "FOCUS - The 1st Mini Album",
+  "artwork": "/images/releases/hearts2hearts-song-focus.jpg"
+ },
+ {
+  "id": "song-lemon-tang",
+  "title": "Lemon Tang",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Hearts2Hearts%20Lemon%20Tang",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lemon-tang/6779521284?i=6779521286",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=BEPSc8q6Bd8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-06-22",
+  "album": "Lemon Tang - The 2nd Mini Album",
+  "artwork": "/images/releases/hearts2hearts-song-lemon-tang.jpg"
+ },
+ {
+  "id": "song-rude",
+  "title": "Rude!",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Hearts2Hearts%20Rude!",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/rude/1875146814?i=1875146815",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=EsU7ng0KIy0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-02-20",
+  "album": "RUDE!",
+  "artwork": "/images/releases/hearts2hearts-song-rude.jpg"
+ },
+ {
+  "id": "song-the-chase",
+  "title": "The Chase",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Hearts2Hearts%20The%20Chase",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-chase/1796402197?i=1796402200",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=dTVCk33AQEs",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-02-24",
+  "album": "The Chase",
+  "artwork": "/images/releases/hearts2hearts-song-the-chase.jpg"
+ }
+]

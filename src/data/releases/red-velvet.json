@@ -1,0 +1,156 @@
+[
+ {
+  "id": "song-birthday",
+  "title": "Birthday",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Birthday",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/birthday/1655291569?i=1655291572",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=oKpz0d9WBzE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-11-28",
+  "album": "‘The ReVe Festival 2022 - Birthday’",
+  "artwork": "/images/releases/red-velvet-song-birthday.jpg"
+ },
+ {
+  "id": "song-chill-kill",
+  "title": "Chill Kill",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Chill%20Kill",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/chill-kill/1766620383?i=1766620386",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=WfB4sNA0W9M",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-11-13",
+  "album": "Chill Kill - The 3rd Album",
+  "artwork": "/images/releases/red-velvet-song-chill-kill.jpg"
+ },
+ {
+  "id": "song-feel-my-rhythm",
+  "title": "Feel My Rhythm",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Feel%20My%20Rhythm",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/feel-my-rhythm/1614179708?i=1614179710",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=OXWz_x6-dro",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-03-21",
+  "album": "'The ReVe Festival 2022 - Feel My Rhythm'",
+  "artwork": "/images/releases/red-velvet-song-feel-my-rhythm.jpg"
+ },
+ {
+  "id": "song-psycho",
+  "title": "Psycho",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Psycho",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/psycho/1491888504?i=1491888506",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=PyyT5tHbOLw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-12-23",
+  "album": "‘The ReVe Festival’ Finale",
+  "artwork": "/images/releases/red-velvet-song-psycho.jpg"
+ },
+ {
+  "id": "song-queendom",
+  "title": "Queendom",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Queendom",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/queendom/1580685463?i=1580685467",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=CNOE58t4k_o",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-08-16",
+  "album": "Queendom - The 6th Mini Album",
+  "artwork": "/images/releases/red-velvet-song-queendom.jpg"
+ },
+ {
+  "id": "song-red-flavor",
+  "title": "Red Flavor",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Red%20Flavor",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/red-flavor/1256503505?i=1256504651",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=BLavT7w4R9I",
+    "verified": true
+   }
+  },
+  "releaseDate": "2017-07-09",
+  "album": "The Red Summer - Summer Mini Album",
+  "artwork": "/images/releases/red-velvet-song-red-flavor.jpg"
+ },
+ {
+  "id": "song-surfin-boy",
+  "title": "Surfin' Boy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/Red%20Velvet%20Surfin'%20Boy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/surfin-boy/6794291724?i=6794291725",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=obP2P15pO5w",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-08-03",
+  "album": "Velvet Summer - Summer Mini Album",
+  "artwork": "/images/releases/red-velvet-song-surfin-boy.jpg"
+ }
+]

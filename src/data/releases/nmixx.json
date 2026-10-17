@@ -1,0 +1,134 @@
+[
+ {
+  "id": "song-blue-valentine",
+  "title": "Blue Valentine",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NMIXX%20Blue%20Valentine",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blue-valentine/1839523838?i=1839523842",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=TLftyCObb_E",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-10-13",
+  "album": "Blue Valentine",
+  "artwork": "/images/releases/nmixx-song-blue-valentine.jpg"
+ },
+ {
+  "id": "song-dash",
+  "title": "Dash",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NMIXX%20Dash",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dash/1719887126?i=1719887134",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=lgvM9exghpY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-01-15",
+  "album": "Fe3O4: BREAK",
+  "artwork": "/images/releases/nmixx-song-dash.jpg"
+ },
+ {
+  "id": "song-heavy-serenade",
+  "title": "Heavy Serenade",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/heavy-serenade/1892154305?i=1892154309",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=hGqYdubpcCM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-05-11",
+  "album": "Heavy Serenade",
+  "artwork": "/images/releases/nmixx-song-heavy-serenade.jpg"
+ },
+ {
+  "id": "song-know-about-me",
+  "title": "Know About Me",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NMIXX%20Know%20About%20Me",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/know-about-me/1799674112?i=1799674117",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ewJBkYws3AA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-03-17",
+  "album": "Fe3O4: FORWARD",
+  "artwork": "/images/releases/nmixx-song-know-about-me.jpg"
+ },
+ {
+  "id": "song-love-me-like-this",
+  "title": "Love Me Like This",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NMIXX%20Love%20Me%20Like%20This",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love-me-like-this/1689309595?i=1689309607",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=NMIXX%20Love%20Me%20Like%20This",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-03-20",
+  "album": "expérgo",
+  "artwork": "/images/releases/nmixx-song-love-me-like-this.jpg"
+ },
+ {
+  "id": "song-see-that",
+  "title": "See That?",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/NMIXX%20See%20That%3F",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/see-that/1760493303?i=1760493309",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=cWN7SD7kX5k",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-08-19",
+  "album": "Fe3O4: STICK OUT",
+  "artwork": "/images/releases/nmixx-song-see-that.jpg"
+ }
+]

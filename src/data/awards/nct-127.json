@@ -1,0 +1,549 @@
+[
+ {
+  "id": "music-core-2026-09-05",
+  "year": 2026,
+  "date": "2026-09-05",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Blingy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-blingy"
+ },
+ {
+  "id": "aaa-2024-stage-of-the-year-daesang",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Stage of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "aaa-2024-best-artist-award-music",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "music-core-2024-08-10",
+  "year": 2024,
+  "date": "2024-08-10",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Walk",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-walk"
+ },
+ {
+  "id": "music-bank-2024-08-09",
+  "year": 2024,
+  "date": "2024-08-09",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Walk",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-walk"
+ },
+ {
+  "id": "music-bank-2024-08-02",
+  "year": 2024,
+  "date": "2024-08-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Walk",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-walk"
+ },
+ {
+  "id": "music-bank-2024-01-12",
+  "year": 2024,
+  "date": "2024-01-12",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Be There For Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-be-there-for-me"
+ },
+ {
+  "id": "music-bank-2024-01-05",
+  "year": 2024,
+  "date": "2024-01-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Be There For Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-be-there-for-me"
+ },
+ {
+  "id": "apma-2023-top-20-albums-of-the-year-overseas",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "brand-loyalty-2023-most-influential-male-idol",
+  "year": 2023,
+  "ceremonyId": "brand-loyalty",
+  "category": "Most Influential Male Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "gda-2023-album-bonsang",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "show-champion-2023-10-18",
+  "year": 2023,
+  "date": "2023-10-18",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fact Check",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-fact-check"
+ },
+ {
+  "id": "music-core-2023-10-14",
+  "year": 2023,
+  "date": "2023-10-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fact Check",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-fact-check"
+ },
+ {
+  "id": "music-bank-2023-10-13",
+  "year": 2023,
+  "date": "2023-10-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fact Check",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-fact-check"
+ },
+ {
+  "id": "show-champion-2023-10-11",
+  "year": 2023,
+  "date": "2023-10-11",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fact Check",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-fact-check"
+ },
+ {
+  "id": "music-core-2023-02-11",
+  "year": 2023,
+  "date": "2023-02-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ay-Yo",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-ay-yo"
+ },
+ {
+  "id": "music-bank-2023-02-10",
+  "year": 2023,
+  "date": "2023-02-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ay-Yo",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-ay-yo"
+ },
+ {
+  "id": "show-champion-2023-02-08",
+  "year": 2023,
+  "date": "2023-02-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ay-Yo",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-ay-yo"
+ },
+ {
+  "id": "circle-2022-album-of-the-year-4th-quarter",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 4th Quarter",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "gda-2022-album-bonsang",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "hanteo-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "sma-2022-bonsang-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "sma-2022-grand-prize-daesang",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Grand Prize (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "music-core-2022-10-01",
+  "year": 2022,
+  "date": "2022-10-01",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "2 Baddies",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-2-baddies"
+ },
+ {
+  "id": "music-bank-2022-09-30",
+  "year": 2022,
+  "date": "2022-09-30",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "2 Baddies",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-2-baddies"
+ },
+ {
+  "id": "aaa-2021-album-of-the-year-daesang",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "apma-2021-best-group-overseas",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Best Group (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "apma-2021-top-20-albums-of-the-year-overseas",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "gda-2021-album-bonsang",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "gda-2021-cosmopolitan-artist-award",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Cosmopolitan Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "hanteo-2021-initial-chodong-record-award",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "Initial Chodong Record Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "mama-2021-worldwide-fans-choice-top-10",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "sma-2021-bonsang-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "m-countdown-2021-11-11",
+  "year": 2021,
+  "date": "2021-11-11",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Favorite (Vampire)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-favorite-vampire"
+ },
+ {
+  "id": "music-core-2021-11-06",
+  "year": 2021,
+  "date": "2021-11-06",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Favorite (Vampire)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-favorite-vampire"
+ },
+ {
+  "id": "m-countdown-2021-11-04",
+  "year": 2021,
+  "date": "2021-11-04",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Favorite (Vampire)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-favorite-vampire"
+ },
+ {
+  "id": "m-countdown-2021-10-07",
+  "year": 2021,
+  "date": "2021-10-07",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "inkigayo-2021-10-03",
+  "year": 2021,
+  "date": "2021-10-03",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "music-core-2021-10-02",
+  "year": 2021,
+  "date": "2021-10-02",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "music-bank-2021-10-01",
+  "year": 2021,
+  "date": "2021-10-01",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "m-countdown-2021-09-30",
+  "year": 2021,
+  "date": "2021-09-30",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "show-champion-2021-09-29",
+  "year": 2021,
+  "date": "2021-09-29",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "the-show-2021-09-28",
+  "year": 2021,
+  "date": "2021-09-28",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "music-core-2021-09-25",
+  "year": 2021,
+  "date": "2021-09-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "music-bank-2021-09-24",
+  "year": 2021,
+  "date": "2021-09-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "m-countdown-2021-09-23",
+  "year": 2021,
+  "date": "2021-09-23",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Sticker",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-sticker"
+ },
+ {
+  "id": "aaa-2020-best-artist-award-music",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "apan-2020-represent-artist-of-this-year",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Represent Artist of this Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "apan-2020-top-10-bonsang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Top 10 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NCT"
+ },
+ {
+  "id": "m-countdown-2020-06-04",
+  "year": 2020,
+  "date": "2020-06-04",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Punch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-punch"
+ },
+ {
+  "id": "music-core-2020-05-30",
+  "year": 2020,
+  "date": "2020-05-30",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Punch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-punch"
+ },
+ {
+  "id": "music-bank-2020-05-29",
+  "year": 2020,
+  "date": "2020-05-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Punch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-punch"
+ },
+ {
+  "id": "m-countdown-2020-05-28",
+  "year": 2020,
+  "date": "2020-05-28",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Punch",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-punch"
+ },
+ {
+  "id": "music-bank-2020-03-27",
+  "year": 2020,
+  "date": "2020-03-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Kick It",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-kick-it"
+ }
+]

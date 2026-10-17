@@ -1,0 +1,264 @@
+[
+ {
+  "id": "song-cake",
+  "title": "Cake",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Cake",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/cake/1694036733?i=1694036740",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=QC-VSZotnxA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-31",
+  "album": "KILL MY DOUBT",
+  "artwork": "/images/releases/itzy-song-cake.jpg"
+ },
+ {
+  "id": "album-checkmate",
+  "title": "Checkmate",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/checkmate/1627524248",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_E9b3lnfYp1X",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-15",
+  "artwork": "/images/releases/itzy-album-checkmate.jpg"
+ },
+ {
+  "id": "song-cheshire",
+  "title": "Cheshire",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Cheshire",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/cheshire/1654019775?i=1654019898",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=izOGip7r6Zg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-15",
+  "album": "CHESHIRE",
+  "artwork": "/images/releases/itzy-song-cheshire.jpg"
+ },
+ {
+  "id": "album-crazy-in-love",
+  "title": "Crazy in Love",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Crazy%20in%20Love",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/crazy-in-love/1608111697",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_yPc1QFkE6xY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-09-24",
+  "artwork": "/images/releases/itzy-album-crazy-in-love.jpg"
+ },
+ {
+  "id": "song-dalla-dalla",
+  "title": "Dalla Dalla",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Dalla%20Dalla",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dalla-dalla/1608248892?i=1608248898",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=miqQAzOXPBo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-02-12",
+  "album": "IT'z Different",
+  "artwork": "/images/releases/itzy-song-dalla-dalla.jpg"
+ },
+ {
+  "id": "song-in-the-morning",
+  "title": "In the Morning",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20In%20the%20Morning",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/in-the-morning/1608247024?i=1608247025",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=o6k2pS-agVI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-04-30",
+  "album": "GUESS WHO",
+  "artwork": "/images/releases/itzy-song-in-the-morning.jpg"
+ },
+ {
+  "id": "song-loco",
+  "title": "Loco",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Loco",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/loco/1608111697?i=1608111698",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=AzifmextSDM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-09-24",
+  "album": "CRAZY IN LOVE",
+  "artwork": "/images/releases/itzy-song-loco.jpg"
+ },
+ {
+  "id": "song-not-shy",
+  "title": "Not Shy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Not%20Shy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/not-shy/1608247235?i=1608247446",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=nTQgVDB7VOA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-08-17",
+  "album": "Not Shy",
+  "artwork": "/images/releases/itzy-song-not-shy.jpg"
+ },
+ {
+  "id": "song-sneakers",
+  "title": "Sneakers",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Sneakers",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/sneakers/1627524248?i=1627524250",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=-uOShlFu1v8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-03",
+  "album": "CHECKMATE",
+  "artwork": "/images/releases/itzy-song-sneakers.jpg"
+ },
+ {
+  "id": "song-tunnel-vision",
+  "title": "Tunnel Vision",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Tunnel%20Vision",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/tunnel-vision/1846236584?i=1846236586",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=odYUWj1TX8w",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-11-10",
+  "album": "TUNNEL VISION",
+  "artwork": "/images/releases/itzy-song-tunnel-vision.jpg"
+ },
+ {
+  "id": "song-untouchable",
+  "title": "Untouchable",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Untouchable",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/untouchable/1718647224?i=1718647243",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ITZY%20Untouchable",
+    "verified": false
+   }
+  },
+  "releaseDate": "2024-01-08",
+  "album": "BORN TO BE",
+  "artwork": "/images/releases/itzy-song-untouchable.jpg"
+ },
+ {
+  "id": "song-wannabe",
+  "title": "Wannabe",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ITZY%20Wannabe",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/wannabe/1608253207?i=1608253214",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=xgiN9zNZCuM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-03-09",
+  "album": "IT'z ME",
+  "artwork": "/images/releases/itzy-song-wannabe.jpg"
+ }
+]

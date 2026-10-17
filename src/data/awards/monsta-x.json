@@ -1,0 +1,340 @@
+[
+ {
+  "id": "asea-2026-top-touring-artist",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "Top Touring Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "gda-2026-best-group",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "imbc-2026-hot-star-first-half",
+  "year": 2026,
+  "ceremonyId": "imbc",
+  "category": "Hot Star – First Half",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "imbc-2026-best-male-singer",
+  "year": 2026,
+  "ceremonyId": "imbc",
+  "category": "Best Male Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "music-bank-2026-09-11",
+  "year": 2026,
+  "date": "2026-09-11",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-magic"
+ },
+ {
+  "id": "aaa-2025-best-artist-singer",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best Artist – Singer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "aaa-2025-history-of-k-pop",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "History of K-pop",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "kbs-ent-2025-digital-content-award-idol-1n2d",
+  "year": 2025,
+  "ceremonyId": "kbs-ent",
+  "category": "Digital Content Award",
+  "tier": "category",
+  "work": "Idol 1N2D",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X",
+  "releaseId": "album-idol-1n2d"
+ },
+ {
+  "id": "hanteo-2023-global-artist-oceania",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Global Artist – Oceania",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "music-bank-2023-01-20",
+  "year": 2023,
+  "date": "2023-01-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Beautiful Liar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-beautiful-liar"
+ },
+ {
+  "id": "melon-plaque-2022-the-best-album-tracks-top-10-stand-up",
+  "year": 2022,
+  "ceremonyId": "melon-plaque",
+  "category": "The Best Album Tracks – Top 10",
+  "tier": "bonsang",
+  "work": "Stand Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X",
+  "releaseId": "song-stand-up"
+ },
+ {
+  "id": "mma-2022-global-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Global Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "music-bank-2022-05-06",
+  "year": 2022,
+  "date": "2022-05-06",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-love"
+ },
+ {
+  "id": "show-champion-2022-05-04",
+  "year": 2022,
+  "date": "2022-05-04",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-love"
+ },
+ {
+  "id": "breakout-2021-supreme-stanbase",
+  "year": 2021,
+  "ceremonyId": "breakout",
+  "category": "Supreme Stanbase",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "gda-2021-best-group",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Best Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "sma-2021-bonsang-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "top-ten-2021-best-artist-us",
+  "year": 2021,
+  "ceremonyId": "top-ten",
+  "category": "Best Artist – US",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "show-champion-2021-12-01",
+  "year": 2021,
+  "date": "2021-12-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rush Hour",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-rush-hour"
+ },
+ {
+  "id": "the-show-2021-11-30",
+  "year": 2021,
+  "date": "2021-11-30",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rush Hour",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-rush-hour"
+ },
+ {
+  "id": "music-bank-2021-11-26",
+  "year": 2021,
+  "date": "2021-11-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rush Hour",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-rush-hour"
+ },
+ {
+  "id": "show-champion-2021-11-24",
+  "year": 2021,
+  "date": "2021-11-24",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rush Hour",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-rush-hour"
+ },
+ {
+  "id": "the-show-2021-11-23",
+  "year": 2021,
+  "date": "2021-11-23",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rush Hour",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-rush-hour"
+ },
+ {
+  "id": "aaa-2020-stage-of-the-year-daesang",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "Stage of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "apan-2020-represent-song-of-the-year",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Represent Song of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "apan-2020-top-10-bonsang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Top 10 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "asia-model-2020-asia-star-award-singer",
+  "year": 2020,
+  "ceremonyId": "asia-model",
+  "category": "Asia Star Award (Singer)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "circle-2020-world-hallyu-star",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "World Hallyu Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "gda-2020-disc-bonsang-take-2-we-are-here",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Disc Bonsang",
+  "tier": "bonsang",
+  "work": "Take.2 We Are Here",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X",
+  "releaseId": "album-take-2-we-are-here"
+ },
+ {
+  "id": "mama-2020-best-stage",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Best Stage",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "mma-2020-best-performance",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Best Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "sma-2020-bonsang-award",
+  "year": 2020,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "tma-2020-year-s-artist",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Year's Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "top-ten-2020-best-artist-us",
+  "year": 2020,
+  "ceremonyId": "top-ten",
+  "category": "Best Artist – US",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Monsta_X"
+ },
+ {
+  "id": "show-champion-2020-11-11",
+  "year": 2020,
+  "date": "2020-11-11",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Killa",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-love-killa"
+ },
+ {
+  "id": "the-show-2020-11-10",
+  "year": 2020,
+  "date": "2020-11-10",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love Killa",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-love-killa"
+ },
+ {
+  "id": "the-show-2020-06-02",
+  "year": 2020,
+  "date": "2020-06-02",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Fantasia",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-fantasia"
+ }
+]

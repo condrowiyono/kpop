@@ -1,0 +1,110 @@
+[
+ {
+  "id": "album-bloomiz",
+  "title": "BloomIz",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bloom-iz/1569281731",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_MjXF2gJS4lC",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-02-17",
+  "artwork": "/images/releases/iz-one-album-bloomiz.jpg"
+ },
+ {
+  "id": "song-fiesta",
+  "title": "Fiesta",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IZ*ONE%20Fiesta",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fiesta/1569281731?i=1569281734",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=tKIERbJ-R-M",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-02-17",
+  "album": "BLOOM*IZ",
+  "artwork": "/images/releases/iz-one-song-fiesta.jpg"
+ },
+ {
+  "id": "album-one-reeler-act-iv",
+  "title": "One-reeler / Act IV",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IZ*ONE%20One-reeler%20%2F%20Act%20IV",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/one-reeler-act-iv-ep/1569286882",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_uofKsmFKVd3",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-12-07",
+  "artwork": "/images/releases/iz-one-album-one-reeler-act-iv.jpg"
+ },
+ {
+  "id": "song-panorama",
+  "title": "Panorama",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IZ*ONE%20Panorama",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/panorama/1569286882?i=1569286889",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=1tkdmY7sdUc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-12-07",
+  "album": "One-reeler / Act IV",
+  "artwork": "/images/releases/iz-one-song-panorama.jpg"
+ },
+ {
+  "id": "song-secret-story-of-the-swan",
+  "title": "Secret Story of the Swan",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IZ*ONE%20Secret%20Story%20of%20the%20Swan",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/secret-story-of-the-swan/1569282878?i=1569282884",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=1-xAmlac1Lo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-06-15",
+  "album": "Oneiric Diary",
+  "artwork": "/images/releases/iz-one-song-secret-story-of-the-swan.jpg"
+ }
+]

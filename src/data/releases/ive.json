@@ -1,0 +1,391 @@
+[
+ {
+  "id": "song-after-like",
+  "title": "After Like",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/0nzRF7khA2UDSZa9T0B6Da",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/after-like/1639416895?i=1639416903",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=g92HIac9ufA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-08-22",
+  "album": "After LIKE",
+  "artwork": "/images/releases/ive-song-after-like.jpg"
+ },
+ {
+  "id": "song-attitude",
+  "title": "Attitude",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Attitude",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/attitude/1789740675?i=1789741053",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=1qiWRF6tWWo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-02-03",
+  "album": "IVE EMPATHY",
+  "artwork": "/images/releases/ive-song-attitude.jpg"
+ },
+ {
+  "id": "song-baddie",
+  "title": "Baddie",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Baddie",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/baddie/1709569466?i=1709569470",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=IVE%20Baddie",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-10-13",
+  "album": "I'VE MINE",
+  "artwork": "/images/releases/ive-song-baddie.jpg"
+ },
+ {
+  "id": "song-bang-bang",
+  "title": "Bang Bang",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Bang%20Bang",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bang-bang/1872627662?i=1872628039",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=TfAiFxoXVlE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-02-09",
+  "album": "BANG BANG",
+  "artwork": "/images/releases/ive-song-bang-bang.jpg"
+ },
+ {
+  "id": "song-blackhole",
+  "title": "Blackhole",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Blackhole",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blackhole/1873882195?i=1873882200",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8IoB2N8N5hM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-02-23",
+  "album": "REVIVE+",
+  "artwork": "/images/releases/ive-song-blackhole.jpg"
+ },
+ {
+  "id": "song-either-way",
+  "title": "Either Way",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Either%20Way",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/either-way/1708301471?i=1708301753",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=BideKecT3a0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-09-25",
+  "album": "Either Way",
+  "artwork": "/images/releases/ive-song-either-way.jpg"
+ },
+ {
+  "id": "song-eleven",
+  "title": "Eleven",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/eleven/1597404250?i=1597404252",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=0EK_M2taRIM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-12-01",
+  "album": "ELEVEN",
+  "artwork": "/images/releases/ive-song-eleven.jpg"
+ },
+ {
+  "id": "song-heya",
+  "title": "Heya",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/heya/1741070979?i=1741071167",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=P_7PTaBiho8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-29",
+  "album": "IVE SWITCH",
+  "artwork": "/images/releases/ive-song-heya.jpg"
+ },
+ {
+  "id": "song-i-am",
+  "title": "I Am",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/i-am/1680047093?i=1680047366",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=a0LmdjshiAQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-04-10",
+  "album": "I've IVE",
+  "artwork": "/images/releases/ive-song-i-am.jpg"
+ },
+ {
+  "id": "album-i-ve-ive",
+  "title": "I've Ive",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ive-ive/1680047093",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=IVE%20I've%20Ive",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-04-10",
+  "artwork": "/images/releases/ive-album-i-ve-ive.jpg"
+ },
+ {
+  "id": "album-i-ve-mine",
+  "title": "I've Mine",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ive-mine-ep/1709569466",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_tdkj3xaSAv3",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-10-13",
+  "artwork": "/images/releases/ive-album-i-ve-mine.jpg"
+ },
+ {
+  "id": "album-ive-empathy",
+  "title": "Ive Empathy",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Ive%20Empathy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ive-empathy-ep/1789740675",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_95W2UQyktm7",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-02-03",
+  "artwork": "/images/releases/ive-album-ive-empathy.jpg"
+ },
+ {
+  "id": "song-ive-secret",
+  "title": "Ive Secret",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Ive%20Secret",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=IVE%20Ive%20Secret",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=IVE%20Ive%20Secret",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-ive-switch",
+  "title": "Ive Switch",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Ive%20Switch",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ive-switch-ep/1741070979",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_z9uKMQJLNOj",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-29",
+  "artwork": "/images/releases/ive-album-ive-switch.jpg"
+ },
+ {
+  "id": "song-kitsch",
+  "title": "Kitsch",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/7KgFOJg5QAU9Ex9L2oTy67",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/kitsch/1677260537?i=1677260541",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=khq6T9aHcI8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-03-27",
+  "album": "Kitsch",
+  "artwork": "/images/releases/ive-song-kitsch.jpg"
+ },
+ {
+  "id": "song-love-dive",
+  "title": "Love Dive",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love-dive/1616804151?i=1616804152",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=hh5GKVa8VtM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-04-05",
+  "album": "LOVE DIVE",
+  "artwork": "/images/releases/ive-song-love-dive.jpg"
+ },
+ {
+  "id": "song-rebel-heart",
+  "title": "Rebel Heart",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20Rebel%20Heart",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/rebel-heart/1786710182?i=1786710186",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=DHrF63n7SFI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-01-13",
+  "album": "REBEL HEART",
+  "artwork": "/images/releases/ive-song-rebel-heart.jpg"
+ },
+ {
+  "id": "song-xoxz",
+  "title": "XOXZ",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/IVE%20XOXZ",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/xoxz/1831903462?i=1831903464",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=HfVIsd1rR_E",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-08-25",
+  "album": "IVE SECRET",
+  "artwork": "/images/releases/ive-song-xoxz.jpg"
+ }
+]

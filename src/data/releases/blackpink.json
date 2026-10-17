@@ -1,0 +1,283 @@
+[
+ {
+  "id": "album-born-pink",
+  "title": "Born Pink",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/born-pink/1644989139",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_ODbk3DwVCqR",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-09-12",
+  "artwork": "/images/releases/blackpink-album-born-pink.jpg"
+ },
+ {
+  "id": "song-ddu-du-ddu-du",
+  "title": "Ddu-Du Ddu-Du",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BLACKPINK%20Ddu-Du%20Ddu-Du",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ddu-du-ddu-du/1551479990?i=1551479993",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=IPzouyj7FLA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2018-06-15",
+  "album": "SQUARE UP",
+  "artwork": "/images/releases/blackpink-song-ddu-du-ddu-du.jpg"
+ },
+ {
+  "id": "song-go",
+  "title": "Go",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BLACKPINK%20Go",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/go/1870067304?i=1870067581",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Bqm3jusHM9I",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-02-18",
+  "album": "DEADLINE",
+  "artwork": "/images/releases/blackpink-song-go.jpg"
+ },
+ {
+  "id": "song-how-you-like-that",
+  "title": "How You Like That",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/how-you-like-that/1533894050?i=1533894669",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=8mA6jIeojnk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-06-26",
+  "album": "THE ALBUM",
+  "artwork": "/images/releases/blackpink-song-how-you-like-that.jpg"
+ },
+ {
+  "id": "song-ice-cream",
+  "title": "Ice Cream",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ice-cream/1533894050?i=1533894672",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=TUt3guu92Zg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-08-28",
+  "album": "THE ALBUM",
+  "artwork": "/images/releases/blackpink-song-ice-cream.jpg"
+ },
+ {
+  "id": "song-jump",
+  "title": "Jump",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BLACKPINK%20Jump",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/jump/1824672650?i=1824672652",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=r6Eei81SuqE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-11",
+  "album": "JUMP",
+  "artwork": "/images/releases/blackpink-song-jump.jpg"
+ },
+ {
+  "id": "song-kill-this-love",
+  "title": "Kill This Love",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BLACKPINK%20Kill%20This%20Love",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/kill-this-love/1551479989?i=1551479992",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Il_KNBTmLpQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-04-04",
+  "album": "KILL THIS LOVE",
+  "artwork": "/images/releases/blackpink-song-kill-this-love.jpg"
+ },
+ {
+  "id": "song-lovesick-girls",
+  "title": "Lovesick Girls",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lovesick-girls/1533894050?i=1533894681",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=D8RZbI1jfQ0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-10-02",
+  "album": "THE ALBUM",
+  "artwork": "/images/releases/blackpink-song-lovesick-girls.jpg"
+ },
+ {
+  "id": "song-pink-venom",
+  "title": "Pink Venom",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/pink-venom/1644440668?i=1644440670",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=4N15045PHEA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-08-19",
+  "album": "BORN PINK",
+  "artwork": "/images/releases/blackpink-song-pink-venom.jpg"
+ },
+ {
+  "id": "song-shut-down",
+  "title": "Shut Down",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/shut-down/1644431615?i=1644431999",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=950BdJKBhGo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-09-16",
+  "album": "BORN PINK",
+  "artwork": "/images/releases/blackpink-song-shut-down.jpg"
+ },
+ {
+  "id": "song-sour-candy",
+  "title": "Sour Candy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BLACKPINK%20Sour%20Candy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/sour-candy/1500951604?i=1500952438",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=UsCXul-7YS8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-05-28",
+  "album": "Chromatica",
+  "artwork": "/images/releases/blackpink-song-sour-candy.jpg"
+ },
+ {
+  "id": "album-the-album",
+  "title": "The Album",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-album/1533894050",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_5akfGIsrUrJ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-10-02",
+  "artwork": "/images/releases/blackpink-album-the-album.jpg"
+ },
+ {
+  "id": "song-the-girls",
+  "title": "The Girls",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/BLACKPINK%20The%20Girls",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=BLACKPINK%20The%20Girls",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=wEE0Utfj0Zg",
+    "verified": true
+   }
+  }
+ }
+]

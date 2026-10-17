@@ -1,0 +1,946 @@
+[
+ {
+  "id": "inkigayo",
+  "name": "Inkigayo",
+  "short": "Inkigayo",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "music-show"
+ },
+ {
+  "id": "m-countdown",
+  "name": "M Countdown",
+  "short": "M Countdown",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "music-show"
+ },
+ {
+  "id": "music-bank",
+  "name": "Music Bank",
+  "short": "Music Bank",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "music-show"
+ },
+ {
+  "id": "music-core",
+  "name": "Show! Music Core",
+  "short": "Music Core",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "music-show"
+ },
+ {
+  "id": "show-champion",
+  "name": "Show Champion",
+  "short": "Show Champion",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "music-show"
+ },
+ {
+  "id": "the-show",
+  "name": "The Show",
+  "short": "The Show",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "music-show"
+ },
+ {
+  "id": "mama",
+  "name": "MAMA Awards",
+  "short": "MAMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "mma",
+  "name": "Melon Music Awards",
+  "short": "MMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "gda",
+  "name": "Golden Disc Awards",
+  "short": "GDA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "sma",
+  "name": "Seoul Music Awards",
+  "short": "SMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "aaa",
+  "name": "Asia Artist Awards",
+  "short": "AAA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "tma",
+  "name": "The Fact Music Awards",
+  "short": "TMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "circle",
+  "name": "Circle Chart Music Awards",
+  "short": "Circle Chart",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "hanteo",
+  "name": "Hanteo Music Awards",
+  "short": "Hanteo",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "kgma",
+  "name": "Korea Grand Music Awards",
+  "short": "KGMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "asea",
+  "name": "Asia Star Entertainer Awards",
+  "short": "ASEA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "kwda",
+  "name": "K-World Dream Awards",
+  "short": "K-World Dream",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "d-awards",
+  "name": "D Awards",
+  "short": "D Awards",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "kma",
+  "name": "Korean Music Awards",
+  "short": "KMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "kma-2026",
+  "name": "KMA (K-Music Awards)",
+  "short": "KMA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "apan",
+  "name": "APAN Music Awards",
+  "short": "APAN",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "genie",
+  "name": "Genie Music Awards",
+  "short": "Genie",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "soribada",
+  "name": "Soribada Best K-Music Awards",
+  "short": "Soribada",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "km-chart",
+  "name": "KM Chart Awards",
+  "short": "KM Chart",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "bugs",
+  "name": "Bugs Music Awards",
+  "short": "Bugs",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "the-k-billboard",
+  "name": "The-K Billboard Awards",
+  "short": "The-K Billboard",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "mubeat",
+  "name": "Mubeat Awards",
+  "short": "Mubeat",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "komca",
+  "name": "KOMCA Awards",
+  "short": "KOMCA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "spotv",
+  "name": "SPOTV K-Pop Awards",
+  "short": "SPOTV",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "melon-plaque",
+  "name": "Melon Plaque Award",
+  "short": "Melon Plaque",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "supersound",
+  "name": "Supersound Festival Awards",
+  "short": "Supersound",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "tiktok-korea",
+  "name": "TikTok Awards Korea",
+  "short": "TikTok Korea",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "mint",
+  "name": "Mint Awards",
+  "short": "Mint",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "award"
+ },
+ {
+  "id": "kbs-ent",
+  "name": "KBS Entertainment Awards",
+  "short": "KBS Ent.",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-first-brand",
+  "name": "Korea First Brand Awards",
+  "short": "First Brand",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "brand-of-the-year",
+  "name": "Brand of the Year Awards",
+  "short": "Brand of the Year",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "brand-loyalty",
+  "name": "Brand Customer Loyalty Awards",
+  "short": "Brand Loyalty",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "k-brand-index",
+  "name": "K-Brand Index Star Awards",
+  "short": "K-Brand Index",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-broadcasting-awards",
+  "name": "Korea Broadcasting Awards",
+  "short": "Broadcasting Awards",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-broadcasting-prizes",
+  "name": "Korea Broadcasting Prizes",
+  "short": "Broadcasting Prizes",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "cable-tv",
+  "name": "Cable TV Broadcasting Awards",
+  "short": "Cable TV",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "dongacom-pick",
+  "name": "Dong-A.com's Pick",
+  "short": "Dong-A Pick",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "edaily",
+  "name": "Edaily Culture Awards",
+  "short": "Edaily",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "asia-model",
+  "name": "Asia Model Awards",
+  "short": "Asia Model",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-model",
+  "name": "Korea Model Awards",
+  "short": "Korea Model",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "visionary",
+  "name": "Visionary Awards",
+  "short": "Visionary",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "kmaff",
+  "name": "K-Music and Arts Film Festival",
+  "short": "K-MAFF",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-pd",
+  "name": "Korea PD Awards",
+  "short": "PD Awards",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "broadcast-ad",
+  "name": "Broadcast Advertising Festival",
+  "short": "Ad Festival",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "imbc",
+  "name": "iMBC Awards",
+  "short": "iMBC",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "seoul-success",
+  "name": "Seoul Success Awards",
+  "short": "Seoul Success",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "seoul-tourism",
+  "name": "Seoul Tourism Awards",
+  "short": "Seoul Tourism",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "keaa",
+  "name": "Korean Entertainment Arts Awards",
+  "short": "KEAA",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "forbes-korea",
+  "name": "Forbes Korea Awards",
+  "short": "Forbes Korea",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-arts-culture",
+  "name": "Korea Arts and Culture Awards",
+  "short": "Arts & Culture",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korea-culture-ent",
+  "name": "Korea Culture Entertainment Awards",
+  "short": "Culture Ent.",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "korean-wave",
+  "name": "Korean Wave Awards",
+  "short": "Korean Wave",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "newsis-k-expo",
+  "name": "Newsis K-Expo Cultural Awards",
+  "short": "K-Expo",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "top-ten",
+  "name": "Top Ten Awards",
+  "short": "Top Ten",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "entop",
+  "name": "Entop Awards",
+  "short": "Entop",
+  "country": "KR",
+  "scope": "domestic",
+  "kind": "other"
+ },
+ {
+  "id": "apma",
+  "name": "Asian Pop Music Awards",
+  "short": "APMA",
+  "country": "HK",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "jgda",
+  "name": "Japan Gold Disc Award",
+  "short": "Japan Gold Disc",
+  "country": "JP",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "vmas",
+  "name": "MTV Video Music Awards",
+  "short": "VMAs",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "iheart",
+  "name": "iHeartRadio Music Awards",
+  "short": "iHeartRadio",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "ema",
+  "name": "MTV Europe Music Awards",
+  "short": "MTV EMA",
+  "country": "EU",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "vmaj",
+  "name": "MTV Video Music Awards Japan",
+  "short": "VMAJ",
+  "country": "JP",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "bbmas",
+  "name": "Billboard Music Awards",
+  "short": "BBMAs",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "billboard-wim",
+  "name": "Billboard Women in Music",
+  "short": "Billboard WIM",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "amas",
+  "name": "American Music Awards",
+  "short": "AMAs",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "tmea",
+  "name": "Tencent Music Entertainment Awards",
+  "short": "TMEA",
+  "country": "CN",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "japan-record",
+  "name": "Japan Record Awards",
+  "short": "Japan Record",
+  "country": "JP",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "music-awards-japan",
+  "name": "Music Awards Japan",
+  "short": "MAJ",
+  "country": "JP",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "space-shower",
+  "name": "Space Shower Music Awards",
+  "short": "Space Shower",
+  "country": "JP",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "mnet-japan",
+  "name": "Mnet Japan Fan's Choice Awards",
+  "short": "Mnet Japan",
+  "country": "JP",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "joox-my",
+  "name": "Joox Malaysia Top Music Awards",
+  "short": "JOOX Malaysia",
+  "country": "MY",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "joox-id",
+  "name": "Joox Indonesia Music Awards",
+  "short": "JOOX Indonesia",
+  "country": "ID",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "joox-th",
+  "name": "Joox Thailand Music Awards",
+  "short": "JOOX Thailand",
+  "country": "TH",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "joox-hk",
+  "name": "Joox Hong Kong Top Music Awards",
+  "short": "JOOX HK",
+  "country": "HK",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "kca",
+  "name": "Nickelodeon Kids' Choice Awards",
+  "short": "Kids' Choice",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "kca-mx",
+  "name": "Nickelodeon Mexico Kids' Choice Awards",
+  "short": "KCA Mexico",
+  "country": "MX",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "meus-premios-nick",
+  "name": "Meus Prêmios Nick",
+  "short": "Meus Prêmios Nick",
+  "country": "BR",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "pcas",
+  "name": "People's Choice Awards",
+  "short": "People's Choice",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "breaktudo",
+  "name": "BreakTudo Awards",
+  "short": "BreakTudo",
+  "country": "BR",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "rthk",
+  "name": "RTHK International Pop Poll Awards",
+  "short": "RTHK",
+  "country": "HK",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "hito",
+  "name": "Hito Music Awards",
+  "short": "Hito",
+  "country": "TW",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "ifpi",
+  "name": "IFPI Awards",
+  "short": "IFPI",
+  "country": "INTL",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "miaw",
+  "name": "MTV Millennial Awards",
+  "short": "MTV MIAW",
+  "country": "MX",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "miaw-br",
+  "name": "MTV Millennial Awards Brazil",
+  "short": "MTV MIAW Brazil",
+  "country": "BR",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "tokopedia-wib",
+  "name": "Tokopedia WIB Indonesia K-Pop Awards",
+  "short": "WIB K-Pop",
+  "country": "ID",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "rockbjornen",
+  "name": "Rockbjörnen",
+  "short": "Rockbjörnen",
+  "country": "SE",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "gaffa",
+  "name": "Gaffa-Prisen",
+  "short": "GAFFA",
+  "country": "DK",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "myx",
+  "name": "Myx Music Awards",
+  "short": "Myx",
+  "country": "PH",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "nme",
+  "name": "NME Awards",
+  "short": "NME",
+  "country": "GB",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "nrj",
+  "name": "NRJ Music Awards",
+  "short": "NRJ",
+  "country": "FR",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "spotify-awards",
+  "name": "Spotify Awards",
+  "short": "Spotify Awards",
+  "country": "MX",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "sec",
+  "name": "SEC Awards",
+  "short": "SEC",
+  "country": "PT",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "filipino-music",
+  "name": "Filipino Music Awards",
+  "short": "Filipino Music",
+  "country": "PH",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "jupiter",
+  "name": "Jupiter Music Awards",
+  "short": "Jupiter",
+  "country": "INTL",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "lockdown",
+  "name": "The Lockdown Awards",
+  "short": "Lockdown",
+  "country": "INTL",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "musa",
+  "name": "Musa Awards",
+  "short": "Musa",
+  "country": "CL",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "new-music-awards",
+  "name": "New Music Awards",
+  "short": "New Music",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "tophit",
+  "name": "Top Hit Music Awards",
+  "short": "TopHit",
+  "country": "RU",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "variety-hitmakers",
+  "name": "Variety Hitmakers",
+  "short": "Variety Hitmakers",
+  "country": "US",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "capricho",
+  "name": "Capricho Awards",
+  "short": "Capricho",
+  "country": "BR",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "qq-boom",
+  "name": "QQ Music Boom Boom Awards",
+  "short": "QQ Boom Boom",
+  "country": "CN",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "weibo-starlight",
+  "name": "Weibo Starlight Awards",
+  "short": "Weibo Starlight",
+  "country": "CN",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "weibo-intl",
+  "name": "Weibo International Entertainment Awards",
+  "short": "Weibo Intl.",
+  "country": "CN",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "philippine-kpop",
+  "name": "Philippine K-pop Awards",
+  "short": "PH K-pop",
+  "country": "PH",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "netease",
+  "name": "NetEase Cloud Music Awards",
+  "short": "NetEase",
+  "country": "CN",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "indonesian-hallyu",
+  "name": "Indonesian Hallyu Fans Choice Awards",
+  "short": "Hallyu Fans Choice",
+  "country": "ID",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "breakout",
+  "name": "Breakout Awards",
+  "short": "Breakout",
+  "country": "INTL",
+  "scope": "international",
+  "kind": "award"
+ },
+ {
+  "id": "webby",
+  "name": "Webby Awards",
+  "short": "Webby",
+  "country": "US",
+  "scope": "international",
+  "kind": "other"
+ },
+ {
+  "id": "shorty",
+  "name": "Shorty Awards",
+  "short": "Shorty",
+  "country": "US",
+  "scope": "international",
+  "kind": "other"
+ },
+ {
+  "id": "mtv-movie-tv",
+  "name": "MTV Movie & TV Awards",
+  "short": "MTV Movie & TV",
+  "country": "US",
+  "scope": "international",
+  "kind": "other"
+ },
+ {
+  "id": "wsj-innovator",
+  "name": "WSJ Innovator Awards",
+  "short": "WSJ Innovator",
+  "country": "US",
+  "scope": "international",
+  "kind": "other"
+ },
+ {
+  "id": "short-shorts",
+  "name": "Short Shorts Film Festival & Asia",
+  "short": "SSFF & Asia",
+  "country": "JP",
+  "scope": "international",
+  "kind": "other"
+ },
+ {
+  "id": "esports-awards",
+  "name": "Esports Awards",
+  "short": "Esports Awards",
+  "country": "GB",
+  "scope": "international",
+  "kind": "other"
+ },
+ {
+  "id": "if-design",
+  "name": "iF Design Award",
+  "short": "iF Design",
+  "country": "DE",
+  "scope": "international",
+  "kind": "other"
+ }
+]

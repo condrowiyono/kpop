@@ -1,0 +1,411 @@
+[
+ {
+  "id": "kbs-ent-2025-digital-content-award-idol-1n2d",
+  "year": 2025,
+  "ceremonyId": "kbs-ent",
+  "category": "Digital Content Award",
+  "tier": "category",
+  "work": "Idol 1N2D",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC",
+  "releaseId": "album-idol-1n2d"
+ },
+ {
+  "id": "the-show-2025-03-25",
+  "year": 2025,
+  "date": "2025-03-25",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bebe",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-bebe"
+ },
+ {
+  "id": "asea-2024-the-best-star",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "The Best Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "circle-2024-new-icon-of-the-year-teddy-bear",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "New Icon of the Year",
+  "tier": "category",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "gda-2024-digital-song-bonsang-teddy-bear",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Digital Song Bonsang",
+  "tier": "bonsang",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "music-bank-2024-07-12",
+  "year": 2024,
+  "date": "2024-07-12",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Cheeky Icy Thang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-cheeky-icy-thang"
+ },
+ {
+  "id": "aaa-2023-best-musician-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "circle-2023-world-rookie-of-the-year",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "World Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "hanteo-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "kwda-2023-k-global-bonsang-main-prize",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Bonsang (Main Prize)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "mma-2023-music-video-of-the-year-bubble",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Music Video of the Year",
+  "tier": "category",
+  "work": "Bubble",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC",
+  "releaseId": "song-bubble"
+ },
+ {
+  "id": "music-bank-2023-09-01",
+  "year": 2023,
+  "date": "2023-09-01",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bubble",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-bubble"
+ },
+ {
+  "id": "the-show-2023-08-29",
+  "year": 2023,
+  "date": "2023-08-29",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Bubble",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-bubble"
+ },
+ {
+  "id": "music-core-2023-03-11",
+  "year": 2023,
+  "date": "2023-03-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "show-champion-2023-03-08",
+  "year": 2023,
+  "date": "2023-03-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "inkigayo-2023-02-26",
+  "year": 2023,
+  "date": "2023-02-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "music-bank-2023-02-24",
+  "year": 2023,
+  "date": "2023-02-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "show-champion-2023-02-22",
+  "year": 2023,
+  "date": "2023-02-22",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "the-show-2023-02-21",
+  "year": 2023,
+  "date": "2023-02-21",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Teddy Bear",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-teddy-bear"
+ },
+ {
+  "id": "brand-loyalty-2022-female-idol-rising-star",
+  "year": 2022,
+  "ceremonyId": "brand-loyalty",
+  "category": "Female Idol (Rising Star)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "circle-2022-discovery-of-the-year-hot-trend",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Discovery of the Year – Hot Trend",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "gda-2022-digital-song-bonsang-asap",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Digital Song Bonsang",
+  "tier": "bonsang",
+  "work": "ASAP",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC",
+  "releaseId": "song-asap"
+ },
+ {
+  "id": "gda-2022-rookie-of-the-year-award",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Rookie of the Year Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "mma-2022-global-rising-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Global Rising Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "sma-2022-best-performance",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Best Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "the-show-2022-07-26",
+  "year": 2022,
+  "date": "2022-07-26",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Beautiful Monster",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-beautiful-monster"
+ },
+ {
+  "id": "m-countdown-2022-03-17",
+  "year": 2022,
+  "date": "2022-03-17",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "music-bank-2022-03-11",
+  "year": 2022,
+  "date": "2022-03-11",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "m-countdown-2022-03-10",
+  "year": 2022,
+  "date": "2022-03-10",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "show-champion-2022-03-09",
+  "year": 2022,
+  "date": "2022-03-09",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "the-show-2022-03-08",
+  "year": 2022,
+  "date": "2022-03-08",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "music-bank-2022-03-04",
+  "year": 2022,
+  "date": "2022-03-04",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "the-show-2022-03-01",
+  "year": 2022,
+  "date": "2022-03-01",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Run2U",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-run2u"
+ },
+ {
+  "id": "aaa-2021-new-wave-singer-award",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "New Wave Singer Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "asia-model-2021-rookie-of-the-year",
+  "year": 2021,
+  "ceremonyId": "asia-model",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "brand-loyalty-2021-best-female-rookie-award",
+  "year": 2021,
+  "ceremonyId": "brand-loyalty",
+  "category": "Best Female Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "korea-culture-ent-2021-k-pop-star-award",
+  "year": 2021,
+  "ceremonyId": "korea-culture-ent",
+  "category": "K-Pop Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "mma-2021-1thek-original-content-award",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "1theK Original Content Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "tma-2021-next-leader-award",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/STAYC"
+ },
+ {
+  "id": "m-countdown-2021-09-16",
+  "year": 2021,
+  "date": "2021-09-16",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Stereotype",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-stereotype"
+ },
+ {
+  "id": "show-champion-2021-09-15",
+  "year": 2021,
+  "date": "2021-09-15",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Stereotype",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-stereotype"
+ },
+ {
+  "id": "the-show-2021-09-14",
+  "year": 2021,
+  "date": "2021-09-14",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Stereotype",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-stereotype"
+ }
+]

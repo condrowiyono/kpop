@@ -1,0 +1,1560 @@
+[
+ {
+  "id": "gda-2026-album-bonsang",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2026-best-3-albums-asia-happy-burstday",
+  "year": 2026,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Happy Burstday",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-happy-burstday"
+ },
+ {
+  "id": "apma-2025-best-group-overseas",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "Best Group – Overseas",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2025-top-20-albums-of-the-year-overseas-happy-burstday",
+  "year": 2025,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year – Overseas",
+  "tier": "category",
+  "work": "Happy Burstday",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-happy-burstday"
+ },
+ {
+  "id": "d-awards-2025-artist-of-the-year-daesang",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Artist of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "gda-2025-album-daesang-album-of-the-year",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Album Daesang (Album of the Year)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "gda-2025-album-bonsang",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2025-best-artist-asia",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2025-album-of-the-year-asia-17-is-right-here",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Album of the Year (Asia)",
+  "tier": "category",
+  "work": "17 Is Right Here",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-17-is-right-here"
+ },
+ {
+  "id": "jgda-2025-best-3-albums-asia-17-is-right-here",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "17 Is Right Here",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-17-is-right-here"
+ },
+ {
+  "id": "jgda-2025-best-3-albums-asia-spill-the-feels",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Spill the Feels",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-spill-the-feels"
+ },
+ {
+  "id": "kwda-2025-best-album-artists",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Best Album Artists",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2025-best-male-group",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2025-best-dance-performance-male-group-thunder",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance - Male Group",
+  "tier": "category",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "mama-2025-worldwide-fans-choice-male-top-10",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Male Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mma-2025-millions-top-10-artist",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "music-awards-japan-2025-special-award-korean-popular-music-god-of-music",
+  "year": 2025,
+  "ceremonyId": "music-awards-japan",
+  "category": "Special Award: Korean Popular Music",
+  "tier": "category",
+  "work": "God of Music",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-god-of-music"
+ },
+ {
+  "id": "m-countdown-2025-06-19",
+  "year": 2025,
+  "date": "2025-06-19",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "music-core-2025-06-14",
+  "year": 2025,
+  "date": "2025-06-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "show-champion-2025-06-11",
+  "year": 2025,
+  "date": "2025-06-11",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "inkigayo-2025-06-08",
+  "year": 2025,
+  "date": "2025-06-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "music-core-2025-06-07",
+  "year": 2025,
+  "date": "2025-06-07",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "music-bank-2025-06-06",
+  "year": 2025,
+  "date": "2025-06-06",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "m-countdown-2025-06-05",
+  "year": 2025,
+  "date": "2025-06-05",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "show-champion-2025-06-04",
+  "year": 2025,
+  "date": "2025-06-04",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thunder",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-thunder"
+ },
+ {
+  "id": "aaa-2024-best-k-pop-record",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best K-pop Record",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2024-best-group-overseas",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Best Group – Overseas",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2024-top-20-albums-of-the-year-overseas-17-is-right-here",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year – Overseas",
+  "tier": "category",
+  "work": "17 is Right Here",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-17-is-right-here"
+ },
+ {
+  "id": "bbmas-2024-top-k-pop-touring-artist",
+  "year": 2024,
+  "ceremonyId": "bbmas",
+  "category": "Top K-pop Touring Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "circle-2024-artist-of-the-year-album-seventeenth-heaven",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Album",
+  "tier": "category",
+  "work": "Seventeenth Heaven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-seventeenth-heaven"
+ },
+ {
+  "id": "circle-2024-retail-album-of-the-year-fml",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Retail Album of the Year",
+  "tier": "category",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "circle-2024-kit-album-of-the-year",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Kit-Album of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "gda-2024-album-daesang-album-of-the-year-fml",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Album Daesang (Album of the Year)",
+  "tier": "daesang",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "gda-2024-digital-bonsang-super",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Digital Bonsang",
+  "tier": "bonsang",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "gda-2024-album-bonsang-fml",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Album Bonsang",
+  "tier": "bonsang",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "jgda-2024-best-artist-asia",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2024-album-of-the-year-asia-fml",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Album of the Year (Asia)",
+  "tier": "category",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "jgda-2024-best-3-albums-asia-fml",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "jgda-2024-best-3-albums-asia-seventeenth-heaven",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Seventeenth Heaven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-seventeenth-heaven"
+ },
+ {
+  "id": "jgda-2024-best-3-albums-asia-always-yours",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Always Yours",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-always-yours"
+ },
+ {
+  "id": "jgda-2024-music-video-of-the-year-asia-seventeen-world-tour-japan",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Music Video of the Year (Asia)",
+  "tier": "category",
+  "work": "Seventeen World Tour Japan",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-seventeen-world-tour-japan"
+ },
+ {
+  "id": "kwda-2024-best-song",
+  "year": 2024,
+  "ceremonyId": "kwda",
+  "category": "Best Song",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2024-artist-of-the-year",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2024-album-of-the-year-seventeenth-heaven",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "Seventeenth Heaven",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-seventeenth-heaven"
+ },
+ {
+  "id": "mama-2024-best-male-group",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2024-worldwide-fans-choice-male-top-10",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Male Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2024-super-stage",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Super Stage",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mma-2024-top-10-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "sma-2024-bonsang-award",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "sma-2024-best-album-award-fml",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Best Album Award",
+  "tier": "category",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "vmas-2024-group-of-the-year",
+  "year": 2024,
+  "ceremonyId": "vmas",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "music-core-2024-10-26",
+  "year": 2024,
+  "date": "2024-10-26",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love, Money, Fame",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-love-money-fame"
+ },
+ {
+  "id": "music-bank-2024-10-25",
+  "year": 2024,
+  "date": "2024-10-25",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love, Money, Fame",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-love-money-fame"
+ },
+ {
+  "id": "show-champion-2024-10-23",
+  "year": 2024,
+  "date": "2024-10-23",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Love, Money, Fame",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-love-money-fame"
+ },
+ {
+  "id": "music-bank-2024-05-17",
+  "year": 2024,
+  "date": "2024-05-17",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maestro",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-maestro"
+ },
+ {
+  "id": "m-countdown-2024-05-16",
+  "year": 2024,
+  "date": "2024-05-16",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maestro",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-maestro"
+ },
+ {
+  "id": "music-core-2024-05-11",
+  "year": 2024,
+  "date": "2024-05-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maestro",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-maestro"
+ },
+ {
+  "id": "music-bank-2024-05-10",
+  "year": 2024,
+  "date": "2024-05-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maestro",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-maestro"
+ },
+ {
+  "id": "m-countdown-2024-05-09",
+  "year": 2024,
+  "date": "2024-05-09",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maestro",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-maestro"
+ },
+ {
+  "id": "show-champion-2024-05-08",
+  "year": 2024,
+  "date": "2024-05-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maestro",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-maestro"
+ },
+ {
+  "id": "aaa-2023-album-of-the-year-daesang",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Album of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2023-best-dance-performance-overseas-super",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Best Dance Performance – Overseas",
+  "tier": "category",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas-super",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year – Overseas",
+  "tier": "category",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "apma-2023-top-20-albums-of-the-year-overseas-fml",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year – Overseas",
+  "tier": "category",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "brand-of-the-year-2023-male-idol-of-the-year",
+  "year": 2023,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Male Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "circle-2023-album-of-the-year-2nd-quarter-face-the-sun",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 2nd Quarter",
+  "tier": "category",
+  "work": "Face the Sun",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-face-the-sun"
+ },
+ {
+  "id": "circle-2023-best-male-group",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "gda-2023-best-performance-hot",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Best performance",
+  "tier": "category",
+  "work": "Hot",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-hot"
+ },
+ {
+  "id": "gda-2023-best-album-bonsang-face-the-sun",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Best Album (Bonsang)",
+  "tier": "bonsang",
+  "work": "Face the Sun",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-face-the-sun"
+ },
+ {
+  "id": "gda-2023-thai-k-pop-artist",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Thai K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "hanteo-2023-best-album-daesang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Best Album (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "hanteo-2023-main-award-bonsang",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2023-album-of-the-year-asia-dream",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Album of the Year (Asia)",
+  "tier": "category",
+  "work": "Dream",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-dream"
+ },
+ {
+  "id": "jgda-2023-best-3-albums-asia-face-the-sun",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Face the Sun",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-face-the-sun"
+ },
+ {
+  "id": "jgda-2023-best-3-albums-asia-dream",
+  "year": 2023,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Dream",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-dream"
+ },
+ {
+  "id": "kwda-2023-bonsang",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2023-album-of-the-year-fml",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Album of the Year",
+  "tier": "daesang",
+  "work": "FML",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-fml"
+ },
+ {
+  "id": "mama-2023-best-male-group",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Best Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2023-best-dance-performance-male-group-super",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Male Group",
+  "tier": "category",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "mama-2023-culture-style-award",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Culture & Style Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2023-worldwide-fans-choice-top-10",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mma-2023-top-10-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mma-2023-millions-top-10-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mma-2023-best-male-performance",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Best Male Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "sma-2023-bonsang-award",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tma-2023-daesang-award",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Daesang Award",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tmea-2023-most-influential-overseas-group-of-the-year",
+  "year": 2023,
+  "ceremonyId": "tmea",
+  "category": "Most Influential Overseas Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "inkigayo-2023-11-05",
+  "year": 2023,
+  "date": "2023-11-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "God of Music",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-god-of-music"
+ },
+ {
+  "id": "music-core-2023-11-04",
+  "year": 2023,
+  "date": "2023-11-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "God of Music",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-god-of-music"
+ },
+ {
+  "id": "music-bank-2023-11-03",
+  "year": 2023,
+  "date": "2023-11-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "God of Music",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-god-of-music"
+ },
+ {
+  "id": "m-countdown-2023-11-02",
+  "year": 2023,
+  "date": "2023-11-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "God of Music",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-god-of-music"
+ },
+ {
+  "id": "show-champion-2023-11-01",
+  "year": 2023,
+  "date": "2023-11-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "God of Music",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-god-of-music"
+ },
+ {
+  "id": "inkigayo-2023-05-07",
+  "year": 2023,
+  "date": "2023-05-07",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "music-core-2023-05-06",
+  "year": 2023,
+  "date": "2023-05-06",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "music-bank-2023-05-05",
+  "year": 2023,
+  "date": "2023-05-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "m-countdown-2023-05-04",
+  "year": 2023,
+  "date": "2023-05-04",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "show-champion-2023-05-03",
+  "year": 2023,
+  "date": "2023-05-03",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-super"
+ },
+ {
+  "id": "aaa-2022-fabulous-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Fabulous Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "aaa-2022-hot-trend-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Hot Trend Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "aaa-2022-singer-of-the-year-daesang",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Singer of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2022-best-group-overseas",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Best Group – Overseas",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2022-top-20-songs-of-the-year-overseas-hot",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year – Overseas",
+  "tier": "category",
+  "work": "Hot",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-hot"
+ },
+ {
+  "id": "apma-2022-top-20-albums-of-the-year-overseas-face-the-sun",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year – Overseas",
+  "tier": "category",
+  "work": "Face the Sun",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-face-the-sun"
+ },
+ {
+  "id": "apma-2022-best-dance-performance-overseas-hot",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Best Dance Performance – Overseas",
+  "tier": "category",
+  "work": "Hot",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-hot"
+ },
+ {
+  "id": "brand-loyalty-2022-best-male-idol-group",
+  "year": 2022,
+  "ceremonyId": "brand-loyalty",
+  "category": "Best Male Idol Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "brand-of-the-year-2022-male-idol-of-the-year",
+  "year": 2022,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Male Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "ema-2022-best-push",
+  "year": 2022,
+  "ceremonyId": "ema",
+  "category": "Best Push",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "ema-2022-best-new-act",
+  "year": 2022,
+  "ceremonyId": "ema",
+  "category": "Best New Act",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "gda-2022-disc-bonsang-attacca",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Disc Bonsang",
+  "tier": "bonsang",
+  "work": "Attacca",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-attacca"
+ },
+ {
+  "id": "gda-2022-cosmopolitan-artist-award",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Cosmopolitan Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "hanteo-2022-main-award-bonsang",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "japan-record-2022-special-international-music-award",
+  "year": 2022,
+  "ceremonyId": "japan-record",
+  "category": "Special International Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2022-best-3-albums-asia-attacca",
+  "year": 2022,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "Attacca",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-attacca"
+ },
+ {
+  "id": "mama-2022-best-dance-performance-male-group",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance – Male Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2022-worldwide-fans-choice-top-10",
+  "year": 2022,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mma-2022-top-10-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "sma-2022-bonsang-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "vmas-2022-push-performance-of-the-year-rock-with-you",
+  "year": 2022,
+  "ceremonyId": "vmas",
+  "category": "Push Performance of the Year",
+  "tier": "category",
+  "work": "Rock with You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-rock-with-you"
+ },
+ {
+  "id": "m-countdown-2022-08-04",
+  "year": 2022,
+  "date": "2022-08-04",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "_World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-world"
+ },
+ {
+  "id": "inkigayo-2022-07-31",
+  "year": 2022,
+  "date": "2022-07-31",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "_World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-world"
+ },
+ {
+  "id": "music-bank-2022-07-29",
+  "year": 2022,
+  "date": "2022-07-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "_World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-world"
+ },
+ {
+  "id": "m-countdown-2022-07-28",
+  "year": 2022,
+  "date": "2022-07-28",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "_World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-world"
+ },
+ {
+  "id": "show-champion-2022-07-27",
+  "year": 2022,
+  "date": "2022-07-27",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "_World",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-world"
+ },
+ {
+  "id": "music-bank-2022-06-03",
+  "year": 2022,
+  "date": "2022-06-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Hot",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-hot"
+ },
+ {
+  "id": "m-countdown-2022-06-02",
+  "year": 2022,
+  "date": "2022-06-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Hot",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-hot"
+ },
+ {
+  "id": "aaa-2021-artist-of-the-year-daesang",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Artist of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "aaa-2021-fabulous-award",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Fabulous Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apma-2021-top-20-songs-of-the-year-overseas-rock-with-you",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year – Overseas",
+  "tier": "category",
+  "work": "Rock with You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "song-rock-with-you"
+ },
+ {
+  "id": "circle-2021-album-of-the-year-3rd-quarter-heng-garae",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 3rd Quarter",
+  "tier": "category",
+  "work": "Heng:garae",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-heng-garae"
+ },
+ {
+  "id": "gda-2021-disc-bonsang-heng-gar",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Disc Bonsang",
+  "tier": "bonsang",
+  "work": "Heng:garæ",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-heng-gar"
+ },
+ {
+  "id": "hanteo-2021-initial-chodong-record-award",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "Initial Chodong Record Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "hanteo-2021-whosfandom-award",
+  "year": 2021,
+  "ceremonyId": "hanteo",
+  "category": "WhosFandom Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "jgda-2021-best-3-albums-asia-24h",
+  "year": 2021,
+  "ceremonyId": "jgda",
+  "category": "Best 3 Albums (Asia)",
+  "tier": "category",
+  "work": "24H",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-24h"
+ },
+ {
+  "id": "mama-2021-worldwide-fans-choice-top-10",
+  "year": 2021,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "sma-2021-bonsang-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tma-2021-best-performer",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Best Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "music-bank-2021-11-05",
+  "year": 2021,
+  "date": "2021-11-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rock With You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-rock-with-you"
+ },
+ {
+  "id": "show-champion-2021-11-03",
+  "year": 2021,
+  "date": "2021-11-03",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rock with you",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-rock-with-you"
+ },
+ {
+  "id": "music-bank-2021-10-29",
+  "year": 2021,
+  "date": "2021-10-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rock With You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-rock-with-you"
+ },
+ {
+  "id": "m-countdown-2021-10-28",
+  "year": 2021,
+  "date": "2021-10-28",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rock With You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-rock-with-you"
+ },
+ {
+  "id": "music-bank-2021-07-02",
+  "year": 2021,
+  "date": "2021-07-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ready to Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-ready-to-love"
+ },
+ {
+  "id": "m-countdown-2021-07-01",
+  "year": 2021,
+  "date": "2021-07-01",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ready to Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-ready-to-love"
+ },
+ {
+  "id": "show-champion-2021-06-30",
+  "year": 2021,
+  "date": "2021-06-30",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ready to Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-ready-to-love"
+ },
+ {
+  "id": "music-bank-2021-06-25",
+  "year": 2021,
+  "date": "2021-06-25",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ready to Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-ready-to-love"
+ },
+ {
+  "id": "apan-2020-top-10-bonsang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Top 10 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "apan-2020-idol-champ-global-pick-group",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "Idol Champ Global Pick – Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "circle-2020-album-of-the-year-1st-quarter-you-made-my-dawn",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 1st Quarter",
+  "tier": "category",
+  "work": "You Made My Dawn",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-you-made-my-dawn"
+ },
+ {
+  "id": "circle-2020-album-of-the-year-3rd-quarter-an-ode",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "Album of the Year – 3rd Quarter",
+  "tier": "category",
+  "work": "An Ode",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-an-ode"
+ },
+ {
+  "id": "gda-2020-disc-bonsang-an-ode",
+  "year": 2020,
+  "ceremonyId": "gda",
+  "category": "Disc Bonsang",
+  "tier": "bonsang",
+  "work": "An Ode",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen",
+  "releaseId": "album-an-ode"
+ },
+ {
+  "id": "mama-2020-global-favourite-performer",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Global Favourite Performer",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2020-notable-achievement-artist",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Notable Achievement Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "mama-2020-worldwide-fans-choice-top-10",
+  "year": 2020,
+  "ceremonyId": "mama",
+  "category": "Worldwide Fans' Choice Top 10",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "qq-boom-2020-asia-pioneer-idol-group-of-the-year",
+  "year": 2020,
+  "ceremonyId": "qq-boom",
+  "category": "Asia Pioneer Idol Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tma-2020-artist-of-the-year",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "tma-2020-worldwide-icon",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Worldwide Icon",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Seventeen"
+ },
+ {
+  "id": "inkigayo-2020-11-01",
+  "year": 2020,
+  "date": "2020-11-01",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Home;Run",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-home-run"
+ },
+ {
+  "id": "music-bank-2020-10-30",
+  "year": 2020,
+  "date": "2020-10-30",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Home;Run",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-home-run"
+ },
+ {
+  "id": "m-countdown-2020-10-29",
+  "year": 2020,
+  "date": "2020-10-29",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Home;Run",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-home-run"
+ },
+ {
+  "id": "show-champion-2020-10-28",
+  "year": 2020,
+  "date": "2020-10-28",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "HOME;RUN",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-home-run"
+ },
+ {
+  "id": "music-core-2020-07-04",
+  "year": 2020,
+  "date": "2020-07-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Left & Right",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-left-right"
+ },
+ {
+  "id": "music-bank-2020-07-03",
+  "year": 2020,
+  "date": "2020-07-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Left & Right",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-left-right"
+ },
+ {
+  "id": "m-countdown-2020-07-02",
+  "year": 2020,
+  "date": "2020-07-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Left & Right",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-left-right"
+ },
+ {
+  "id": "show-champion-2020-07-01",
+  "year": 2020,
+  "date": "2020-07-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Left & Right",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-left-right"
+ }
+]

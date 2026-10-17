@@ -1,0 +1,305 @@
+[
+ {
+  "id": "gda-2026-best-performance",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Best Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "inkigayo-2026-05-10",
+  "year": 2026,
+  "date": "2026-05-10",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "You, You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-you-you"
+ },
+ {
+  "id": "music-bank-2026-05-08",
+  "year": 2026,
+  "date": "2026-05-08",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "You, You",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2026)",
+  "releaseId": "song-you-you"
+ },
+ {
+  "id": "aaa-2025-best-musician-group",
+  "year": 2025,
+  "ceremonyId": "aaa",
+  "category": "Best Musician – Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "d-awards-2025-rookie-of-the-year",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "d-awards-2025-dreams-silver-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Dreams Silver Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "gda-2025-best-digital-song-bonsang-plot-twist",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)",
+  "releaseId": "song-plot-twist"
+ },
+ {
+  "id": "gda-2025-rookie-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "the-show-2025-10-21",
+  "year": 2025,
+  "date": "2025-10-21",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Overdrive",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-overdrive"
+ },
+ {
+  "id": "inkigayo-2025-05-04",
+  "year": 2025,
+  "date": "2025-05-04",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Countdown",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-countdown"
+ },
+ {
+  "id": "music-core-2025-05-03",
+  "year": 2025,
+  "date": "2025-05-03",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Countdown",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2025)",
+  "releaseId": "song-countdown"
+ },
+ {
+  "id": "music-bank-2025-05-02",
+  "year": 2025,
+  "date": "2025-05-02",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Countdown",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-countdown"
+ },
+ {
+  "id": "m-countdown-2025-05-01",
+  "year": 2025,
+  "date": "2025-05-01",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Countdown",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2025)",
+  "releaseId": "song-countdown"
+ },
+ {
+  "id": "show-champion-2025-04-30",
+  "year": 2025,
+  "date": "2025-04-30",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Countdown",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-countdown"
+ },
+ {
+  "id": "the-show-2025-04-29",
+  "year": 2025,
+  "date": "2025-04-29",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Countdown",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-countdown"
+ },
+ {
+  "id": "aaa-2024-rookie-of-the-year-music",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "asea-2024-best-new-artist",
+  "year": 2024,
+  "ceremonyId": "asea",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "mama-2024-best-new-male-artist",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best New Male Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "mama-2024-best-male-dance-performance-plot-twist",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best Male Dance Performance",
+  "tier": "category",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)",
+  "releaseId": "song-plot-twist"
+ },
+ {
+  "id": "mma-2024-best-new-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "mma-2024-top-10-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/TWS_(group)"
+ },
+ {
+  "id": "music-bank-2024-07-05",
+  "year": 2024,
+  "date": "2024-07-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "If I'm S, Can You Be My N?",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-if-i-m-s-can-you-be-my-n"
+ },
+ {
+  "id": "show-champion-2024-07-04",
+  "year": 2024,
+  "date": "2024-07-04",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "If I'm S, Can You Be My N?",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-if-i-m-s-can-you-be-my-n"
+ },
+ {
+  "id": "the-show-2024-07-02",
+  "year": 2024,
+  "date": "2024-07-02",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "If I'm S, Can You Be My N?",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-if-i-m-s-can-you-be-my-n"
+ },
+ {
+  "id": "inkigayo-2024-03-24",
+  "year": 2024,
+  "date": "2024-03-24",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-plot-twist"
+ },
+ {
+  "id": "music-bank-2024-02-23",
+  "year": 2024,
+  "date": "2024-02-23",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-plot-twist"
+ },
+ {
+  "id": "show-champion-2024-02-21",
+  "year": 2024,
+  "date": "2024-02-21",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-plot-twist"
+ },
+ {
+  "id": "the-show-2024-02-20",
+  "year": 2024,
+  "date": "2024-02-20",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-plot-twist"
+ },
+ {
+  "id": "show-champion-2024-02-14",
+  "year": 2024,
+  "date": "2024-02-14",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Plot Twist",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-plot-twist"
+ }
+]

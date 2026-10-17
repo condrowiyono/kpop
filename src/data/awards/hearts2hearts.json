@@ -1,0 +1,357 @@
+[
+ {
+  "id": "asea-2026-the-platinum-bonsang",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "The Platinum (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "asea-2026-best-group-female",
+  "year": 2026,
+  "ceremonyId": "asea",
+  "category": "Best Group (Female)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "brand-loyalty-2026-hot-trend-female-idol",
+  "year": 2026,
+  "ceremonyId": "brand-loyalty",
+  "category": "Hot Trend Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "brand-of-the-year-2026-female-idol",
+  "year": 2026,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "brand-of-the-year-2026-female-idol-vietnam",
+  "year": 2026,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol - Vietnam",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "brand-of-the-year-2026-hot-trend-female-idol-indonesia",
+  "year": 2026,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Hot Trend Female Idol - Indonesia",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "d-awards-2026-dreams-silver-label",
+  "year": 2026,
+  "ceremonyId": "d-awards",
+  "category": "Dreams Silver Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "gda-2026-most-popular-artist-female",
+  "year": 2026,
+  "ceremonyId": "gda",
+  "category": "Most Popular Artist – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "hanteo-2026-rookie-of-the-year",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "hanteo-2026-best-artist-pick-female",
+  "year": 2026,
+  "ceremonyId": "hanteo",
+  "category": "Best Artist Pick – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "km-chart-2026-best-female-group",
+  "year": 2026,
+  "ceremonyId": "km-chart",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "km-chart-2026-ultimate-12-bonsang",
+  "year": 2026,
+  "ceremonyId": "km-chart",
+  "category": "Ultimate 12 (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "korea-first-brand-2026-female-rookie-idol",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Female Rookie Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "korea-first-brand-2026-female-rookie-idol-indonesia",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Female Rookie Idol (Indonesia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "korea-first-brand-2026-female-rookie-idol-vietnam",
+  "year": 2026,
+  "ceremonyId": "korea-first-brand",
+  "category": "Female Rookie Idol (Vietnam)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "kwda-2026-global-music-artist-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "Global Music Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "kwda-2026-k-world-dream-artist-award",
+  "year": 2026,
+  "ceremonyId": "kwda",
+  "category": "K- World Dream Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "sma-2026-main-prize-bonsang",
+  "year": 2026,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "tmea-2026-rising-international-group-award",
+  "year": 2026,
+  "ceremonyId": "tmea",
+  "category": "Rising International Group Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "weibo-intl-2026-new-force-overseas-group-of-the-year",
+  "year": 2026,
+  "ceremonyId": "weibo-intl",
+  "category": "New Force Overseas Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "show-champion-2026-07-08",
+  "year": 2026,
+  "date": "2026-07-08",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lemon Tang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-lemon-tang"
+ },
+ {
+  "id": "m-countdown-2026-07-02",
+  "year": 2026,
+  "date": "2026-07-02",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lemon Tang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-lemon-tang"
+ },
+ {
+  "id": "inkigayo-2026-03-22",
+  "year": 2026,
+  "date": "2026-03-22",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rude!",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-rude"
+ },
+ {
+  "id": "music-core-2026-03-21",
+  "year": 2026,
+  "date": "2026-03-21",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rude!",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-rude"
+ },
+ {
+  "id": "m-countdown-2026-03-19",
+  "year": 2026,
+  "date": "2026-03-19",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rude!",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-rude"
+ },
+ {
+  "id": "music-core-2026-03-14",
+  "year": 2026,
+  "date": "2026-03-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rude!",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-rude"
+ },
+ {
+  "id": "m-countdown-2026-03-05",
+  "year": 2026,
+  "date": "2026-03-05",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Rude!",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2026)",
+  "releaseId": "song-rude"
+ },
+ {
+  "id": "asea-2025-the-best-new-artist",
+  "year": 2025,
+  "ceremonyId": "asea",
+  "category": "The Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "brand-of-the-year-2025-female-idol-rising-star-indonesia",
+  "year": 2025,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol Rising Star – Indonesia",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "brand-of-the-year-2025-female-rookie-idol",
+  "year": 2025,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Rookie Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "kgma-2025-is-rising-star",
+  "year": 2025,
+  "ceremonyId": "kgma",
+  "category": "IS Rising Star",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "kwda-2025-super-rookie-award",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Super Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "mama-2025-best-new-artist",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "mama-2025-fans-choice-top-10-female",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Female",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "mama-2025-olive-young-k-beauty-artist",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Olive Young K-Beauty Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "mma-2025-berriz-global-fans-choice",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Berriz Global Fans' Choice",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "mma-2025-new-artist-of-the-year",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "New Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "sma-2025-rookie-of-the-year",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "tma-2025-next-leader-award",
+  "year": 2025,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hearts2Hearts"
+ },
+ {
+  "id": "the-show-2025-10-28",
+  "year": 2025,
+  "date": "2025-10-28",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Focus",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-focus"
+ },
+ {
+  "id": "the-show-2025-03-11",
+  "year": 2025,
+  "date": "2025-03-11",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "The Chase",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2025)",
+  "releaseId": "song-the-chase"
+ }
+]

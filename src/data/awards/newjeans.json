@@ -1,0 +1,1043 @@
+[
+ {
+  "id": "hanteo-2025-artist-of-the-year-bonsang",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "music-awards-japan-2025-best-k-pop-song-in-japan-ditto",
+  "year": 2025,
+  "ceremonyId": "music-awards-japan",
+  "category": "Best K-pop Song in Japan",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "aaa-2024-artist-of-the-year-music-daesang",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Artist of the Year – Music (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2024-best-artist-award-music",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2024-best-performance-how-sweet",
+  "year": 2024,
+  "ceremonyId": "aaa",
+  "category": "Best Performance",
+  "tier": "category",
+  "work": "How Sweet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-how-sweet"
+ },
+ {
+  "id": "billboard-wim-2024-group-of-the-year",
+  "year": 2024,
+  "ceremonyId": "billboard-wim",
+  "category": "Group of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "circle-2024-artist-of-the-year-digital-ditto",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Digital",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "circle-2024-artist-of-the-year-global-streaming-super-shy",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Global Streaming",
+  "tier": "category",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "circle-2024-artist-of-the-year-streaming-unique-listeners-ditto",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year – Streaming Unique Listeners",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "circle-2024-music-steady-seller-of-the-year-hype-boy",
+  "year": 2024,
+  "ceremonyId": "circle",
+  "category": "Music Steady Seller of the Year",
+  "tier": "category",
+  "work": "Hype Boy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-hype-boy"
+ },
+ {
+  "id": "edaily-2024-frontier-award",
+  "year": 2024,
+  "ceremonyId": "edaily",
+  "category": "Frontier Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "esports-awards-2024-content-of-the-year-gods",
+  "year": 2024,
+  "ceremonyId": "esports-awards",
+  "category": "Content of the Year",
+  "tier": "category",
+  "work": "Gods",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-gods"
+ },
+ {
+  "id": "gda-2024-digital-daesang-ditto",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Digital Daesang",
+  "tier": "daesang",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "gda-2024-digital-song-bonsang-ditto",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Digital Song Bonsang",
+  "tier": "bonsang",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "hanteo-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "iheart-2024-best-new-k-pop-artist",
+  "year": 2024,
+  "ceremonyId": "iheart",
+  "category": "Best New K-pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "japan-record-2024-excellent-work-award-songs-of-the-year-supernatural",
+  "year": 2024,
+  "ceremonyId": "japan-record",
+  "category": "Excellent Work Award (Songs of the Year)",
+  "tier": "category",
+  "work": "Supernatural",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-supernatural"
+ },
+ {
+  "id": "jgda-2024-best-3-new-artists-asia",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artists – Asia",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "jgda-2024-song-of-the-year-by-streaming-asia-omg",
+  "year": 2024,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Streaming – Asia",
+  "tier": "category",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "kgma-2024-grand-artist-daesang",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Grand Artist (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "kgma-2024-best-artist",
+  "year": 2024,
+  "ceremonyId": "kgma",
+  "category": "Best Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "kma-2024-best-k-pop-album-get-up",
+  "year": 2024,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Album",
+  "tier": "category",
+  "work": "Get Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "album-get-up"
+ },
+ {
+  "id": "kma-2024-best-k-pop-song-ditto",
+  "year": 2024,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Song",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "kma-2024-song-of-the-year-ditto",
+  "year": 2024,
+  "ceremonyId": "kma",
+  "category": "Song of the Year",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "mama-2024-fans-choice-female",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mma-2024-millions-top-10-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mma-2024-top-10-artist",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "sma-2024-bonsang-award",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "sma-2024-best-song-award-omg",
+  "year": 2024,
+  "ceremonyId": "sma",
+  "category": "Best Song Award",
+  "tier": "category",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "tma-2024-artist-of-the-year-bonsang",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2024-musinsa-popularity-award",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Musinsa Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2024-tma-popularity-award",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "TMA Popularity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2024-world-best-performer-award",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "World Best Performer Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2024-worldwide-icon-award",
+  "year": 2024,
+  "ceremonyId": "tma",
+  "category": "Worldwide Icon Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "music-core-2024-06-22",
+  "year": 2024,
+  "date": "2024-06-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How Sweet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-how-sweet"
+ },
+ {
+  "id": "music-core-2024-06-15",
+  "year": 2024,
+  "date": "2024-06-15",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How Sweet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-how-sweet"
+ },
+ {
+  "id": "music-core-2024-06-08",
+  "year": 2024,
+  "date": "2024-06-08",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How Sweet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-how-sweet"
+ },
+ {
+  "id": "music-bank-2024-05-31",
+  "year": 2024,
+  "date": "2024-05-31",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How Sweet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-how-sweet"
+ },
+ {
+  "id": "show-champion-2024-05-29",
+  "year": 2024,
+  "date": "2024-05-29",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "How Sweet",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-how-sweet"
+ },
+ {
+  "id": "aaa-2023-asia-celebrity-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Asia Celebrity Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2023-best-choice-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2023-fabulous-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Fabulous Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2023-hot-trend-award",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Hot Trend Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2023-singer-of-the-year-daesang",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Singer of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2023-song-of-the-year-daesang-ditto",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Song of the Year (Daesang)",
+  "tier": "daesang",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "apma-2023-best-group-overseas",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Best Group (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "apma-2023-top-20-albums-of-the-year-overseas-get-up",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Get Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "album-get-up"
+ },
+ {
+  "id": "apma-2023-top-20-songs-of-the-year-overseas-super-shy",
+  "year": 2023,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "bbmas-2023-top-global-k-pop-artist",
+  "year": 2023,
+  "ceremonyId": "bbmas",
+  "category": "Top Global K-Pop Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "circle-2023-new-artist-of-the-year-digital-attention",
+  "year": 2023,
+  "ceremonyId": "circle",
+  "category": "New Artist of the Year – Digital",
+  "tier": "category",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "gda-2023-digital-song-bonsang-attention",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Digital Song Bonsang",
+  "tier": "bonsang",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "gda-2023-rookie-artist-of-the-year",
+  "year": 2023,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "hanteo-2023-rookie-of-the-year",
+  "year": 2023,
+  "ceremonyId": "hanteo",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "japan-record-2023-excellent-work-award-songs-of-the-year-ditto",
+  "year": 2023,
+  "ceremonyId": "japan-record",
+  "category": "Excellent Work Award (Songs of the Year)",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "japan-record-2023-special-achievement-award",
+  "year": 2023,
+  "ceremonyId": "japan-record",
+  "category": "Special Achievement Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "kma-2023-best-k-pop-album-new-jeans",
+  "year": 2023,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Album",
+  "tier": "category",
+  "work": "New Jeans",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "album-new-jeans"
+ },
+ {
+  "id": "kma-2023-best-k-pop-song-attention",
+  "year": 2023,
+  "ceremonyId": "kma",
+  "category": "Best K-pop Song",
+  "tier": "category",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "kma-2023-rookie-of-the-year",
+  "year": 2023,
+  "ceremonyId": "kma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "kwda-2023-k-global-best-music-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K-Global Best Music Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mama-2023-artist-of-the-year",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mama-2023-best-dance-performance-female-group-ditto",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Best Dance Performance Female Group",
+  "tier": "category",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "mama-2023-best-female-group",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mama-2023-song-of-the-year-ditto",
+  "year": 2023,
+  "ceremonyId": "mama",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "mma-2023-artist-of-the-year",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Artist of the Year",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mma-2023-best-female-group",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mma-2023-millions-top-10-artist-get-up",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Millions Top 10 Artist",
+  "tier": "bonsang",
+  "work": "Get Up",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "album-get-up"
+ },
+ {
+  "id": "mma-2023-song-of-the-year-ditto",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Song of the Year",
+  "tier": "daesang",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "mma-2023-top-10-artist",
+  "year": 2023,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "seoul-tourism-2023-hallyu-star-award",
+  "year": 2023,
+  "ceremonyId": "seoul-tourism",
+  "category": "Hallyu Star Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "sma-2023-rookie-of-the-year",
+  "year": 2023,
+  "ceremonyId": "sma",
+  "category": "Rookie of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2023-artist-of-the-year-bonsang",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2023-listener-s-choice-award",
+  "year": 2023,
+  "ceremonyId": "tma",
+  "category": "Listener's Choice Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "vmaj-2023-best-buzz-award",
+  "year": 2023,
+  "ceremonyId": "vmaj",
+  "category": "Best Buzz Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "inkigayo-2023-09-10",
+  "year": 2023,
+  "date": "2023-09-10",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "ETA",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-eta"
+ },
+ {
+  "id": "inkigayo-2023-09-03",
+  "year": 2023,
+  "date": "2023-09-03",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "ETA",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-eta"
+ },
+ {
+  "id": "inkigayo-2023-08-27",
+  "year": 2023,
+  "date": "2023-08-27",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "inkigayo-2023-08-20",
+  "year": 2023,
+  "date": "2023-08-20",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "m-countdown-2023-08-17",
+  "year": 2023,
+  "date": "2023-08-17",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "ETA",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-eta"
+ },
+ {
+  "id": "show-champion-2023-08-16",
+  "year": 2023,
+  "date": "2023-08-16",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "m-countdown-2023-08-10",
+  "year": 2023,
+  "date": "2023-08-10",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "ETA",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-eta"
+ },
+ {
+  "id": "inkigayo-2023-07-23",
+  "year": 2023,
+  "date": "2023-07-23",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "music-core-2023-07-22",
+  "year": 2023,
+  "date": "2023-07-22",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "m-countdown-2023-07-13",
+  "year": 2023,
+  "date": "2023-07-13",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Super Shy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-super-shy"
+ },
+ {
+  "id": "inkigayo-2023-04-02",
+  "year": 2023,
+  "date": "2023-04-02",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Hype Boy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-hype-boy"
+ },
+ {
+  "id": "inkigayo-2023-03-26",
+  "year": 2023,
+  "date": "2023-03-26",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "inkigayo-2023-03-19",
+  "year": 2023,
+  "date": "2023-03-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "inkigayo-2023-02-05",
+  "year": 2023,
+  "date": "2023-02-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "music-core-2023-02-04",
+  "year": 2023,
+  "date": "2023-02-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "inkigayo-2023-01-29",
+  "year": 2023,
+  "date": "2023-01-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "music-core-2023-01-28",
+  "year": 2023,
+  "date": "2023-01-28",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "music-bank-2023-01-27",
+  "year": 2023,
+  "date": "2023-01-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "m-countdown-2023-01-26",
+  "year": 2023,
+  "date": "2023-01-26",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "inkigayo-2023-01-15",
+  "year": 2023,
+  "date": "2023-01-15",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "music-core-2023-01-14",
+  "year": 2023,
+  "date": "2023-01-14",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "music-bank-2023-01-13",
+  "year": 2023,
+  "date": "2023-01-13",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "m-countdown-2023-01-12",
+  "year": 2023,
+  "date": "2023-01-12",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "OMG",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2023)",
+  "releaseId": "song-omg"
+ },
+ {
+  "id": "inkigayo-2023-01-08",
+  "year": 2023,
+  "date": "2023-01-08",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "music-core-2023-01-07",
+  "year": 2023,
+  "date": "2023-01-07",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Ditto",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-ditto"
+ },
+ {
+  "id": "aaa-2022-performance-of-the-year-daesang",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Performance of the Year (Daesang)",
+  "tier": "daesang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "aaa-2022-rookie-of-the-year-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Rookie of the Year – Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "apma-2022-top-20-songs-of-the-year-overseas-hype-boy",
+  "year": 2022,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Hype Boy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans",
+  "releaseId": "song-hype-boy"
+ },
+ {
+  "id": "mma-2022-best-new-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Best New Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "mma-2022-top-10-artist",
+  "year": 2022,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "the-k-billboard-2022-hot-rookie-award",
+  "year": 2022,
+  "ceremonyId": "the-k-billboard",
+  "category": "Hot Rookie Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "tma-2022-next-leader-award",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Next Leader Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_NewJeans"
+ },
+ {
+  "id": "inkigayo-2022-08-28",
+  "year": 2022,
+  "date": "2022-08-28",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "inkigayo-2022-08-21",
+  "year": 2022,
+  "date": "2022-08-21",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2022)",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "music-core-2022-08-20",
+  "year": 2022,
+  "date": "2022-08-20",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "music-bank-2022-08-19",
+  "year": 2022,
+  "date": "2022-08-19",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-attention"
+ },
+ {
+  "id": "m-countdown-2022-08-18",
+  "year": 2022,
+  "date": "2022-08-18",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Attention",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2022)",
+  "releaseId": "song-attention"
+ }
+]

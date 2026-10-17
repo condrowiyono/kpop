@@ -1,0 +1,407 @@
+[
+ {
+  "id": "song-0x1-lovesong-i-know-i-love-you",
+  "title": "0X1=Lovesong (I Know I Love You)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%200X1%3DLovesong%20(I%20Know%20I%20Love%20You)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=TOMORROW%20X%20TOGETHER%200X1%3DLovesong%20(I%20Know%20I%20Love%20You)",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=lyD3v4DxWeU",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "song-beautiful-strangers",
+  "title": "Beautiful Strangers",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Beautiful%20Strangers",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/beautiful-strangers/1822309911?i=1822309917",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=XTOp_m0QuHM",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-21",
+  "album": "The Star Chapter: TOGETHER",
+  "artwork": "/images/releases/txt-song-beautiful-strangers.jpg"
+ },
+ {
+  "id": "song-blue-hour",
+  "title": "Blue Hour",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Blue%20Hour",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blue-hour/1533454951?i=1533455293",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=TOMORROW%20X%20TOGETHER%20Blue%20Hour",
+    "verified": false
+   }
+  },
+  "releaseDate": "2020-10-26",
+  "album": "minisode1 : Blue Hour",
+  "artwork": "/images/releases/txt-song-blue-hour.jpg"
+ },
+ {
+  "id": "song-can-t-you-see-me",
+  "title": "Can't You See Me?",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Can't%20You%20See%20Me%3F",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/cant-you-see-me/1553522121?i=1553522131",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=bTZLOu5RMrE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-05-18",
+  "album": "The Dream Chapter: ETERNITY",
+  "artwork": "/images/releases/txt-song-can-t-you-see-me.jpg"
+ },
+ {
+  "id": "song-chasing-that-feeling",
+  "title": "Chasing That Feeling",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Chasing%20That%20Feeling",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/chasing-that-feeling/1710293734?i=1710293927",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=vbVorcgrrDQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-10-13",
+  "album": "The Name Chapter: FREEFALL",
+  "artwork": "/images/releases/txt-song-chasing-that-feeling.jpg"
+ },
+ {
+  "id": "song-deja-vu",
+  "title": "Deja Vu",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Deja%20Vu",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/deja-vu/1733096604?i=1733097066",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=1MzNUehZ2cU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-01",
+  "album": "minisode 3: TOMORROW",
+  "artwork": "/images/releases/txt-song-deja-vu.jpg"
+ },
+ {
+  "id": "song-good-boy-gone-bad",
+  "title": "Good Boy Gone Bad",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Good%20Boy%20Gone%20Bad",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/good-boy-gone-bad/1618838657?i=1618838979",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=z0M30CK0QSk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-05-09",
+  "album": "minisode 2: Thursday's Child",
+  "artwork": "/images/releases/txt-song-good-boy-gone-bad.jpg"
+ },
+ {
+  "id": "song-loser-lover",
+  "title": "Loser=Lover",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Loser%3DLover",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=TOMORROW%20X%20TOGETHER%20Loser%3DLover",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=TOMORROW%20X%20TOGETHER%20Loser%3DLover",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-love-language",
+  "title": "Love Language",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Love%20Language",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/love-language/1808843310?i=1808843316",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=JFv3O5fe-1c",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-05-02",
+  "album": "Love Language",
+  "artwork": "/images/releases/txt-song-love-language.jpg"
+ },
+ {
+  "id": "album-minisode-3-tomorrow",
+  "title": "Minisode 3: Tomorrow",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Minisode%203%3A%20Tomorrow",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/minisode-3-tomorrow/1733096604",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_XeYFYrhBaFb",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-01",
+  "artwork": "/images/releases/txt-album-minisode-3-tomorrow.jpg"
+ },
+ {
+  "id": "song-over-the-moon",
+  "title": "Over the Moon",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Over%20the%20Moon",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/over-the-moon/1771934522?i=1771934526",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3naafMFiF44",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-11-04",
+  "album": "The Star Chapter: SANCTUARY",
+  "artwork": "/images/releases/txt-song-over-the-moon.jpg"
+ },
+ {
+  "id": "song-stick-with-you",
+  "title": "Stick with You",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Stick%20with%20You",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/stick-with-you/1886536327?i=1886536332",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=pD3WH15qTgc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-04-13",
+  "album": "7TH YEAR: A Moment of Stillness in the Thorns",
+  "artwork": "/images/releases/txt-song-stick-with-you.jpg"
+ },
+ {
+  "id": "song-sugar-rush-ride",
+  "title": "Sugar Rush Ride",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20Sugar%20Rush%20Ride",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/sugar-rush-ride/1659052466?i=1659052638",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=m03cEHNh3k4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-01-27",
+  "album": "The Name Chapter: TEMPTATION",
+  "artwork": "/images/releases/txt-song-sugar-rush-ride.jpg"
+ },
+ {
+  "id": "album-the-chaos-chapter-freeze",
+  "title": "The Chaos Chapter: Freeze",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20The%20Chaos%20Chapter%3A%20Freeze",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-chaos-chapter-freeze/1569753927",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_21iT5nQ3kr7",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-05-31",
+  "artwork": "/images/releases/txt-album-the-chaos-chapter-freeze.jpg"
+ },
+ {
+  "id": "album-the-dream-chapter-eternity",
+  "title": "The Dream Chapter: Eternity",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20The%20Dream%20Chapter%3A%20Eternity",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-dream-chapter-eternity-ep/1553522121",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_m5NY2j4v8BU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-05-18",
+  "artwork": "/images/releases/txt-album-the-dream-chapter-eternity.jpg"
+ },
+ {
+  "id": "album-the-name-chapter-freefall",
+  "title": "The Name Chapter: Freefall",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20The%20Name%20Chapter%3A%20Freefall",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-name-chapter-freefall/1710293734",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_QgIj3Zb0Vj2",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-10-13",
+  "artwork": "/images/releases/txt-album-the-name-chapter-freefall.jpg"
+ },
+ {
+  "id": "album-the-name-chapter-temptation",
+  "title": "The Name Chapter: Temptation",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20The%20Name%20Chapter%3A%20Temptation",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-name-chapter-temptation-ep/1659052466",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_vGNBvz4xePA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-01-27",
+  "artwork": "/images/releases/txt-album-the-name-chapter-temptation.jpg"
+ },
+ {
+  "id": "album-the-star-chapter-sanctuary",
+  "title": "The Star Chapter: Sanctuary",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20The%20Star%20Chapter%3A%20Sanctuary",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-star-chapter-sanctuary-ep/1771934522",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_zeBpFyiCa4B",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-11-04",
+  "artwork": "/images/releases/txt-album-the-star-chapter-sanctuary.jpg"
+ },
+ {
+  "id": "album-the-star-chapter-together",
+  "title": "The Star Chapter: Together",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/TOMORROW%20X%20TOGETHER%20The%20Star%20Chapter%3A%20Together",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-star-chapter-together/1822309911",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_398MWlGpNOy",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-21",
+  "artwork": "/images/releases/txt-album-the-star-chapter-together.jpg"
+ }
+]

@@ -1,0 +1,305 @@
+[
+ {
+  "id": "song-adrenaline",
+  "title": "Adrenaline",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Adrenaline",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/adrenaline/1867153027?i=1867153030",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3441HgQwUs4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-02-06",
+  "album": "GOLDEN HOUR : Part.4",
+  "artwork": "/images/releases/ateez-song-adrenaline.jpg"
+ },
+ {
+  "id": "song-bad",
+  "title": "Bad",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Bad",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bad/6770401924?i=6770401926",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=3F9jlnANW08",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-06-26",
+  "album": "GOLDEN HOUR : Part.5",
+  "artwork": "/images/releases/ateez-song-bad.jpg"
+ },
+ {
+  "id": "song-bouncy-k-hot-chilli-peppers",
+  "title": "Bouncy (K-Hot Chilli Peppers)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Bouncy%20(K-Hot%20Chilli%20Peppers)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bouncy-k-hot-chilli-peppers/1691699403?i=1691699796",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=wrLf6FKV1-w",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-06-16",
+  "album": "THE WORLD EP.2 : OUTLAW",
+  "artwork": "/images/releases/ateez-song-bouncy-k-hot-chilli-peppers.jpg"
+ },
+ {
+  "id": "song-crazy-form",
+  "title": "Crazy Form",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Crazy%20Form",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/crazy-form/1716875248?i=1716875259",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=_db-mfu8y1k",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-12-01",
+  "album": "THE WORLD EP.FIN : WILL",
+  "artwork": "/images/releases/ateez-song-crazy-form.jpg"
+ },
+ {
+  "id": "song-deja-vu",
+  "title": "Deja Vu",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Deja%20Vu",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/deja-vu/1584929835?i=1584929841",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=eL-tCdhbrRk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-09-13",
+  "album": "ZERO : FEVER, Pt. 3",
+  "artwork": "/images/releases/ateez-song-deja-vu.jpg"
+ },
+ {
+  "id": "song-fireworks-i-m-the-one",
+  "title": "Fireworks (I'm The One)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Fireworks%20(I'm%20The%20One)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fireworks-im-the-one/1555239727?i=1555239736",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=I13s-OlK_gA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-03-01",
+  "album": "ZERO : FEVER, Pt. 2",
+  "artwork": "/images/releases/ateez-song-fireworks-i-m-the-one.jpg"
+ },
+ {
+  "id": "album-golden-hour-part-2",
+  "title": "Golden Hour: Part.2",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Golden%20Hour%3A%20Part.2",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/golden-hour-part-2-ep/1778026618",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_bhzIBdODmeW",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-11-15",
+  "artwork": "/images/releases/ateez-album-golden-hour-part-2.jpg"
+ },
+ {
+  "id": "song-guerrilla",
+  "title": "Guerrilla",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Guerrilla",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/guerrilla/1634355029?i=1634355469",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=RMriszhSxFw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-29",
+  "album": "THE WORLD EP.1 : MOVEMENT",
+  "artwork": "/images/releases/ateez-song-guerrilla.jpg"
+ },
+ {
+  "id": "song-halazia",
+  "title": "Halazia",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Halazia",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/halazia/1658942648?i=1658942651",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Iy6JHKwICSs",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-12-30",
+  "album": "SPIN OFF : FROM THE WITNESS",
+  "artwork": "/images/releases/ateez-song-halazia.jpg"
+ },
+ {
+  "id": "song-ice-on-my-teeth",
+  "title": "Ice on My Teeth",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Ice%20on%20My%20Teeth",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/ice-on-my-teeth/1782685124?i=1782685125",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=rFP1m4-H-tY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-11-15",
+  "album": "Ice On My Teeth (English Ver.)",
+  "artwork": "/images/releases/ateez-song-ice-on-my-teeth.jpg"
+ },
+ {
+  "id": "album-idol-1n2d",
+  "title": "Idol 1N2D",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Idol%201N2D",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=ATEEZ%20Idol%201N2D",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ATEEZ%20Idol%201N2D",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-inception",
+  "title": "Inception",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Inception",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/inception/1523752057?i=1523752065",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=6rMxKrS1FLI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-07-29",
+  "album": "ZERO: FEVER, Pt. 1",
+  "artwork": "/images/releases/ateez-song-inception.jpg"
+ },
+ {
+  "id": "album-the-world-ep-fin-will",
+  "title": "The World EP.Fin: Will",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20The%20World%20EP.Fin%3A%20Will",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-world-ep-fin-will/1716875248",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_wsFzSae0tgu",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-12-01",
+  "artwork": "/images/releases/ateez-album-the-world-ep-fin-will.jpg"
+ },
+ {
+  "id": "song-work",
+  "title": "Work",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ATEEZ%20Work",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/work/1747433451?i=1747433472",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=9D0A2hePxJs",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-31",
+  "album": "GOLDEN HOUR : Part.1",
+  "artwork": "/images/releases/ateez-song-work.jpg"
+ }
+]

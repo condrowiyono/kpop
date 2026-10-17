@@ -1,0 +1,423 @@
+[
+ {
+  "id": "inkigayo-2026-06-21",
+  "year": 2026,
+  "date": "2026-06-21",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "It's Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-it-s-me"
+ },
+ {
+  "id": "inkigayo-2026-06-14",
+  "year": 2026,
+  "date": "2026-06-14",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "It's Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-it-s-me"
+ },
+ {
+  "id": "inkigayo-2026-06-07",
+  "year": 2026,
+  "date": "2026-06-07",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "It's Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2026)",
+  "releaseId": "song-it-s-me"
+ },
+ {
+  "id": "music-core-2026-06-06",
+  "year": 2026,
+  "date": "2026-06-06",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "It's Me",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-it-s-me"
+ },
+ {
+  "id": "music-core-2026-01-17",
+  "year": 2026,
+  "date": "2026-01-17",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Cute Anymore",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2026)",
+  "releaseId": "song-not-cute-anymore"
+ },
+ {
+  "id": "d-awards-2025-delights-blue-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Delights Blue Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "d-awards-2025-dreams-silver-label",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Dreams Silver Label",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "d-awards-2025-best-choreography",
+  "year": 2025,
+  "ceremonyId": "d-awards",
+  "category": "Best Choreography",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "hanteo-2025-rookie-of-the-year-female",
+  "year": 2025,
+  "ceremonyId": "hanteo",
+  "category": "Rookie of the Year – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "iheart-2025-best-new-artist-k-pop",
+  "year": 2025,
+  "ceremonyId": "iheart",
+  "category": "Best New Artist (K-pop)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "jgda-2025-song-of-the-year-by-download-asia-magnetic",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Download (Asia)",
+  "tier": "category",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "jgda-2025-song-of-the-year-by-streaming-asia-magnetic",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Song of the Year by Streaming (Asia)",
+  "tier": "category",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "jgda-2025-best-5-songs-by-streaming-magnetic",
+  "year": 2025,
+  "ceremonyId": "jgda",
+  "category": "Best 5 Songs by Streaming",
+  "tier": "category",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "kwda-2025-bonsang",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "kwda-2025-best-music-video-award",
+  "year": 2025,
+  "ceremonyId": "kwda",
+  "category": "Best Music Video Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "mama-2025-fans-choice-top-10-female",
+  "year": 2025,
+  "ceremonyId": "mama",
+  "category": "Fans' Choice Top 10 – Female",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "mma-2025-best-performance-female",
+  "year": 2025,
+  "ceremonyId": "mma",
+  "category": "Best Performance – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "sma-2025-main-prize-bonsang",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Main Prize (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "sma-2025-best-group-award",
+  "year": 2025,
+  "ceremonyId": "sma",
+  "category": "Best Group Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "tmea-2025-annual-overseas-popular-song-magnetic",
+  "year": 2025,
+  "ceremonyId": "tmea",
+  "category": "Annual Overseas Popular Song",
+  "tier": "category",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "show-champion-2025-12-17",
+  "year": 2025,
+  "date": "2025-12-17",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Cute Anymore",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2025)",
+  "releaseId": "song-not-cute-anymore"
+ },
+ {
+  "id": "music-bank-2025-12-05",
+  "year": 2025,
+  "date": "2025-12-05",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Not Cute Anymore",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-not-cute-anymore"
+ },
+ {
+  "id": "inkigayo-2025-06-29",
+  "year": 2025,
+  "date": "2025-06-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do the Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2025)",
+  "releaseId": "song-do-the-dance"
+ },
+ {
+  "id": "music-bank-2025-06-27",
+  "year": 2025,
+  "date": "2025-06-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Do the Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-do-the-dance"
+ },
+ {
+  "id": "apma-2024-top-20-songs-of-the-year-overseas-magnetic",
+  "year": 2024,
+  "ceremonyId": "apma",
+  "category": "Top 20 Songs of the Year (Overseas)",
+  "tier": "category",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "gda-2024-best-digital-song-bonsang-magnetic",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Best Digital Song (Bonsang)",
+  "tier": "bonsang",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "gda-2024-rookie-artist-of-the-year",
+  "year": 2024,
+  "ceremonyId": "gda",
+  "category": "Rookie Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "japan-record-2024-new-artist-award",
+  "year": 2024,
+  "ceremonyId": "japan-record",
+  "category": "New Artist Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "mama-2024-best-new-artist-female",
+  "year": 2024,
+  "ceremonyId": "mama",
+  "category": "Best New Artist – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "mma-2024-new-artist-of-the-year",
+  "year": 2024,
+  "ceremonyId": "mma",
+  "category": "New Artist of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit"
+ },
+ {
+  "id": "tiktok-korea-2024-best-viral-song-magnetic",
+  "year": 2024,
+  "ceremonyId": "tiktok-korea",
+  "category": "Best Viral Song",
+  "tier": "category",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Illit",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "inkigayo-2024-05-05",
+  "year": 2024,
+  "date": "2024-05-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "inkigayo-2024-04-28",
+  "year": 2024,
+  "date": "2024-04-28",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "music-core-2024-04-27",
+  "year": 2024,
+  "date": "2024-04-27",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "m-countdown-2024-04-25",
+  "year": 2024,
+  "date": "2024-04-25",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "inkigayo-2024-04-21",
+  "year": 2024,
+  "date": "2024-04-21",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "music-core-2024-04-20",
+  "year": 2024,
+  "date": "2024-04-20",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "music-bank-2024-04-19",
+  "year": 2024,
+  "date": "2024-04-19",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "m-countdown-2024-04-18",
+  "year": 2024,
+  "date": "2024-04-18",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "show-champion-2024-04-17",
+  "year": 2024,
+  "date": "2024-04-17",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "music-core-2024-04-13",
+  "year": 2024,
+  "date": "2024-04-13",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "the-show-2024-04-09",
+  "year": 2024,
+  "date": "2024-04-09",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ },
+ {
+  "id": "the-show-2024-04-02",
+  "year": 2024,
+  "date": "2024-04-02",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Magnetic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2024)",
+  "releaseId": "song-magnetic"
+ }
+]

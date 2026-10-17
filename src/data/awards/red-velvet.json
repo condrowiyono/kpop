@@ -1,0 +1,383 @@
+[
+ {
+  "id": "show-champion-2026-08-12",
+  "year": 2026,
+  "date": "2026-08-12",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Surfin' Boy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2026)",
+  "releaseId": "song-surfin-boy"
+ },
+ {
+  "id": "music-core-2023-11-25",
+  "year": 2023,
+  "date": "2023-11-25",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Chill Kill",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-chill-kill"
+ },
+ {
+  "id": "genie-2022-best-music-video-feel-my-rhythm",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Best Music Video",
+  "tier": "category",
+  "work": "Feel My Rhythm",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-feel-my-rhythm"
+ },
+ {
+  "id": "genie-2022-best-female-performance-award",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Best Female Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "hanteo-2022-generation-icon-award",
+  "year": 2022,
+  "ceremonyId": "hanteo",
+  "category": "Generation Icon Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "show-champion-2022-12-14",
+  "year": 2022,
+  "date": "2022-12-14",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Birthday",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-birthday"
+ },
+ {
+  "id": "show-champion-2022-12-07",
+  "year": 2022,
+  "date": "2022-12-07",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Birthday",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2022)",
+  "releaseId": "song-birthday"
+ },
+ {
+  "id": "music-bank-2022-04-01",
+  "year": 2022,
+  "date": "2022-04-01",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Feel My Rhythm",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-feel-my-rhythm"
+ },
+ {
+  "id": "apma-2021-best-group-overseas",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Best Group (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "apma-2021-top-20-albums-of-the-year-overseas-queendom",
+  "year": 2021,
+  "ceremonyId": "apma",
+  "category": "Top 20 Albums of the Year (Overseas)",
+  "tier": "category",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "circle-2021-artist-of-the-year-digital-music-august-queendom",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Artist of the Year (Digital Music) – August",
+  "tier": "category",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "gda-2021-digital-bonsang-psycho",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Digital Bonsang",
+  "tier": "bonsang",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "inkigayo-2021-09-12",
+  "year": 2021,
+  "date": "2021-09-12",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "music-core-2021-09-11",
+  "year": 2021,
+  "date": "2021-09-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "music-core-2021-09-04",
+  "year": 2021,
+  "date": "2021-09-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "inkigayo-2021-08-29",
+  "year": 2021,
+  "date": "2021-08-29",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "music-core-2021-08-28",
+  "year": 2021,
+  "date": "2021-08-28",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "music-bank-2021-08-27",
+  "year": 2021,
+  "date": "2021-08-27",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "m-countdown-2021-08-26",
+  "year": 2021,
+  "date": "2021-08-26",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Queendom",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-queendom"
+ },
+ {
+  "id": "apma-2020-best-music-video-overseas-psycho",
+  "year": 2020,
+  "ceremonyId": "apma",
+  "category": "Best Music Video (Overseas)",
+  "tier": "category",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "apma-2020-outstanding-group-of-the-year-overseas",
+  "year": 2020,
+  "ceremonyId": "apma",
+  "category": "Outstanding Group of the Year (Overseas)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "brand-loyalty-2020-most-influential-female-idol",
+  "year": 2020,
+  "ceremonyId": "brand-loyalty",
+  "category": "Most Influential Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "bugs-2020-20th-anniversary-awards-most-loved-music-red-flavor",
+  "year": 2020,
+  "ceremonyId": "bugs",
+  "category": "20th Anniversary Awards – Most Loved Music",
+  "tier": "category",
+  "work": "Red Flavor",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-red-flavor"
+ },
+ {
+  "id": "bugs-2020-20th-anniversary-awards-most-loved-artists",
+  "year": 2020,
+  "ceremonyId": "bugs",
+  "category": "20th Anniversary Awards – Most Loved Artists",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "circle-2020-song-of-the-year-december-psycho",
+  "year": 2020,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – December",
+  "tier": "category",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "sma-2020-main-award",
+  "year": 2020,
+  "ceremonyId": "sma",
+  "category": "Main Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "soribada-2020-music-of-the-year",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "Music of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "soribada-2020-main-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "Main Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "tma-2020-this-year-s-artist",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "This Year's Artist",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Red_Velvet"
+ },
+ {
+  "id": "music-bank-2020-01-24",
+  "year": 2020,
+  "date": "2020-01-24",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "inkigayo-2020-01-19",
+  "year": 2020,
+  "date": "2020-01-19",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "music-core-2020-01-18",
+  "year": 2020,
+  "date": "2020-01-18",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "inkigayo-2020-01-12",
+  "year": 2020,
+  "date": "2020-01-12",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "music-core-2020-01-11",
+  "year": 2020,
+  "date": "2020-01-11",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "music-bank-2020-01-10",
+  "year": 2020,
+  "date": "2020-01-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "inkigayo-2020-01-05",
+  "year": 2020,
+  "date": "2020-01-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "music-core-2020-01-04",
+  "year": 2020,
+  "date": "2020-01-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ },
+ {
+  "id": "music-bank-2020-01-03",
+  "year": 2020,
+  "date": "2020-01-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Psycho",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-psycho"
+ }
+]

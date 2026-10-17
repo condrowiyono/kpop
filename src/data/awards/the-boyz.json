@@ -1,0 +1,516 @@
+[
+ {
+  "id": "music-bank-2025-08-08",
+  "year": 2025,
+  "date": "2025-08-08",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Stylish",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2025)",
+  "releaseId": "song-stylish"
+ },
+ {
+  "id": "music-bank-2024-11-08",
+  "year": 2024,
+  "date": "2024-11-08",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Trigger",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-trigger"
+ },
+ {
+  "id": "show-champion-2024-11-06",
+  "year": 2024,
+  "date": "2024-11-06",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Trigger",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-trigger"
+ },
+ {
+  "id": "music-core-2024-03-30",
+  "year": 2024,
+  "date": "2024-03-30",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nectar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2024)",
+  "releaseId": "song-nectar"
+ },
+ {
+  "id": "music-bank-2024-03-29",
+  "year": 2024,
+  "date": "2024-03-29",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nectar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2024)",
+  "releaseId": "song-nectar"
+ },
+ {
+  "id": "show-champion-2024-03-27",
+  "year": 2024,
+  "date": "2024-03-27",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nectar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2024)",
+  "releaseId": "song-nectar"
+ },
+ {
+  "id": "aaa-2023-best-artist-award-music",
+  "year": 2023,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award - Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "kwda-2023-k-global-bonsang-main-prize",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K Global Bonsang (Main Prize)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "kwda-2023-k-global-best-music-video-award",
+  "year": 2023,
+  "ceremonyId": "kwda",
+  "category": "K Global Best Music Video Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "vmaj-2023-best-asia-group",
+  "year": 2023,
+  "ceremonyId": "vmaj",
+  "category": "Best Asia Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "music-core-2023-12-02",
+  "year": 2023,
+  "date": "2023-12-02",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Watch It",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-watch-it"
+ },
+ {
+  "id": "music-bank-2023-12-01",
+  "year": 2023,
+  "date": "2023-12-01",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Watch It",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-watch-it"
+ },
+ {
+  "id": "music-bank-2023-08-18",
+  "year": 2023,
+  "date": "2023-08-18",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Lip Gloss",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-lip-gloss"
+ },
+ {
+  "id": "music-bank-2023-03-10",
+  "year": 2023,
+  "date": "2023-03-10",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Roar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-roar"
+ },
+ {
+  "id": "inkigayo-2023-03-05",
+  "year": 2023,
+  "date": "2023-03-05",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Roar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2023)",
+  "releaseId": "song-roar"
+ },
+ {
+  "id": "music-core-2023-03-04",
+  "year": 2023,
+  "date": "2023-03-04",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Roar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2023)",
+  "releaseId": "song-roar"
+ },
+ {
+  "id": "music-bank-2023-03-03",
+  "year": 2023,
+  "date": "2023-03-03",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Roar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2023)",
+  "releaseId": "song-roar"
+ },
+ {
+  "id": "show-champion-2023-03-01",
+  "year": 2023,
+  "date": "2023-03-01",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Roar",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2023)",
+  "releaseId": "song-roar"
+ },
+ {
+  "id": "aaa-2022-best-artist-award-music",
+  "year": 2022,
+  "ceremonyId": "aaa",
+  "category": "Best Artist Award - Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "circle-2022-hot-performance-of-the-year",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Hot Performance of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "gda-2022-best-performance",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Best Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "genie-2022-best-male-performance-award",
+  "year": 2022,
+  "ceremonyId": "genie",
+  "category": "Best Male Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "kwda-2022-k-global-best-performance-award",
+  "year": 2022,
+  "ceremonyId": "kwda",
+  "category": "K Global Best Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "sma-2022-main-award-bonsang",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Main Award (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "tma-2022-artist-of-the-year-bonsang",
+  "year": 2022,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "music-core-2022-08-27",
+  "year": 2022,
+  "date": "2022-08-27",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whisper",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2022)",
+  "releaseId": "song-whisper"
+ },
+ {
+  "id": "music-bank-2022-08-26",
+  "year": 2022,
+  "date": "2022-08-26",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Whisper",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2022)",
+  "releaseId": "song-whisper"
+ },
+ {
+  "id": "aaa-2021-asia-celebrity-award-music",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Asia Celebrity Award - Music",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "aaa-2021-best-musician-award",
+  "year": 2021,
+  "ceremonyId": "aaa",
+  "category": "Best Musician Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "gda-2021-next-generation-award",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Next Generation Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "mma-2021-best-performance",
+  "year": 2021,
+  "ceremonyId": "mma",
+  "category": "Best Performance",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "sma-2021-best-performance-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Best Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "inkigayo-2021-11-14",
+  "year": 2021,
+  "date": "2021-11-14",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maverick",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2021)",
+  "releaseId": "song-maverick"
+ },
+ {
+  "id": "music-core-2021-11-13",
+  "year": 2021,
+  "date": "2021-11-13",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maverick",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-maverick"
+ },
+ {
+  "id": "music-bank-2021-11-12",
+  "year": 2021,
+  "date": "2021-11-12",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maverick",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-maverick"
+ },
+ {
+  "id": "show-champion-2021-11-10",
+  "year": 2021,
+  "date": "2021-11-10",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maverick",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-maverick"
+ },
+ {
+  "id": "the-show-2021-11-09",
+  "year": 2021,
+  "date": "2021-11-09",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Maverick",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-maverick"
+ },
+ {
+  "id": "music-core-2021-08-21",
+  "year": 2021,
+  "date": "2021-08-21",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thrill Ride",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2021)",
+  "releaseId": "song-thrill-ride"
+ },
+ {
+  "id": "music-bank-2021-08-20",
+  "year": 2021,
+  "date": "2021-08-20",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thrill Ride",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2021)",
+  "releaseId": "song-thrill-ride"
+ },
+ {
+  "id": "m-countdown-2021-08-19",
+  "year": 2021,
+  "date": "2021-08-19",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thrill Ride",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2021)",
+  "releaseId": "song-thrill-ride"
+ },
+ {
+  "id": "show-champion-2021-08-18",
+  "year": 2021,
+  "date": "2021-08-18",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thrill Ride",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-thrill-ride"
+ },
+ {
+  "id": "the-show-2021-08-17",
+  "year": 2021,
+  "date": "2021-08-17",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Thrill Ride",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-thrill-ride"
+ },
+ {
+  "id": "aaa-2020-aaa-best-choice-singer",
+  "year": 2020,
+  "ceremonyId": "aaa",
+  "category": "AAA Best Choice (Singer)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "apan-2020-apan-top-10-bonsang",
+  "year": 2020,
+  "ceremonyId": "apan",
+  "category": "APAN Top 10 Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "jgda-2020-best-3-new-artist-asia",
+  "year": 2020,
+  "ceremonyId": "jgda",
+  "category": "Best 3 New Artist (Asia)",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "mma-2020-1thek-original-content",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "1theK Original Content",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "soribada-2020-new-hallyu-male-performance-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "New Hallyu Male Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "tma-2020-global-hottest-award",
+  "year": 2020,
+  "ceremonyId": "tma",
+  "category": "Global Hottest Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Boyz"
+ },
+ {
+  "id": "m-countdown-2020-10-08",
+  "year": 2020,
+  "date": "2020-10-08",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "The Stealer",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-the-stealer"
+ },
+ {
+  "id": "the-show-2020-10-06",
+  "year": 2020,
+  "date": "2020-10-06",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "The Stealer",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-the-stealer"
+ },
+ {
+  "id": "m-countdown-2020-10-01",
+  "year": 2020,
+  "date": "2020-10-01",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "The Stealer",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-the-stealer"
+ },
+ {
+  "id": "show-champion-2020-09-30",
+  "year": 2020,
+  "date": "2020-09-30",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "The Stealer",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-the-stealer"
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "id": "album-2",
+  "title": "2",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/3SZZriuBZnmKfQ7LqEH6It",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/2/1801725556",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_zeBHxhmLA0O",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-01-29",
+  "artwork": "/images/releases/i-dle-album-2.jpg"
+ },
+ {
+  "id": "song-dumdi-dumdi",
+  "title": "Dumdi Dumdi",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dumdi-dumdi/1525322098?i=1525322105",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=i-dle%20Dumdi%20Dumdi",
+    "verified": false
+   }
+  },
+  "releaseDate": "2020-08-03",
+  "album": "DUMDi DUMDi",
+  "artwork": "/images/releases/i-dle-song-dumdi-dumdi.jpg"
+ },
+ {
+  "id": "song-fate",
+  "title": "Fate",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20Fate",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fate/1801725556?i=1801725670",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=i-dle%20Fate",
+    "verified": false
+   }
+  },
+  "releaseDate": "2024-01-29",
+  "album": "2",
+  "artwork": "/images/releases/i-dle-song-fate.jpg"
+ },
+ {
+  "id": "song-hwaa",
+  "title": "Hwaa",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hwaa/1545320377?i=1545320397",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=DOjxbtafGYk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-01-11",
+  "album": "I burn",
+  "artwork": "/images/releases/i-dle-song-hwaa.jpg"
+ },
+ {
+  "id": "song-i-feel",
+  "title": "I feel",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20I%20feel",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=i-dle%20I%20feel",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=i-dle%20I%20feel",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "album-i-never-die",
+  "title": "I Never Die",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20I%20Never%20Die",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/i-never-die/1802620780",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_dihLdtNboaS",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-03-14",
+  "artwork": "/images/releases/i-dle-album-i-never-die.jpg"
+ },
+ {
+  "id": "album-i-trust",
+  "title": "I Trust",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/i-trust-ep/1504618353",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_ejmc0IgthZP",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-04-06",
+  "artwork": "/images/releases/i-dle-album-i-trust.jpg"
+ },
+ {
+  "id": "song-klaxon",
+  "title": "Klaxon",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20Klaxon",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/klaxon/1801934509?i=1801934667",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=-hUX3-eXmUE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-08",
+  "album": "I SWAY",
+  "artwork": "/images/releases/i-dle-song-klaxon.jpg"
+ },
+ {
+  "id": "song-lion",
+  "title": "Lion",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lion/1504618353?i=1504618600",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=WP3Pnag40AI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2019-10-25",
+  "album": "I trust",
+  "artwork": "/images/releases/i-dle-song-lion.jpg"
+ },
+ {
+  "id": "song-mono",
+  "title": "Mono",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20Mono",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/mono-feat-skaiwater/1869130801?i=1869130804",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=7Hh9rm_9Aco",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-01-27",
+  "album": "Mono (feat. skaiwater)",
+  "artwork": "/images/releases/i-dle-song-mono.jpg"
+ },
+ {
+  "id": "song-nxde",
+  "title": "Nxde",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/nxde/1802482388?i=1802482389",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=RdU3F5vN3_s",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-10-17",
+  "album": "I love",
+  "artwork": "/images/releases/i-dle-song-nxde.jpg"
+ },
+ {
+  "id": "song-oh-my-god",
+  "title": "Oh My God",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/oh-my-god/1504618353?i=1504618354",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=EuHL72riOn4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-04-06",
+  "album": "I trust",
+  "artwork": "/images/releases/i-dle-song-oh-my-god.jpg"
+ },
+ {
+  "id": "song-queencard",
+  "title": "Queencard",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20Queencard",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/queencard/1802620982?i=1802620989",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=v_gO_P8gug8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-05-15",
+  "album": "I feel",
+  "artwork": "/images/releases/i-dle-song-queencard.jpg"
+ },
+ {
+  "id": "song-super-lady",
+  "title": "Super Lady",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20Super%20Lady",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/super-lady/1801725556?i=1801725652",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=DWP7XTudxcg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-01-29",
+  "album": "2",
+  "artwork": "/images/releases/i-dle-song-super-lady.jpg"
+ },
+ {
+  "id": "song-tomboy",
+  "title": "Tomboy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/i-dle%20Tomboy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/tomboy/1802620780?i=1802621240",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=aFoqCI75WoY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-03-14",
+  "album": "I NEVER DIE",
+  "artwork": "/images/releases/i-dle-song-tomboy.jpg"
+ }
+]

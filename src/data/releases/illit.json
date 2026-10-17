@@ -1,0 +1,87 @@
+[
+ {
+  "id": "song-do-the-dance",
+  "title": "Do the Dance",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ILLIT%20Do%20the%20Dance",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=ILLIT%20Do%20the%20Dance",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ILLIT%20Do%20the%20Dance",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-it-s-me",
+  "title": "It's Me",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ILLIT%20It's%20Me",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/its-me/1887194024?i=1887194026",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=XDzGoMtSqZA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-04-30",
+  "album": "MAMIHLAPINATAPAI",
+  "artwork": "/images/releases/illit-song-it-s-me.jpg"
+ },
+ {
+  "id": "song-magnetic",
+  "title": "Magnetic",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ILLIT%20Magnetic",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/magnetic/1734500886?i=1734500896",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=HBqH4uJS0PU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-03-25",
+  "album": "SUPER REAL ME",
+  "artwork": "/images/releases/illit-song-magnetic.jpg"
+ },
+ {
+  "id": "song-not-cute-anymore",
+  "title": "Not Cute Anymore",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ILLIT%20Not%20Cute%20Anymore",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/not-cute-anymore/1849105513?i=1849105517",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=HP8qpxRpIW8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-11-24",
+  "album": "NOT CUTE ANYMORE",
+  "artwork": "/images/releases/illit-song-not-cute-anymore.jpg"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "song-antifragile",
+  "title": "Antifragile",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Antifragile",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=SZiwpL62to8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-10-17",
+  "album": "ANTIFRAGILE",
+  "artwork": "/images/releases/le-sserafim-song-antifragile.jpg"
+ },
+ {
+  "id": "song-boompala",
+  "title": "Boompala",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Boompala",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/boompala/1894802719?i=1894802726",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Gy32XOFT2ww",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-05-22",
+  "album": "'PUREFLOW', Pt. 1",
+  "artwork": "/images/releases/le-sserafim-song-boompala.jpg"
+ },
+ {
+  "id": "song-crazy",
+  "title": "Crazy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Crazy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/crazy/1763658157?i=1763658321",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=kA_1chVgPVA",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-08-30",
+  "album": "CRAZY",
+  "artwork": "/images/releases/le-sserafim-song-crazy.jpg"
+ },
+ {
+  "id": "song-easy",
+  "title": "Easy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Easy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/easy/1733067205?i=1733067206",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Zj9-RiEf4Og",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-02-19",
+  "album": "EASY (Remixes)",
+  "artwork": "/images/releases/le-sserafim-song-easy.jpg"
+ },
+ {
+  "id": "song-eve-psyche-the-bluebeard-s-wife",
+  "title": "Eve, Psyche & the Bluebeard's Wife",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Eve%2C%20Psyche%20%26%20the%20Bluebeard's%20Wife",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/eve-psyche-the-bluebeards-wife/1682502020?i=1682502483",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=eS-NAO3zmn4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-05-01",
+  "album": "UNFORGIVEN",
+  "artwork": "/images/releases/le-sserafim-song-eve-psyche-the-bluebeard-s-wife.jpg"
+ },
+ {
+  "id": "song-fearless",
+  "title": "Fearless",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Fearless",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/fearless/1621089349?i=1621089608",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Wk3Vxt3knnI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-05-02",
+  "album": "FEARLESS",
+  "artwork": "/images/releases/le-sserafim-song-fearless.jpg"
+ },
+ {
+  "id": "song-hot",
+  "title": "Hot",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Hot",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/hot/1799278610?i=1799278617",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=cCkAcVOS3ig",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-03-14",
+  "album": "HOT",
+  "artwork": "/images/releases/le-sserafim-song-hot.jpg"
+ },
+ {
+  "id": "song-perfect-night",
+  "title": "Perfect Night",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Perfect%20Night",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/perfect-night/1761642217?i=1761642444",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Gqfq_8jPw8Q",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-10-27",
+  "album": "Perfect Night (for FEARNOT)",
+  "artwork": "/images/releases/le-sserafim-song-perfect-night.jpg"
+ },
+ {
+  "id": "song-spaghetti",
+  "title": "Spaghetti",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Spaghetti",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/spaghetti/1846109648?i=1846109650",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=LE%20SSERAFIM%20Spaghetti",
+    "verified": false
+   }
+  },
+  "releaseDate": "2025-10-24",
+  "album": "SPAGHETTI",
+  "artwork": "/images/releases/le-sserafim-song-spaghetti.jpg"
+ },
+ {
+  "id": "song-unforgiven",
+  "title": "Unforgiven",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/LE%20SSERAFIM%20Unforgiven",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/unforgiven/1682502020?i=1682502472",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=WdiSosDz4ss",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-05-01",
+  "album": "UNFORGIVEN",
+  "artwork": "/images/releases/le-sserafim-song-unforgiven.jpg"
+ }
+]

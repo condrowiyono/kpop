@@ -1,0 +1,388 @@
+[
+ {
+  "id": "song-bad-desire",
+  "title": "Bad Desire",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Bad%20Desire",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bad-desire-with-or-without-you/1814718475?i=1814718649",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=2VB-Dz80JDQ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-06-05",
+  "album": "DESIRE : UNLEASH",
+  "artwork": "/images/releases/enhypen-song-bad-desire.jpg"
+ },
+ {
+  "id": "song-bite-me",
+  "title": "Bite Me",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Bite%20Me",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bite-me/1687303688?i=1687303943",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=4q3Et_jVrw0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-05-22",
+  "album": "DARK BLOOD",
+  "artwork": "/images/releases/enhypen-song-bite-me.jpg"
+ },
+ {
+  "id": "song-blessed-cursed",
+  "title": "Blessed-Cursed",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Blessed-Cursed",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blessed-cursed/1600819216?i=1600819427",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ENHYPEN%20Blessed-Cursed",
+    "verified": false
+   }
+  },
+  "releaseDate": "2022-01-10",
+  "album": "DIMENSION : ANSWER",
+  "artwork": "/images/releases/enhypen-song-blessed-cursed.jpg"
+ },
+ {
+  "id": "song-bloody-paradise",
+  "title": "Bloody Paradise",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Bloody%20Paradise",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/bloody-paradise/6780548049?i=6780548391",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=YJhEsDa2o8w",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-08-21",
+  "album": "THE SIN : BLISS",
+  "artwork": "/images/releases/enhypen-song-bloody-paradise.jpg"
+ },
+ {
+  "id": "album-border-carnival",
+  "title": "Border: Carnival",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Border%3A%20Carnival",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/border-carnival-ep/1563302028",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_dr3MTYBuLQJ",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-04-26",
+  "artwork": "/images/releases/enhypen-album-border-carnival.jpg"
+ },
+ {
+  "id": "album-border-day-one",
+  "title": "Border: Day One",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Border%3A%20Day%20One",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/border-day-one-ep/1541011619",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_OfxLlE6OoOv",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-11-30",
+  "artwork": "/images/releases/enhypen-album-border-day-one.jpg"
+ },
+ {
+  "id": "album-dark-blood",
+  "title": "Dark Blood",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Dark%20Blood",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dark-blood-ep/1687303688",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ENHYPEN%20Dark%20Blood",
+    "verified": false
+   }
+  },
+  "releaseDate": "2023-05-22",
+  "artwork": "/images/releases/enhypen-album-dark-blood.jpg"
+ },
+ {
+  "id": "album-desire-unleash",
+  "title": "Desire: Unleash",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/desire-unleash/1814718475",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ENHYPEN%20Desire%3A%20Unleash",
+    "verified": false
+   }
+  },
+  "releaseDate": "2025-06-05",
+  "artwork": "/images/releases/enhypen-album-desire-unleash.jpg"
+ },
+ {
+  "id": "album-dimension-dilemma",
+  "title": "Dimension: Dilemma",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Dimension%3A%20Dilemma",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/dimension-dilemma/1587989646",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_SUr2mZcBvno",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-10-12",
+  "artwork": "/images/releases/enhypen-album-dimension-dilemma.jpg"
+ },
+ {
+  "id": "song-drunk-dazed",
+  "title": "Drunk-Dazed",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Drunk-Dazed",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/drunk-dazed/1563302028?i=1563302034",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=RErMj3s3Cis",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-04-26",
+  "album": "BORDER : CARNIVAL",
+  "artwork": "/images/releases/enhypen-song-drunk-dazed.jpg"
+ },
+ {
+  "id": "song-future-perfect",
+  "title": "Future Perfect",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Future%20Perfect",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=ENHYPEN%20Future%20Perfect",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ENHYPEN%20Future%20Perfect",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-future-perfect-pass-the-mic",
+  "title": "Future Perfect (Pass the MIC)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Future%20Perfect%20(Pass%20the%20MIC)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/future-perfect-pass-the-mic/1629708852?i=1629709047",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=I4yPQGSgNxk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-04",
+  "album": "MANIFESTO : DAY 1",
+  "artwork": "/images/releases/enhypen-song-future-perfect-pass-the-mic.jpg"
+ },
+ {
+  "id": "song-knife",
+  "title": "Knife",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Knife",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/knife/1862719340?i=1862719347",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ENHYPEN%20Knife",
+    "verified": false
+   }
+  },
+  "releaseDate": "2026-01-16",
+  "album": "THE SIN : VANISH (English Ver.)",
+  "artwork": "/images/releases/enhypen-song-knife.jpg"
+ },
+ {
+  "id": "album-manifesto-day-1",
+  "title": "Manifesto: Day 1",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Manifesto%3A%20Day%201",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/manifesto-day-1-ep/1629708852",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_uF9TWQg0yOP",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-04",
+  "artwork": "/images/releases/enhypen-album-manifesto-day-1.jpg"
+ },
+ {
+  "id": "album-romance-untold",
+  "title": "Romance: Untold",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Romance%3A%20Untold",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/romance-untold/1752178854",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_bQtliHPpqC9",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-12",
+  "artwork": "/images/releases/enhypen-album-romance-untold.jpg"
+ },
+ {
+  "id": "song-sweet-venom",
+  "title": "Sweet Venom",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Sweet%20Venom",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/sweet-venom/1716547988?i=1716547994",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=HfGGAJckK14",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-11-17",
+  "album": "ORANGE BLOOD",
+  "artwork": "/images/releases/enhypen-song-sweet-venom.jpg"
+ },
+ {
+  "id": "song-tamed-dashed",
+  "title": "Tamed-Dashed",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20Tamed-Dashed",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/tamed-dashed/1587989646?i=1587989648",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=gEzBf6l2pG4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-10-12",
+  "album": "DIMENSION : DILEMMA",
+  "artwork": "/images/releases/enhypen-song-tamed-dashed.jpg"
+ },
+ {
+  "id": "song-xo-only-if-you-say-yes",
+  "title": "XO (Only If You Say Yes)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ENHYPEN%20XO%20(Only%20If%20You%20Say%20Yes)",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/xo-only-if-you-say-yes/1752178854?i=1752178865",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=cxXHr9tf04M",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-07-12",
+  "album": "ROMANCE : UNTOLD",
+  "artwork": "/images/releases/enhypen-song-xo-only-if-you-say-yes.jpg"
+ }
+]

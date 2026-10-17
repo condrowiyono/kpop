@@ -1,0 +1,345 @@
+[
+ {
+  "id": "song-armageddon",
+  "title": "Armageddon",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/armageddon/1773694541?i=1773694547",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=BfI89YxNzVY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-27",
+  "album": "Armageddon - The 1st Album",
+  "artwork": "/images/releases/aespa-song-armageddon.jpg"
+ },
+ {
+  "id": "song-better-things",
+  "title": "Better Things",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20Better%20Things",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/better-things/1699294565?i=1699294567",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=wwGRYpAoY78",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-08-18",
+  "album": "Better Things",
+  "artwork": "/images/releases/aespa-song-better-things.jpg"
+ },
+ {
+  "id": "song-black-mamba",
+  "title": "Black Mamba",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/3syEYrKIsgxaZMB5t1dVG7",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/black-mamba/1540251303?i=1540251305",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=BL-aIpCLWnU",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-11-17",
+  "album": "Black Mamba",
+  "artwork": "/images/releases/aespa-song-black-mamba.jpg"
+ },
+ {
+  "id": "song-dirty-work",
+  "title": "Dirty Work",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/3i2w6O98pzUUmqRJavWF6f",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=aespa%20Dirty%20Work",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=w8P-BIQU1qI",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "song-drama",
+  "title": "Drama",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20Drama",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/drama/1715939930?i=1715939931",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=S3Z6N7U7f6I",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-11-10",
+  "album": "Drama - The 4th Mini Album",
+  "artwork": "/images/releases/aespa-song-drama.jpg"
+ },
+ {
+  "id": "song-girls",
+  "title": "Girls",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20Girls",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/girls/1626752981?i=1626752985",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=MBbqqWqLPlI",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-07-08",
+  "album": "Girls - The 2nd Mini Album (Apple Music Edition)",
+  "artwork": "/images/releases/aespa-song-girls.jpg"
+ },
+ {
+  "id": "song-lemonade",
+  "title": "Lemonade",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/4NMJt97p0KujNuQsLcC7Ut",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lemonade/1893742002?i=1893742010",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=LBhcqYqeu0U",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-05-28",
+  "album": "LEMONADE - The 2nd Album",
+  "artwork": "/images/releases/aespa-song-lemonade.jpg"
+ },
+ {
+  "id": "album-my-world",
+  "title": "My World",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20My%20World",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=aespa%20My%20World",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=aespa%20My%20World",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-next-level",
+  "title": "Next Level",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20Next%20Level",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=tkzYyEp4zB4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-05-17",
+  "album": "Next Level",
+  "artwork": "/images/releases/aespa-song-next-level.jpg"
+ },
+ {
+  "id": "song-rich-man",
+  "title": "Rich Man",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/rich-man/1833163982?i=1833163983",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=WAQ5_7YFAVo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-09-05",
+  "album": "Rich Man - The 6th Mini Album",
+  "artwork": "/images/releases/aespa-song-rich-man.jpg"
+ },
+ {
+  "id": "song-savage",
+  "title": "Savage",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20Savage",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/savage/1595925412?i=1595925414",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=REmUidcJt5I",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-10-05",
+  "album": "Savage - The 1st Mini Album (Extended Version)",
+  "artwork": "/images/releases/aespa-song-savage.jpg"
+ },
+ {
+  "id": "song-spicy",
+  "title": "Spicy",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/aespa%20Spicy",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/spicy/1707236186?i=1707236276",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=xUV9pcwhY0U",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-05-08",
+  "album": "iScreaM Vol.26 : Spicy Remix",
+  "artwork": "/images/releases/aespa-song-spicy.jpg"
+ },
+ {
+  "id": "song-supernova",
+  "title": "Supernova",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/supernova/1773694541?i=1773694544",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=G8YNFjruzPk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-13",
+  "album": "Armageddon - The 1st Album",
+  "artwork": "/images/releases/aespa-song-supernova.jpg"
+ },
+ {
+  "id": "song-up-karina-solo",
+  "title": "Up (Karina solo)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/up-karina-solo/1772223474?i=1772223475",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=U1_0Vc-9mNw",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-10-09",
+  "album": "SYNK : PARALLEL LINE - Special Digital Single",
+  "artwork": "/images/releases/aespa-song-up-karina-solo.jpg"
+ },
+ {
+  "id": "song-wda-whole-different-animal",
+  "title": "WDA (Whole Different Animal)",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/5U91cIDMrNEdsDBavYuQQh",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=aespa%20WDA%20(Whole%20Different%20Animal)",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=ZAsxW7bkK-A",
+    "verified": true
+   }
+  }
+ },
+ {
+  "id": "song-whiplash",
+  "title": "Whiplash",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/whiplash/1772214980?i=1772214981",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=7Jan-2W-IdY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-10-21",
+  "album": "Whiplash - The 5th Mini Album",
+  "artwork": "/images/releases/aespa-song-whiplash.jpg"
+ }
+]

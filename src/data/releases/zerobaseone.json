@@ -1,0 +1,259 @@
+[
+ {
+  "id": "song-blue",
+  "title": "Blue",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Blue",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blue/1795372994?i=1795372996",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=rIwfJzW7FB8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-02-24",
+  "album": "BLUE PARADISE",
+  "artwork": "/images/releases/zerobaseone-song-blue.jpg"
+ },
+ {
+  "id": "album-blue-paradise",
+  "title": "Blue Paradise",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Blue%20Paradise",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/blue-paradise-ep/1795372994",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_OXOBF59zD6V",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-02-24",
+  "artwork": "/images/releases/zerobaseone-album-blue-paradise.jpg"
+ },
+ {
+  "id": "album-cinema-paradise",
+  "title": "Cinema Paradise",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Cinema%20Paradise",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/cinema-paradise/1762581100",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_A1ZGc5HRNiG",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-08-26",
+  "artwork": "/images/releases/zerobaseone-album-cinema-paradise.jpg"
+ },
+ {
+  "id": "song-feel-the-pop",
+  "title": "Feel the Pop",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Feel%20the%20Pop",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/feel-the-pop/1744311935?i=1744311947",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=mC4KpT8h4HE",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-13",
+  "album": "You had me at HELLO",
+  "artwork": "/images/releases/zerobaseone-song-feel-the-pop.jpg"
+ },
+ {
+  "id": "song-good-so-bad",
+  "title": "Good So Bad",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Good%20So%20Bad",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/good-so-bad/1762581100?i=1762581259",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=JPamwxZfP6Y",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-08-26",
+  "album": "CINEMA PARADISE",
+  "artwork": "/images/releases/zerobaseone-song-good-so-bad.jpg"
+ },
+ {
+  "id": "song-iconik",
+  "title": "Iconik",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Iconik",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/iconik/1826911165?i=1826911166",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=Bnqic7M7O2U",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-09-01",
+  "album": "NEVER SAY NEVER",
+  "artwork": "/images/releases/zerobaseone-song-iconik.jpg"
+ },
+ {
+  "id": "album-idol-1n2d",
+  "title": "Idol 1N2D",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Idol%201N2D",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/search?term=ZEROBASEONE%20Idol%201N2D",
+    "verified": false
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/search?q=ZEROBASEONE%20Idol%201N2D",
+    "verified": false
+   }
+  }
+ },
+ {
+  "id": "song-in-bloom",
+  "title": "In Bloom",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20In%20Bloom",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/in-bloom/1694484106?i=1694484118",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=AO6BlpKi3G0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-10",
+  "album": "YOUTH IN THE SHADE",
+  "artwork": "/images/releases/zerobaseone-song-in-bloom.jpg"
+ },
+ {
+  "id": "song-sweat",
+  "title": "Sweat",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Sweat",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/sweat/1741273766?i=1741273773",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=tMT2lQI0jPo",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-04-24",
+  "album": "SWEAT",
+  "artwork": "/images/releases/zerobaseone-song-sweat.jpg"
+ },
+ {
+  "id": "song-top-5",
+  "title": "Top 5",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20Top%205",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/top-5/1895352038?i=6763514903",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=dv2WcgaqG78",
+    "verified": true
+   }
+  },
+  "releaseDate": "2026-05-18",
+  "album": "Ascend-",
+  "artwork": "/images/releases/zerobaseone-song-top-5.jpg"
+ },
+ {
+  "id": "album-you-had-me-at-hello",
+  "title": "You Had Me at Hello",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/ZEROBASEONE%20You%20Had%20Me%20at%20Hello",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/you-had-me-at-hello/1744311935",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_E5bMsmIhS5c",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-05-13",
+  "artwork": "/images/releases/zerobaseone-album-you-had-me-at-hello.jpg"
+ },
+ {
+  "id": "album-youth-in-the-shade",
+  "title": "Youth in the Shade",
+  "type": "album",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX",
+    "verified": true
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/youth-in-the-shade-ep/1694484106",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/browse/MPREb_BDhff9KRjNq",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-07-10",
+  "artwork": "/images/releases/zerobaseone-album-youth-in-the-shade.jpg"
+ }
+]

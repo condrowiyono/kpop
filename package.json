@@ -1,26 +1,41 @@
 {
-  "name": "app",
+  "name": "kpop-awards",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "npx serve out",
+    "lint": "eslint",
+    "prebuild": "npm run data:validate",
+    "data:scrape": "tsx scripts/scrape-music-shows.ts && tsx scripts/scrape-ceremonies.ts",
+    "data:build": "tsx scripts/build-data.ts",
+    "data:groups": "tsx scripts/fetch-groups.ts && tsx scripts/make-thumbs.ts",
+    "data:releases": "tsx scripts/fetch-releases.ts && tsx scripts/make-thumbs.ts",
+    "data:validate": "tsx scripts/validate-data.ts",
+    "data:refresh": "npm run data:scrape && npm run data:build && npm run data:groups && npm run data:releases && npm run data:og && npm run data:validate",
+    "data:og": "tsx scripts/make-og.tsx"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.59.0",
     "next": "16.4.2",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "server-only": "^0.0.1",
+    "simple-icons": "^16.35.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cheerio": "^1.2.0",
     "eslint": "^9",
     "eslint-config-next": "16.4.2",
     "tailwindcss": "^4",
+    "tsx": "^4.23.15",
     "typescript": "^5"
   }
 }

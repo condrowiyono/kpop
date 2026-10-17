@@ -1,0 +1,305 @@
+[
+ {
+  "id": "kbs-ent-2025-digital-content-award-idol-1n2d",
+  "year": 2025,
+  "ceremonyId": "kbs-ent",
+  "category": "Digital Content Award",
+  "tier": "category",
+  "work": "Idol 1N2D",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl",
+  "releaseId": "album-idol-1n2d"
+ },
+ {
+  "id": "hanteo-2024-whosfandom-award-female",
+  "year": 2024,
+  "ceremonyId": "hanteo",
+  "category": "WhosFandom Award – Female",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "the-show-2023-08-01",
+  "year": 2023,
+  "date": "2023-08-01",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Summer Comes",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2023)",
+  "releaseId": "song-summer-comes"
+ },
+ {
+  "id": "brand-loyalty-2022-best-female-group",
+  "year": 2022,
+  "ceremonyId": "brand-loyalty",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "broadcast-ad-2022-excellence-award",
+  "year": 2022,
+  "ceremonyId": "broadcast-ad",
+  "category": "Excellence Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "circle-2022-hot-performance-of-the-year",
+  "year": 2022,
+  "ceremonyId": "circle",
+  "category": "Hot Performance of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "gda-2022-digital-song-bonsang-dun-dun-dance",
+  "year": 2022,
+  "ceremonyId": "gda",
+  "category": "Digital Song Bonsang",
+  "tier": "bonsang",
+  "work": "Dun Dun Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl",
+  "releaseId": "song-dun-dun-dance"
+ },
+ {
+  "id": "kwda-2022-k-global-heart-dream-bonsang",
+  "year": 2022,
+  "ceremonyId": "kwda",
+  "category": "K-Global Heart Dream Bonsang",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "kwda-2022-k-global-best-performance-award",
+  "year": 2022,
+  "ceremonyId": "kwda",
+  "category": "K-Global Best Performance Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "sma-2022-bonsang-award",
+  "year": 2022,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "the-show-2022-04-05",
+  "year": 2022,
+  "date": "2022-04-05",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Real Love",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2022)",
+  "releaseId": "song-real-love"
+ },
+ {
+  "id": "brand-loyalty-2021-best-female-group",
+  "year": 2021,
+  "ceremonyId": "brand-loyalty",
+  "category": "Best Female Group",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "brand-of-the-year-2021-female-idol-of-the-year",
+  "year": 2021,
+  "ceremonyId": "brand-of-the-year",
+  "category": "Female Idol of the Year",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "circle-2021-song-of-the-year-april-nonstop",
+  "year": 2021,
+  "ceremonyId": "circle",
+  "category": "Song of the Year – April",
+  "tier": "category",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "gda-2021-digital-bonsang-nonstop",
+  "year": 2021,
+  "ceremonyId": "gda",
+  "category": "Digital Bonsang",
+  "tier": "bonsang",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "sma-2021-bonsang-award",
+  "year": 2021,
+  "ceremonyId": "sma",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "tma-2021-artist-of-the-year-bonsang",
+  "year": 2021,
+  "ceremonyId": "tma",
+  "category": "Artist of the Year (Bonsang)",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "show-champion-2021-05-26",
+  "year": 2021,
+  "date": "2021-05-26",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dun Dun Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show_Champion_Chart_winners_(2021)",
+  "releaseId": "song-dun-dun-dance"
+ },
+ {
+  "id": "the-show-2021-05-25",
+  "year": 2021,
+  "date": "2021-05-25",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dun Dun Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-dun-dun-dance"
+ },
+ {
+  "id": "the-show-2021-05-18",
+  "year": 2021,
+  "date": "2021-05-18",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Dun Dun Dance",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_The_Show_Chart_winners_(2021)",
+  "releaseId": "song-dun-dun-dance"
+ },
+ {
+  "id": "dongacom-pick-2020-totally-fluttering-award",
+  "year": 2020,
+  "ceremonyId": "dongacom-pick",
+  "category": "Totally Fluttering Award",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "korea-first-brand-2020-female-idol",
+  "year": 2020,
+  "ceremonyId": "korea-first-brand",
+  "category": "Female Idol",
+  "tier": "category",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "mma-2020-top-10-artist",
+  "year": 2020,
+  "ceremonyId": "mma",
+  "category": "Top 10 Artist",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "soribada-2020-bonsang-award",
+  "year": 2020,
+  "ceremonyId": "soribada",
+  "category": "Bonsang Award",
+  "tier": "bonsang",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Oh_My_Girl"
+ },
+ {
+  "id": "music-bank-2020-05-15",
+  "year": 2020,
+  "date": "2020-05-15",
+  "ceremonyId": "music-bank",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Music_Bank_Chart_winners_(2020)",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "m-countdown-2020-05-14",
+  "year": 2020,
+  "date": "2020-05-14",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "the-show-2020-05-12",
+  "year": 2020,
+  "date": "2020-05-12",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "inkigayo-2020-05-10",
+  "year": 2020,
+  "date": "2020-05-10",
+  "ceremonyId": "inkigayo",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Inkigayo_Chart_winners_(2020)",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "music-core-2020-05-09",
+  "year": 2020,
+  "date": "2020-05-09",
+  "ceremonyId": "music-core",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Show!_Music_Core_Chart_winners_(2020)",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "m-countdown-2020-05-07",
+  "year": 2020,
+  "date": "2020-05-07",
+  "ceremonyId": "m-countdown",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_M_Countdown_Chart_winners_(2020)",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "show-champion-2020-05-06",
+  "year": 2020,
+  "date": "2020-05-06",
+  "ceremonyId": "show-champion",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Show_Champion",
+  "releaseId": "song-nonstop"
+ },
+ {
+  "id": "the-show-2020-05-05",
+  "year": 2020,
+  "date": "2020-05-05",
+  "ceremonyId": "the-show",
+  "category": "Music show win",
+  "tier": "music-show",
+  "work": "Nonstop",
+  "sourceUrl": "https://en.wikipedia.org/wiki/The_Show_(South_Korean_TV_program)",
+  "releaseId": "song-nonstop"
+ }
+]

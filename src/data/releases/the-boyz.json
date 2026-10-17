@@ -1,0 +1,222 @@
+[
+ {
+  "id": "song-lip-gloss",
+  "title": "Lip Gloss",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Lip%20Gloss",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/lip-gloss/1700632625?i=1700632626",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=l4p8_it9wv0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-08-07",
+  "album": "THE BOYZ 2ND ALBUM [PHANTASY] Pt. 1 Christmas In August",
+  "artwork": "/images/releases/the-boyz-song-lip-gloss.jpg"
+ },
+ {
+  "id": "song-maverick",
+  "title": "Maverick",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Maverick",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/maverick/1592216369?i=1592216370",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=LwDP-yHVtE8",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-11-01",
+  "album": "THE BOYZ 3RD SINGLE ALBUM [MAVERICK]",
+  "artwork": "/images/releases/the-boyz-song-maverick.jpg"
+ },
+ {
+  "id": "song-nectar",
+  "title": "Nectar",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Nectar",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/nectar/1735258833?i=1735258834",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=9MlsWnHy3Zk",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-03-18",
+  "album": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.3 Love Letter",
+  "artwork": "/images/releases/the-boyz-song-nectar.jpg"
+ },
+ {
+  "id": "song-roar",
+  "title": "Roar",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Roar",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/roar/1671747355?i=1671747357",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=h3oDa3mRVKY",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-02-20",
+  "album": "THE BOYZ 8th MINI ALBUM [BE AWAKE]",
+  "artwork": "/images/releases/the-boyz-song-roar.jpg"
+ },
+ {
+  "id": "song-stylish",
+  "title": "Stylish",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Stylish",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/stylish/1828596000?i=1828596003",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=jrc6_0oG_ls",
+    "verified": true
+   }
+  },
+  "releaseDate": "2025-07-28",
+  "album": "THE BOYZ The 10th Mini Album (a;eﬀect)",
+  "artwork": "/images/releases/the-boyz-song-stylish.jpg"
+ },
+ {
+  "id": "song-the-stealer",
+  "title": "The Stealer",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20The%20Stealer",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/the-stealer/1532013225?i=1532013227",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=xFfG_J-Thv0",
+    "verified": true
+   }
+  },
+  "releaseDate": "2020-09-21",
+  "album": "THE BOYZ 5th MINI ALBUM [CHASE]",
+  "artwork": "/images/releases/the-boyz-song-the-stealer.jpg"
+ },
+ {
+  "id": "song-thrill-ride",
+  "title": "Thrill Ride",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Thrill%20Ride",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/thrill-ride/1579843208?i=1579843211",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=LhBbCNaXOpc",
+    "verified": true
+   }
+  },
+  "releaseDate": "2021-08-09",
+  "album": "THE BOYZ 6TH MINI ALBUM [THRILL-ING]",
+  "artwork": "/images/releases/the-boyz-song-thrill-ride.jpg"
+ },
+ {
+  "id": "song-trigger",
+  "title": "Trigger",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Trigger",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/trigger/1775158756?i=1775158942",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=azNgN-Alj7M",
+    "verified": true
+   }
+  },
+  "releaseDate": "2024-10-28",
+  "album": "THE BOYZ 9th MINI ALBUM [導火線 (TRIGGER)]",
+  "artwork": "/images/releases/the-boyz-song-trigger.jpg"
+ },
+ {
+  "id": "song-watch-it",
+  "title": "Watch It",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Watch%20It",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/watch-it/1716515768?i=1716515771",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=v19XsG9bJVg",
+    "verified": true
+   }
+  },
+  "releaseDate": "2023-11-20",
+  "album": "THE BOYZ 2ND ALBUM [PHANTASY] Pt. 2 Sixth Sense",
+  "artwork": "/images/releases/the-boyz-song-watch-it.jpg"
+ },
+ {
+  "id": "song-whisper",
+  "title": "Whisper",
+  "type": "song",
+  "links": {
+   "spotify": {
+    "url": "https://open.spotify.com/search/THE%20BOYZ%20Whisper",
+    "verified": false
+   },
+   "appleMusic": {
+    "url": "https://music.apple.com/us/album/whisper/1639285554?i=1639285555",
+    "verified": true
+   },
+   "youtubeMusic": {
+    "url": "https://music.youtube.com/watch?v=eN140_uIo-4",
+    "verified": true
+   }
+  },
+  "releaseDate": "2022-08-16",
+  "album": "THE BOYZ 7TH MINI ALBUM [BE AWARE]",
+  "artwork": "/images/releases/the-boyz-song-whisper.jpg"
+ }
+]
